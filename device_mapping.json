@@ -1,5 +1,5 @@
 {
-    "INPUT":{
+    "input":{
         "TS-453Bmini":null,
         "TS-X53B":[
             {
@@ -65,7 +65,7 @@
             }
         ]
     },
-    "OUTPUT":{
+    "output":{
         "TS-453Bmini":[
             {
                 "type":"hdmi",
