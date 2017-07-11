@@ -1,17 +1,17 @@
-### Requirements
+### 1. Requirements
 ---
 OceanKTV v2 requires:
 - INTEL or AMD based NAS
 - QTS 4.2.x/4.3.x
 - HD Station 3.0.0 or higher. 
 
-### Installation
+### 2. Installation
 ---
 ###### Location
 //172.17.25.252/daily_build/Solution_Team/OceanKTV/v2/
 
 
-### Known issues and limitations
+### 3. Known issues and limitations
 ---
 
 - [#102696, #102713, #102722](http://172.17.25.222/bugzilla/show_bug.cgi?id=102696) Limited mouse support in TV app because TV app was optimized for QNAP remote controller.
