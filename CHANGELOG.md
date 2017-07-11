@@ -33,8 +33,16 @@ OceanKTV v2 requires:
 ### v2.0.8 release notes
 
 #### Previous Version In App Center
----
 v1.421.4 / v.1.430.4 (20170313)
+
+#### Fixes
+
+##### Web
+- [#106047](http://172.17.25.222/bugzilla/show_bug.cgi?id=106047) UI crash in setting menu.
+- Fix 1st&2nd column freeze in import preview table.
+
+##### TV
+- [#106104](http://172.17.25.222/bugzilla/show_bug.cgi?id=106104) Invalid flow in screen calibration.
 
 
 
@@ -43,7 +51,7 @@ v1.421.4 / v.1.430.4 (20170313)
 ### v2.0.7 release notes
 
 #### Fixes
----
+
 
 ##### Web
 - remind user when TV app being disabled.
@@ -60,7 +68,6 @@ v1.421.4 / v.1.430.4 (20170313)
 ### v2.0.6 release notes
 
 #### Features
----
 
 - User can import songs from any folder (USB disk included), no need to rename lots of files from now on.
 - User can maintain Karaoke songs' Metabase in a straightforward process.
@@ -68,7 +75,6 @@ v1.421.4 / v.1.430.4 (20170313)
 - Support transparent Metabase migration, migration may need several minutes according to the song count.
 
 #### Enhancements
----
 
 ###### Server
 - Enhance the stability.
@@ -86,8 +92,6 @@ v1.421.4 / v.1.430.4 (20170313)
 
 
 #### Fixes
----
-
 
 ###### Server
 - [#102436](http://172.17.25.222/bugzilla/show_bug.cgi?id=102436) disable OceanKTV app in App Center shall also disable TV app.
