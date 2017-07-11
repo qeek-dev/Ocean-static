@@ -1,6 +1,6 @@
 ### Requirements
 ---
-OceanKTV v2.0.6 requires:
+OceanKTV v2 requires:
 - INTEL or AMD based NAS
 - QTS 4.2.x/4.3.x
 - HD Station 3.0.0 or higher. 
@@ -9,12 +9,7 @@ OceanKTV v2.0.6 requires:
 ---
 ###### Location
 //172.17.25.252/daily_build/Solution_Team/OceanKTV/v2/
-###### For INTEL based NAS
-- poseidon-release-221.1487-2.0.6.42-intel.qpkg (QTS 4.2.x)
-- poseidon-release-221.1487-2.0.6.43-intel.qpkg (QTS 4.3.x)
-###### For AMD based NAS
-- poseidon-release-221.1487-2.0.6.42-omx.qpkg (QTS 4.2.x)
-- poseidon-release-221.1487-2.0.6.43-omx.qpkg (QTS 4.3.x)
+
 
 ### Known issues and limitations
 ---
@@ -34,15 +29,35 @@ OceanKTV v2.0.6 requires:
 
 
 ---
----
----
 
-
-### v2.0.6 release notes
+### v2.0.8 release notes
 
 #### Previous Version In App Center
 ---
 v1.421.4 / v.1.430.4 (20170313)
+
+
+
+---
+
+### v2.0.7 release notes
+
+#### Fixes
+---
+
+##### Web
+- remind user when TV app being disabled.
+- improve the QTS login checking.
+
+##### TV
+- add debug tool.
+- [#105945, #105946] fix paging in singertypes and langs
+- will hide singertypes if no songs inside its singers
+
+
+---
+
+### v2.0.6 release notes
 
 #### Features
 ---
