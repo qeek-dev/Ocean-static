@@ -23,7 +23,7 @@ OceanKTV v2 requires:
 - The transcode function does not support files with Dolby/DTS audio encoding (including AC3).
 - Not compatiable with old Mobile apps (iOS: v2.1.1, Android: v2.1.0.3).
 
-### v2.0.8 release notes
+### v2.0.8
 ---
 
 #### Previous Version In App Center
@@ -38,7 +38,7 @@ v1.421.4 / v.1.430.4 (20170313)
 ##### TV
 - [#106104](http://172.17.25.222/bugzilla/show_bug.cgi?id=106104) Invalid flow in screen calibration.
 
-### v2.0.7 release notes
+### v2.0.7
 ---
 
 #### Fixes
@@ -52,7 +52,7 @@ v1.421.4 / v.1.430.4 (20170313)
 - [#105945, #105946] fix paging in singertypes and langs
 - will hide singertypes if no songs inside its singers
 
-### v2.0.6 release notes
+### v2.0.6
 ---
 
 #### Features
