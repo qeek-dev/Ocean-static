@@ -18,7 +18,7 @@ OceanKTV v2 requires:
 - [#104495](http://172.17.25.222/bugzilla/show_bug.cgi?id=104495) No app description in HD Station app list.
 - [#103060](http://172.17.25.222/bugzilla/show_bug.cgi?id=103060) The i18n need to be improved in some countries.
 - [#94041](http://172.17.25.222/bugzilla/show_bug.cgi?id=94041) An alert "cannot connect to remote server" may appear sometimes when launching TV app.
-- Mic interface in some USB sound cards cannot be detected due to current kernel's limitation.
+- Mic interface in some USB sound devices cannot be detected due to current kernel's limitation.
 - Web app only supports IE 11, Chrome/Firefox/Safari is no problem.
 - The transcode function does not support files with Dolby/DTS audio encoding (including AC3).
 - **Not compatiable with OceanV1 Mobile apps (iOS: v2.1.1, Android: v2.1.0.3).
