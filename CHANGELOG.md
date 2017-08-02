@@ -33,11 +33,11 @@ v2.0.8.42 / v2.0.8.43 (20170731)
 
 ##### Server
 - search api now give a full song object and supports pinyin & zhuyin.
+- #107503, support .mov/.m4v videos.
 
 #### Fixes
 
 ##### Server
-- support .mov/.m4v videos.
 - `GET /songs/id/streams` fail when the path contains special characters.
 
 ##### TV
@@ -53,7 +53,7 @@ v1.421.4 / v.1.430.4 (20170313)
 
 ##### Web
 - [#106047](http://172.17.25.222/bugzilla/show_bug.cgi?id=106047) UI crash in setting menu.
-- Fix 1st&2nd column freeze in import preview table.
+- 1st&2nd column freeze in import preview table.
 
 ##### TV
 - [#106104](http://172.17.25.222/bugzilla/show_bug.cgi?id=106104) Invalid flow in screen calibration.
