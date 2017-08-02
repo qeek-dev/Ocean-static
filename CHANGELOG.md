@@ -32,7 +32,7 @@ v2.0.8.42 / v2.0.8.43 (20170731)
 #### Enhancement
 
 ##### Server
-- search api now give a full song object and supports pinyin & zhuyin.
+- search api now give full song object and supports pinyin & zhuyin.
 - #107503, support .mov/.m4v videos.
 
 ##### TV
