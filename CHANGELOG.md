@@ -37,6 +37,7 @@ v2.0.8.42 / v2.0.8.43 (20170731)
 
 ##### TV
 - prompt user an readable message when cannot preview/play videos.
+- prompt user when mobile app is not ready.
 
 #### Fixes
 
