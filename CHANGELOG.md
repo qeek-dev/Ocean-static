@@ -35,13 +35,13 @@ v2.0.8.42 / v2.0.8.43 (20170731)
 - search api now give a full song object and supports pinyin & zhuyin.
 - #107503, support .mov/.m4v videos.
 
+##### TV
+- prompt user an readable message when cannot preview/play videos.
+
 #### Fixes
 
 ##### Server
 - `GET /songs/id/streams` fail when the path contains special characters.
-
-##### TV
-- prompt user an readable message when video contians unsupported codecs (e.g. DTS/AC3).
 
 ### v2.0.8
 ---
