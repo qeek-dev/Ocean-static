@@ -1,12 +1,12 @@
 {
     "iOS":{
         "url":"https://itunes.apple.com/tw/app/oceanktv/id1063631924?l=zh&mt=8",
-        "re_pattern":"<span itemprop="softwareVersion">(.*?)</span>",
+        "re_pattern":"<span itemprop=\"softwareVersion\">(.*?)</span>",
         "version":"2.1.1"
     },
     "Andriod":{
         "url":"https://play.google.com/store/apps/details?id=com.qnap.mobile.oceanktv",
-        "re_pattern":"<div class="content" itemprop="softwareVersion">(.*?)</div>",
+        "re_pattern":"<div class=\"content\" itemprop=\"softwareVersion\">(.*?)</div>",
         "version":"2.1.0.3.df698d9"
     }
 }
