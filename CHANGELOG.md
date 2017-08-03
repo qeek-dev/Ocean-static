@@ -21,6 +21,7 @@ OceanKTV v2 requires:
 - Mic interface in some USB sound devices cannot be detected due to current kernel's limitation.
 - Web app only supports IE 11, Chrome/Firefox/Safari is no problem.
 - The transcode function does not support files with Dolby/DTS audio encoding (including AC3).
+- **Request songs by folder is not supported.**
 - **Not compatiable with OceanV1 Mobile apps (iOS: v2.1.1, Android: v2.1.0.3).**
 
 ### v2.0.9
