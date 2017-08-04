@@ -43,7 +43,8 @@ v2.0.8.42 / v2.0.8.43 (20170731)
 #### Fixes
 
 ##### Server
-- `GET /songs/id/streams` fail when the path contains special characters.
+- Get song stream fail when the path contains special characters.
+- data loss when migrate v1_songbook.
 
 ### v2.0.8
 ---
