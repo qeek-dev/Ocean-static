@@ -52,6 +52,8 @@ v2.0.8.42 / v2.0.8.43 (20170731)
 - prompt user an readable message when cannot preview/play videos.
 - prompt user when mobile app is not ready.
 - optimize the interaction when using remote controller in Player stage.
+  - (ok) -> Menu
+  - (up/down/right/left) -> Control bar
 
 #### Fixes
 
