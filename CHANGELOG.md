@@ -24,6 +24,18 @@ OceanKTV v2 requires:
 - **Request songs by folder is not supported.**
 - **Not compatiable with OceanV1 Mobile apps (iOS: v2.1.1, Android: v2.1.0.3).**
 
+### v2.0.10
+---
+
+#### Fixes
+
+##### Server
+- some v1 songbooks cannot migration to v2.
+
+##### Web
+- Import: Cannot click "next" when contains 'default' value in metadata config.
+
+
 ### v2.0.9
 ---
 
@@ -45,7 +57,6 @@ v2.0.8.42 / v2.0.8.43 (20170731)
 
 ##### Server
 - Get song stream fail when the path contains special characters.
-- data loss when migrate v1_songbook.
 
 ### v2.0.8
 ---
