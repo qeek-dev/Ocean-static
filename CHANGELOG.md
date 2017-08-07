@@ -31,10 +31,10 @@ OceanKTV v2 requires:
 
 ##### Server
 - some v1's songbooks cannot migration to v2's playlist.
+- songs in v1's songbook won't migrated if that songs did not have singer info.
 
 ##### Web
 - Import: Cannot click "next" when contains 'default' value in metadata config.
-
 
 ### v2.0.9
 ---
