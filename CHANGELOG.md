@@ -30,7 +30,7 @@ OceanKTV v2 requires:
 #### Fixes
 
 ##### Server
-- some v1 songbooks cannot migration to v2.
+- some v1's songbooks cannot migration to v2's playlist.
 
 ##### Web
 - Import: Cannot click "next" when contains 'default' value in metadata config.
