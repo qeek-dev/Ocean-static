@@ -47,6 +47,7 @@ v2.0.8.42 / v2.0.8.43 (20170731)
 ##### Server
 - search api now give full song object and supports pinyin & zhuyin.
 - #107503, support .mov/.m4v videos.
+- make version number pattern consistency, will not contains ".42" or ".43" anymore.
 
 ##### TV
 - prompt user an readable message when cannot preview/play videos.
