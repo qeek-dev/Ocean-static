@@ -37,29 +37,21 @@ OceanKTV v2 requires:
 
 ### v2.0.9
 ---
-#### Previous Version In App Center
-v2.0.8.42 / v2.0.8.43 (20170731)
-#### Fixes
 ##### Server
-- Get song stream fail when the path contains special characters.
-#### Enhancement
-##### Server
-- search api now give full song object and supports pinyin & zhuyin.
-- #107503, support .mov/.m4v videos.
-- make version number pattern consistency, will not contains ".42" or ".43" anymore.
+- `Fix` Get song stream fail when the path contains special characters.
+- `Enhancement` search api now give full song object and supports pinyin & zhuyin.
+- `Enhancement` #107503, support .mov/.m4v videos.
+- `Enhancement` make version number pattern consistency, will not contains ".42" or ".43" anymore.
 ##### TV
-- prompt user an readable message when cannot preview/play videos.
-- prompt user when mobile app is not ready.
-- optimize the interaction when using remote controller during song-play stage.
+- `Enhancement` prompt user an readable message when cannot preview/play videos.
+- `Enhancement` prompt user when mobile app is not ready.
+- `Enhancement` optimize the interaction when using remote controller during song-play stage.
   - (ok) -> Menu
   - (up/down/right/left) -> Control bar
   
 
-### v2.0.8
+### v2.0.8 (Current Version in App Center)
 ---
-
-#### Previous Version In App Center
-v1.421.4 / v.1.430.4 (20170313)
 
 #### Fixes
 
