@@ -34,6 +34,7 @@ OceanKTV v2 requires:
 - `Fix` Import: Cannot click "next" when user select the 'default' value in metadata config.
 - `Enhancement` click area in icon-based list submenu, also add hover highlight.
 - `Enhancement` reload list when click menu item (playlist & cloud playlist).
+- `Enhancement` add "Delete" feature in every song-list page.
 
 ### v2.0.9
 ---
