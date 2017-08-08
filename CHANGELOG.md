@@ -24,42 +24,39 @@ OceanKTV v2 requires:
 - **Request songs by folder is not supported.**
 - **Not compatiable with current OceanV1 Mobile apps (that is: iOS: v2.1.1, Android: v2.1.0.3).**
 
+
 ### v2.0.10
 ---
-
 #### Fixes
-
 ##### Server
 - some v1's songbooks cannot migration to v2's playlist.
 - some songs in v1's songbook won't be migrated if that songs did not have singer info.
-
 ##### Web
 - Import: Cannot click "next" when contains 'default' value in metadata config.
+#### Enhancement
+##### Web
+- UI/UX.
+
 
 ### v2.0.9
 ---
-
 #### Previous Version In App Center
 v2.0.8.42 / v2.0.8.43 (20170731)
-
+#### Fixes
+##### Server
+- Get song stream fail when the path contains special characters.
 #### Enhancement
-
 ##### Server
 - search api now give full song object and supports pinyin & zhuyin.
 - #107503, support .mov/.m4v videos.
 - make version number pattern consistency, will not contains ".42" or ".43" anymore.
-
 ##### TV
 - prompt user an readable message when cannot preview/play videos.
 - prompt user when mobile app is not ready.
 - optimize the interaction when using remote controller during song-play stage.
   - (ok) -> Menu
   - (up/down/right/left) -> Control bar
-
-#### Fixes
-
-##### Server
-- Get song stream fail when the path contains special characters.
+  
 
 ### v2.0.8
 ---
