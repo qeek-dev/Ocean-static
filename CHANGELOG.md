@@ -27,16 +27,13 @@ OceanKTV v2 requires:
 
 ### v2.0.10
 ---
-#### Fixes
 ##### Server
-- some v1's songbooks cannot migration to v2's playlist.
-- some songs in v1's songbook won't be migrated if that songs did not have singer info.
+- `Fix` some v1's songbooks cannot migration to v2's playlist.
+- `Fix` some songs in v1's songbook won't be migrated if that songs did not have singer info.
 ##### Web
-- Import: Cannot click "next" when contains 'default' value in metadata config.
-#### Enhancement
-##### Web
-- click area in icon-based list submenu, also add hover highlight.
-- reload list when click menu item (playlist & cloud playlist).
+- `Fix` Import: Cannot click "next" when contains 'default' value in metadata config.
+- `Enhancement` click area in icon-based list submenu, also add hover highlight.
+- `Enhancement` reload list when click menu item (playlist & cloud playlist).
 
 ### v2.0.9
 ---
