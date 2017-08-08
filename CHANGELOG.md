@@ -35,8 +35,8 @@ OceanKTV v2 requires:
 - Import: Cannot click "next" when contains 'default' value in metadata config.
 #### Enhancement
 ##### Web
-- UI/UX.
-
+- click area in icon-based list submenu, also add hover highlight.
+- reload list when click menu item (playlist & cloud playlist).
 
 ### v2.0.9
 ---
