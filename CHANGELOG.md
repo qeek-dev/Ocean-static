@@ -22,7 +22,7 @@ OceanKTV v2 requires:
 - Web app only supports IE 11, Chrome/Firefox/Safari is no problem.
 - The transcode function does not support files with Dolby/DTS audio encoding (including AC3).
 - **Request songs by folder is not supported.**
-- **Not compatiable with current OceanV1 Mobile apps (that is: iOS: v2.1.1, Android: v2.1.0.3).**
+- **Not compatiable with current OceanV1 mobile apps, OceanV2 mobile app is coming soon.**
 
 
 ### v2.0.10
