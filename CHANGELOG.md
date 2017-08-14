@@ -37,6 +37,8 @@ OceanKTV v2 requires:
 - `Enhancement` add hover highlight on the submenu in the icon-based list pages.
 - `Enhancement` reload list when click menu item (playlist & cloud playlist).
 - `Enhancement` add "Delete" feature in every song-list page.
+- `Enhancement` Ocean search in singing mode.
+
 
 ### v2.0.9
 ---
