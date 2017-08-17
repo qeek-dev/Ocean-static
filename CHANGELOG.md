@@ -32,6 +32,7 @@ OceanKTV v2 requires:
 - `Fix` some songs in v1's songbook won't be migrated if that songs did not have singer info.
 - `Fix` cannot store KTV database when meet special volumn spec.
 - `Enhancement` make song sorting more friendly.
+- `Enhancement` restore user setting after reinstalling QPKG.
 ##### Web
 - `Fix` Import: Cannot click "next" when user select the 'default' value in metadata config.
 - `Enhancement` add hover highlight on the submenu in the icon-based list pages.
