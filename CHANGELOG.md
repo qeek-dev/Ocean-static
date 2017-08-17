@@ -40,6 +40,8 @@ OceanKTV v2 requires:
 - `Enhancement` add "Delete" feature in every song-list page.
 - `Enhancement` ocean search in singing mode.
 - `Feature` add "manual migration" if user need to re-migrate.
+##### TV
+- `Enhancement` autoplay on/off as an option.
 
 
 ### v2.0.9
