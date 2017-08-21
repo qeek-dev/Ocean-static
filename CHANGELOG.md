@@ -35,6 +35,7 @@ OceanKTV v2 requires:
 - `Enhancement` restore user setting after reinstalling QPKG.
 ##### Web
 - `Fix` Import: Cannot click "next" when user select the 'default' value in metadata config.
+- `Fix` Import: Cannot select sub folders when folder name contains special chars.
 - `Enhancement` add hover highlight on the submenu in the icon-based list pages.
 - `Enhancement` reload list when click menu item (playlist & cloud playlist).
 - `Enhancement` add "Delete" feature in every song-list page.
