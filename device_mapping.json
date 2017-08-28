@@ -1,6 +1,26 @@
 {
     "input":{
         "TS-453Bmini":null,
+        "TS-1277":[
+            {
+                "type":"analog",
+                "hw_value":"hw:1,0",
+                "display":"Built-in Microphone Input",
+                "selected":false,
+                "connected":false,
+                "eld_path":null
+            }
+        ],
+        "TS-1685":[
+            {
+                "type":"analog",
+                "hw_value":"hw:1,0",
+                "display":"Built-in Microphone Input",
+                "selected":false,
+                "connected":false,
+                "eld_path":null
+            }
+        ],
         "TS-X53B":[
             {
                 "type":"analog",
@@ -74,6 +94,16 @@
                 "display":null,
                 "selected":false,
                 "connected":false
+            }
+        ],
+        "TS-1277":[
+            {
+                "type":"analog",
+                "hw_value":"hw:1,0",
+                "display":"Audio Line Out / Speaker",
+                "selected":false,
+                "connected":false,
+                "eld_path":null
             }
         ],
         "TS-X53B":[
