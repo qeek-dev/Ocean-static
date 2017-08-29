@@ -28,22 +28,22 @@ OceanKTV v2 requires:
 ### v2.0.10
 ---
 ##### Server
-- `Fix` some v1's songbooks cannot migration to v2's playlist.
+- `Fix` [Bug 108101] some v1's songbooks cannot migration to v2's playlist.
 - `Fix` some songs in v1's songbook cannot migrate to v2's playlist, if that songs did not have singer info.
-- `Fix` cannot store KTV database when meet special volumn spec.
+- `Fix` [Bug 108379] cannot store KTV database when meet special volumn spec.
 - `Enhancement` make song sorting more friendly.
 - `Enhancement` restore user setting after reinstalling QPKG.
 ##### Web
 - `Fix` Import: Cannot click "next" when user select the 'default' value in metadata config.
 - `Fix` Import: Cannot select sub folders when folder name contains special chars.
-- `Enhancement` add hover highlight on the submenu in the icon-based list pages.
+- `Enhancement` [Bug 108103] add hover highlight on the submenu in the icon-based list pages.
 - `Enhancement` reload list when click menu item (playlist & cloud playlist).
 - `Enhancement` add "Delete" feature in every song-list page.
 - `Enhancement` ocean search in singing mode.
 - `Feature` add "manual migration" if user need to re-migrate.
 ##### TV
 - `Enhancement` autoplay on/off as an option.
-- `Enhancement` Add video calibration in setting ([Mantis#23300]).
+- `Enhancement` [Mantis#23300] Add video calibration in setting.
 
 
 ### v2.0.9
