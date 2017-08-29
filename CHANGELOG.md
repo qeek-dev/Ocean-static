@@ -43,7 +43,7 @@ OceanKTV v2 requires:
 - `Feature` add "manual migration" if user need to re-migrate.
 ##### TV
 - `Enhancement` autoplay on/off as an option.
-- `Enhancement` Add video calibration in setting.
+- `Enhancement` Add video calibration in setting ([Mantis#23300]).
 
 
 ### v2.0.9
