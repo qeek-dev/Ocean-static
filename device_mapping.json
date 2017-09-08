@@ -96,16 +96,6 @@
                 "eld_path":null
             }
         ],
-        "TS-1685":[
-            {
-                "type":"analog",
-                "hw_value":"hw:1,0",
-                "display":"Audio Line Out / Speaker",
-                "selected":false,
-                "connected":false,
-                "eld_path":null
-            }
-        ],
         "TS-X53B":[
             {
                 "type":"hdmi",
