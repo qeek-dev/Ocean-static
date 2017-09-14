@@ -30,7 +30,7 @@ OceanKTV v2 requires:
 ##### Server
 - `Fix` [Bug 108101] some v1's songbooks cannot migration to v2's playlist.
 - `Fix` some songs in v1's songbook cannot migrate to v2's playlist, if that songs did not have singer info.
-- `Fix` [Bug 108379] cannot store KTV database when meet special volumn spec.
+- `Fix` [Bug 108379] cannot store KTV database when meet special volume spec.
 - `Enhancement` make song sorting more friendly.
 - `Enhancement` restore user setting after reinstalling QPKG.
 ##### Web
