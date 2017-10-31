@@ -3,7 +3,7 @@
 OceanKTV v2 requires:
 - INTEL or AMD based NAS
 - QTS 4.2.x/4.3.x
-- HD Station 3.0.0 or higher. 
+- HD Station 3.0.0 or higher.
 
 ### 2. Installation
 ---
@@ -33,6 +33,16 @@ OceanKTV v2 requires:
 - `Fix` Import: Cannot click "next" when user select the 'default' value in metadata config.
 ##### TV
 - `Fix` cannot navigate song list when in specific "artist type".
+
+
+
+### v2.0.11
+---
+##### Server
+- `Fix` HD Station current directory issue
+- `Fix` video stream ffprobe validate
+- `Enhancement` support eGPU for AMD and INTEL
+- `Enhancement` can select the volumn to migration the OceanKTV app
 
 
 
@@ -70,7 +80,7 @@ OceanKTV v2 requires:
 - `Enhancement` optimize the interaction when using remote controller during song-play stage.
   - (ok) -> Menu
   - (up/down/right/left) -> Control bar
-  
+
 
 ### v2.0.8 (Current Version in App Center)
 ---
