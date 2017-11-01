@@ -39,10 +39,10 @@ OceanKTV v2 requires:
 ### v2.0.11
 ---
 ##### Server
-- `Fix` HD Station current directory issue
-- `Fix` video stream ffprobe validate
-- `Enhancement` support eGPU for AMD and INTEL
-- `Enhancement` can select the volumn to migration the OceanKTV app
+- `Fix` Some of the mpg videos that can not be played.
+- `Enhancement` Support for external graphics cards.
+- `Feature` Support HD Station version 3.2.
+- `Feature` Can select the data volumn to migration the OceanKTV app.
 
 
 
