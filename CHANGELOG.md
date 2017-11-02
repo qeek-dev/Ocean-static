@@ -41,7 +41,7 @@ OceanKTV v2 requires:
 ##### Server
 - `Fix` Some of the mpg videos that can not be played.
 - `Enhancement` Support for external graphics cards.
-- `Feature` Support HD Station version 3.2.
+- `Feature` Support HD Station version 3.2.0.
 - `Feature` Can select the data volumn to migration the OceanKTV app.
 
 
