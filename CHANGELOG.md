@@ -39,10 +39,10 @@ OceanKTV v2 requires:
 ### v2.0.11
 ---
 ##### Server
-- `Fix` Some of the mpg videos that can not be played.
-- `Enhancement` Support for external graphics cards.
-- `Feature` Support HD Station version 3.2.0.
-- `Feature` Can select the data volumn to migration the OceanKTV app.
+- `Fix` [Bug [114081](http://172.17.25.222/bugzilla/show_bug.cgi?id=114081)] OceanKTV 在升上HD Station 3.2.0後無法正常使用
+- `Fix` [Bug [114366](http://172.17.25.222/bugzilla/show_bug.cgi?id=114366)] 早期轉檔軟體產出的部分檔案無法撥放
+- `Feature` [Spec [13795](http://spec.qnap.com.tw/issues/13795)] 支援外接顯卡
+- `Feature` [Spec [14042](http://spec.qnap.com.tw/issues/14042)] 於 App Center 安裝 OceanKTV 時，能選擇安裝到哪個磁碟區(Volume)
 
 
 
