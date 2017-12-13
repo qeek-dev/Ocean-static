@@ -45,6 +45,7 @@
             }
         ],
         "TS-X71":null,
+        "TS-X80":null,
         "TS-X82":[
             {
                 "type":"analog",
@@ -193,6 +194,32 @@
                 "type":"hdmi",
                 "hw_value":"hw:0,3",
                 "eld_path":"/proc/asound/MID/eld#0.0",
+                "display":null,
+                "selected":false,
+                "connected":false
+            }
+        ],
+        "TS-X80":[
+            {
+                "type":"hdmi",
+                "hw_value":"hw:0,3",
+                "eld_path":"/proc/asound/MID/eld#0.0",
+                "display":null,
+                "selected":false,
+                "connected":false
+            },
+            {
+                "type":"hdmi",
+                "hw_value":"hw:0,7",
+                "eld_path":"/proc/asound/MID/eld#0.1",
+                "display":null,
+                "selected":false,
+                "connected":false
+            },
+            {
+                "type":"hdmi",
+                "hw_value":"hw:0,8",
+                "eld_path":"/proc/asound/MID/eld#0.2",
                 "display":null,
                 "selected":false,
                 "connected":false
