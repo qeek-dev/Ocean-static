@@ -203,23 +203,7 @@
             {
                 "type":"hdmi",
                 "hw_value":"hw:0,3",
-                "eld_path":"/proc/asound/MID/eld#0.0",
-                "display":null,
-                "selected":false,
-                "connected":false
-            },
-            {
-                "type":"hdmi",
-                "hw_value":"hw:0,7",
                 "eld_path":"/proc/asound/MID/eld#0.1",
-                "display":null,
-                "selected":false,
-                "connected":false
-            },
-            {
-                "type":"hdmi",
-                "hw_value":"hw:0,8",
-                "eld_path":"/proc/asound/MID/eld#0.2",
                 "display":null,
                 "selected":false,
                 "connected":false
