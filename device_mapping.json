@@ -202,8 +202,8 @@
         "TS-X80":[
             {
                 "type":"hdmi",
-                "hw_value":"hw:0,3",
-                "eld_path":"/proc/asound/MID/eld#0.1",
+                "hw_value":"hw:0,7",
+                "eld_path":"/proc/asound/HDMI/eld#0.1",
                 "display":null,
                 "selected":false,
                 "connected":false
