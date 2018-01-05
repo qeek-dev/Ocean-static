@@ -35,6 +35,12 @@ OceanKTV v2 requires:
 - `Fix` cannot navigate song list when in specific "artist type".
 
 
+### v2.0.12
+---
+##### Server
+- `Fix` [Bug [118800](http://172.17.25.222/bugzilla/show_bug.cgi?id=118800)] 雲端服務無法存取是會導致KTV無法啟動
+- `Fix` [Bug [114366](http://172.17.25.222/bugzilla/show_bug.cgi?id=114366)] 早期轉檔軟體產出的部分檔案無法撥放
+
 
 ### v2.0.11
 ---
