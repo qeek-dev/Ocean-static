@@ -25,7 +25,7 @@ OceanKTV v2 requires:
 - **Not compatiable with current OceanV1 mobile apps, OceanV2 mobile app is coming soon.**
 
 
-### v2.1.0
+### v2.1.0 (in dev)
 ---
 ##### Server
 - `Fix` [Bug 108101] some v1's songbooks cannot migration to v2's playlist.
