@@ -40,6 +40,7 @@ OceanKTV v2 requires:
 ##### Server
 - `Fix` [Bug [118800](http://172.17.25.222/bugzilla/show_bug.cgi?id=118800)] 雲端服務無法存取是會導致KTV無法啟動
 - `Fix` [Bug [114366](http://172.17.25.222/bugzilla/show_bug.cgi?id=114366)] 早期轉檔軟體產出的部分檔案無法撥放
+- `Fix` [Bug [114157](http://172.17.25.222/bugzilla/show_bug.cgi?id=114157)] 錯誤的 conf 導致 ktv 無法啟動
 
 
 ### v2.0.11
