@@ -42,8 +42,8 @@ OceanKTV v2 requires:
 - `Feature` [尚未開 issue]() 過場時間優化
 
 ##### 尚未修正:
-[Bug [118961](http://172.17.25.222/bugzilla/show_bug.cgi?id=118961)] KTV song 放在其他volume(跟系統不在同一個)，import後沒法正常撥放
-[Bug [120309](http://172.17.25.222/bugzilla/show_bug.cgi?id=120309)] QTS 4.3.4 KTV player使用中disable KTV console，會造成 KTV player無法正常關閉
+- [Bug [118961](http://172.17.25.222/bugzilla/show_bug.cgi?id=118961)] KTV song 放在其他volume(跟系統不在同一個)，import後沒法正常撥放
+- [Bug [120309](http://172.17.25.222/bugzilla/show_bug.cgi?id=120309)] QTS 4.3.4 KTV player使用中disable KTV console，會造成 KTV player無法正常關閉
 
 
 ### v2.0.12
