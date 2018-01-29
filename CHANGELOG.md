@@ -35,6 +35,17 @@ OceanKTV v2 requires:
 - `Fix` cannot navigate song list when in specific "artist type".
 
 
+### v2.0.13
+---
+##### TV
+- `Fix` [Bug [120362](http://172.17.25.222/bugzilla/show_bug.cgi?id=120362)] 當 share folder 用中文命名時， 底下的歌曲會無法正常撥放
+- `Feature` [尚未開 issue]() 過場時間優化
+
+###### 尚未修正:
+[Bug [118961](http://172.17.25.222/bugzilla/show_bug.cgi?id=118961)] KTV song 放在其他volume(跟系統不在同一個)，import後沒法正常撥放
+[Bug [120309](http://172.17.25.222/bugzilla/show_bug.cgi?id=120309)] QTS 4.3.4 KTV player使用中disable KTV console，會造成 KTV player無法正常關閉
+
+
 ### v2.0.12
 ---
 ##### Server
