@@ -38,13 +38,12 @@ OceanKTV v2 requires:
 ### v2.0.13
 ---
 ##### TV
-- `Fix` [Bug [120362](http://172.17.25.222/bugzilla/show_bug.cgi?id=120362)] 當 share folder 用中文命名時，底下的歌曲會無法正常撥放
 - `Fix` [Bug [120309](http://172.17.25.222/bugzilla/show_bug.cgi?id=120309)] QTS 4.3.4 KTV player 使用中 disable KTV console，會造成 KTV player 無法正常關閉
-- `Feature` [尚未開 issue]() 過場時間優化
-- `Feature` [尚未開 issue]() 新增設定，可啟動全螢幕延展模式播放影片
-
-##### 尚未修正:
-- [Bug [118961](http://172.17.25.222/bugzilla/show_bug.cgi?id=118961)] KTV song 放在其他 volume(跟系統不在同一個)，import 後沒法正常撥放
+- `Feature` [spec [15625](http://spec.qnap.com.tw/issues/15625)] 過場時間優化
+- `Feature` [spec [15627](http://spec.qnap.com.tw/issues/15627)] 新增可啟動全螢幕延展模式播放影片的功能
+##### Server
+- `Fix` [Bug [120362](http://172.17.25.222/bugzilla/show_bug.cgi?id=120362)] 當 share folder 用中文命名時，底下的歌曲會無法正常撥放
+- `Fix` [Bug [120986](http://172.17.25.222/bugzilla/show_bug.cgi?id=120986)] 修正 OceanKTV 權限問題
 
 
 ### v2.0.12
