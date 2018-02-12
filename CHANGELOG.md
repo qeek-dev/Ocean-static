@@ -39,11 +39,12 @@ OceanKTV v2 requires:
 ---
 ##### TV
 - `Fix` [Bug [120309](http://172.17.25.222/bugzilla/show_bug.cgi?id=120309)] QTS 4.3.4 KTV player 使用中 disable KTV console，會造成 KTV player 無法正常關閉
+- `Fix` [Bug [120988](http://172.17.25.222/bugzilla/show_bug.cgi?id=120988)] 修正 KTV player 關閉後產生的錯誤
 - `Feature` [spec [15625](http://spec.qnap.com.tw/issues/15625)] 過場時間優化
 - `Feature` [spec [15627](http://spec.qnap.com.tw/issues/15627)] 新增可啟動全螢幕延展模式播放影片的功能
 ##### Server
 - `Fix` [Bug [120362](http://172.17.25.222/bugzilla/show_bug.cgi?id=120362)] 當 share folder 用中文命名時，底下的歌曲會無法正常撥放
-- `Fix` [Bug [120986](http://172.17.25.222/bugzilla/show_bug.cgi?id=120986), [120988](http://172.17.25.222/bugzilla/show_bug.cgi?id=120988)] 修正 OceanKTV 權限問題
+- `Fix` [Bug [120986](http://172.17.25.222/bugzilla/show_bug.cgi?id=120986)] 修正 OceanKTV 權限問題
 
 
 ### v2.0.12
