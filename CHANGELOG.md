@@ -45,6 +45,7 @@ OceanKTV v2 requires:
 ##### Server
 - `Fix` [Bug [120362](http://172.17.25.222/bugzilla/show_bug.cgi?id=120362)] 當 share folder 用中文命名時，底下的歌曲會無法正常撥放
 - `Fix` [Bug [120986](http://172.17.25.222/bugzilla/show_bug.cgi?id=120986)] 修正 OceanKTV 權限問題
+- `Fix` [Bug [122144](http://172.17.25.222/bugzilla/show_bug.cgi?id=122144)] 修正導唱切換問題
 
 
 ### v2.0.12
