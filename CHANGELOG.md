@@ -35,6 +35,12 @@ OceanKTV v2 requires:
 - `Fix` cannot navigate song list when in specific "artist type".
 
 
+### v2.0.14
+---
+##### Server
+- `Feature` [Spec [16119](http://spec.qnap.com.tw/issues/16119)] revision google analytics
+
+
 ### v2.0.13
 ---
 ##### TV
