@@ -31,6 +31,8 @@ OceanKTV v2 requires:
 - `Fix` [Bug [117231](http://172.17.25.222/bugzilla/show_bug.cgi?id=117231)] 修正移除 HD Station 後會有 KTVstation 的 APP 殘留在 APPcenter
 - `Fix` [Bug [118715](http://172.17.25.222/bugzilla/show_bug.cgi?id=118715)] Search showing expect result
 - `Fix` [Bug [123340](http://172.17.25.222/bugzilla/show_bug.cgi?id=123340)] 插拔 USB 音效卡設定行為異常
+
+##### Web
 - `Feature` [Spec [13991](http://spec.qnap.com.tw/issues/13991)] 新增收尋歌曲與依資料夾點歌功能
 - `Feature` [Spec [14137](http://spec.qnap.com.tw/issues/14137)] 支援 CSV 檔案匯入歌曲
 - `Feature` [Spec [14812](http://spec.qnap.com.tw/issues/14812)] 歌手頁面顯示歌手照片
