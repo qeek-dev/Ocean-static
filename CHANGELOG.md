@@ -34,7 +34,6 @@ OceanKTV v2 requires:
 
 ##### Web
 - `Feature` [Spec [13991](http://spec.qnap.com.tw/issues/13991)] 新增收尋歌曲與依資料夾點歌功能
-- `Feature` [Spec [14137](http://spec.qnap.com.tw/issues/14137)] 支援 CSV 檔案匯入歌曲
 - `Feature` [Spec [14812](http://spec.qnap.com.tw/issues/14812)] 歌手頁面顯示歌手照片
 
 
