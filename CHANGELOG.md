@@ -25,6 +25,15 @@ OceanKTV v2 requires:
 - **Not compatiable with current OceanV1 mobile apps, OceanV2 mobile app is coming soon.**
 
 
+### v2.1.1
+---
+##### Server
+- `Feature` [Spec [15722](http://spec.qnap.com.tw/issues/15722)] OceanKTV system log 導入至 Notification Center
+
+##### Web
+- `Fix` [Bug [129696](http://172.17.25.222/bugzilla/show_bug.cgi?id=129696)] 透過分享連結新增Youtube播放清單的功能失效
+
+
 ### v2.1.0
 ---
 ##### Server
