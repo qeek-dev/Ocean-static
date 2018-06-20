@@ -25,6 +25,12 @@ OceanKTV v2 requires:
 - **Not compatiable with current OceanV1 mobile apps, OceanV2 mobile app is coming soon.**
 
 
+### v2.1.1
+---
+##### Server
+- `Feature` [Spec [15722](http://spec.qnap.com.tw/issues/15722)] OceanKTV system log 導入至 Notification Center
+
+
 ### v2.1.0
 ---
 ##### Server
