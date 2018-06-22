@@ -1,527 +1,677 @@
 [
-  {
-    "created_at": "2017-05-05T09:04:55.581Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "wqnaLMkM550",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Dear Mama",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/wqnaLMkM550/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/wqnaLMkM550/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/wqnaLMkM550/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "HvJJdyDYex8",
+        "song_title": "Boo'd Up",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HvJJdyDYex8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HvJJdyDYex8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HvJJdyDYex8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Ella Mai",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "Download MP3: http://www.karaoke-version.com/mp3-backingtrack/2pac/dear-mama.html Sing Online: http://www.karafun.com/karaoke/2pac/dear-mama/ * This ...",
-    "id": 17399,
-    "updated_at": "2017-05-05T09:04:55.581Z",
-    "vocal": "S",
-    "artist": "2Pac",
-    "tag": "高清歌曲,外國歌曲",
-    "title": "Karaoke Dear Mama - 2Pac *"
-  },
-  {
-    "created_at": "2017-05-05T09:04:55.835Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "Dj-0Cnx5K5c",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Mama",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/Dj-0Cnx5K5c/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/Dj-0Cnx5K5c/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/Dj-0Cnx5K5c/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "eo_uVzPuaEA",
+        "song_title": "Freaky Friday",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/eo_uVzPuaEA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/eo_uVzPuaEA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/eo_uVzPuaEA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Lil Dicky Featuring Chris Brown",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "I originally uploaded this video in 2010 under my original acct Latinavixn However I've been finding all of my videos stolen & uploaded by a bunch of fake accts ...",
-    "id": 17400,
-    "updated_at": "2017-05-05T09:04:55.835Z",
-    "vocal": "S",
-    "artist": "The-Dream",
-    "tag": "高清歌曲",
-    "title": "Mama (with lyrics), The Dream [HD]"
-  },
-  {
-    "created_at": "2017-05-05T09:04:56.028Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "XMDf0thbWaQ",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "The Perfect Fan",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/XMDf0thbWaQ/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/XMDf0thbWaQ/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/XMDf0thbWaQ/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "m4nRYzqmWZI",
+        "song_title": "Pray For Me",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/m4nRYzqmWZI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/m4nRYzqmWZI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/m4nRYzqmWZI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "The Weeknd & Kendrick Lamar",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "",
-    "id": 17401,
-    "updated_at": "2017-05-05T09:04:56.028Z",
-    "vocal": "S",
-    "artist": "The Backstreet Boys",
-    "tag": "高清歌曲",
-    "title": "The Perfect Fan lyrics"
-  },
-  {
-    "created_at": "2017-05-05T09:04:56.212Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "G1iC6Be-ARY",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Look What You've Done",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/G1iC6Be-ARY/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/G1iC6Be-ARY/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/G1iC6Be-ARY/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "CIgaHnu-kd0",
+        "song_title": "Call Out My Name",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/CIgaHnu-kd0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/CIgaHnu-kd0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/CIgaHnu-kd0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "The Weeknd",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "Drake - Look What Youve Done Lyrics [Video]. For all your Drake news, music, videos, mixtapes, and more... Visit DRIZZYDRAKE.ORG Drake - Look What ...",
-    "id": 17402,
-    "updated_at": "2017-05-05T09:04:56.212Z",
-    "vocal": "S",
-    "artist": "Drake",
-    "tag": "高清歌曲",
-    "title": "Drake - Look What Youve Done Lyrics [Video]"
-  },
-  {
-    "created_at": "2017-05-05T09:04:56.404Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "YqPNrZfObYs",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "(God Must Have Spent) A Little More Time on You",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/YqPNrZfObYs/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/YqPNrZfObYs/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/YqPNrZfObYs/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "sAZDDXtauPw",
+        "song_title": "Ghost Town",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/sAZDDXtauPw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/sAZDDXtauPw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/sAZDDXtauPw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Kanye West Featuring PARTYNEXTDOOR",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "God Must Have Spent A Little More Time On You - N sync-- TJ Karaoke Song NO. 22028 If you want more K-Pop Karaoke? Subscribe TJ KARAOKE ...",
-    "id": 17403,
-    "updated_at": "2017-05-05T09:04:56.404Z",
-    "vocal": "N",
-    "artist": "N Sync",
-    "tag": "高清歌曲",
-    "title": "[TJ노래방] God Must Have Spent A Little More Time On You - N sync / TJ Karaoke"
-  },
-  {
-    "created_at": "2017-05-05T09:04:56.597Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "tNuj539lgps",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Motherlover",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/tNuj539lgps/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/tNuj539lgps/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/tNuj539lgps/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "jefkhbxQM-Q",
+        "song_title": "Sativa",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jefkhbxQM-Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jefkhbxQM-Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jefkhbxQM-Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Jhene Aiko Featuring Swae Lee Or Rae Sremmurd",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "Requested by anon.",
-    "id": 17404,
-    "updated_at": "2017-05-05T09:04:56.597Z",
-    "vocal": "S",
-    "artist": "Lonely Island,Justin Timberlake",
-    "tag": "高清歌曲",
-    "title": "The Lonely Island - Motherlover lyrics"
-  },
-  {
-    "created_at": "2017-05-05T09:04:57.044Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "aiJ1e2JnVpA",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Mother",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/aiJ1e2JnVpA/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/aiJ1e2JnVpA/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/aiJ1e2JnVpA/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "xmL9lTERdMM",
+        "song_title": "Rich & Sad",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xmL9lTERdMM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xmL9lTERdMM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xmL9lTERdMM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Post Malone",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "Suscribe if you want to! Of course you never need to.",
-    "id": 17406,
-    "updated_at": "2017-05-05T09:04:57.044Z",
-    "vocal": "S",
-    "artist": "Danzig",
-    "tag": "高清歌曲",
-    "title": "Danzig-Mother (Lyrics)"
-  },
-  {
-    "created_at": "2017-05-05T09:04:57.276Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "ji0WV7dcoh0",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Hey Mama",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/ji0WV7dcoh0/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/ji0WV7dcoh0/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/ji0WV7dcoh0/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "6MbMIsxag_Q",
+        "song_title": "Medicine",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/6MbMIsxag_Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/6MbMIsxag_Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/6MbMIsxag_Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Queen Naija",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "R.I.P Donda West With Funeral Programs... Pictures Og Programs- http://community.livejournal.com/ohnotheydidnt/18088089.html Dedicated To All The ...",
-    "id": 17407,
-    "updated_at": "2017-05-05T09:04:57.276Z",
-    "vocal": "S",
-    "artist": "Kanye West",
-    "tag": "外國歌曲",
-    "title": "KanYe West- Hey Mamma [On Screen Lyrics]"
-  },
-  {
-    "created_at": "2017-05-05T09:04:57.466Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "xQc1GXiVHSI",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Mama I'm Coming Home",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/xQc1GXiVHSI/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/xQc1GXiVHSI/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/xQc1GXiVHSI/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "69iaffpgU0U",
+        "song_title": "Spoil My Night",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/69iaffpgU0U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/69iaffpgU0U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/69iaffpgU0U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Post Malone Featuring Swae Lee",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "Download MP3: http://www.karaoke-version.com/mp3-backingtrack/ozzy-osbourne/mama-i-m-coming-home.html Sing Online: ...",
-    "id": 17408,
-    "updated_at": "2017-05-05T09:04:57.466Z",
-    "vocal": "S",
-    "artist": "Ozzy Osbourne",
-    "tag": "高清歌曲,外國歌曲",
-    "title": "Karaoke Mama, I'm Coming Home - Ozzy Osbourne *"
-  },
-  {
-    "created_at": "2017-05-05T09:04:57.672Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "0PTQEZYXmG0",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Mother's Little Helper",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/0PTQEZYXmG0/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/0PTQEZYXmG0/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/0PTQEZYXmG0/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "qfmxYHMWjwQ",
+        "song_title": "Changes",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qfmxYHMWjwQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qfmxYHMWjwQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qfmxYHMWjwQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "XXXTENTACION",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "Muziek: Mother's little helper - Rolling Stones What a drag it is getting old \"Kids are different today,\" I hear ev'ry mother say Mother needs something today to ...",
-    "id": 17409,
-    "updated_at": "2017-05-05T09:04:57.672Z",
-    "vocal": "S",
-    "artist": "The Rolling Stones",
-    "tag": "高清歌曲,外國歌曲",
-    "title": "The Rolling stones - Mother's little helper - Lyrics"
-  },
-  {
-    "created_at": "2017-05-05T09:04:57.917Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "9P3QAlihqoc",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Mama",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/9P3QAlihqoc/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/9P3QAlihqoc/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/9P3QAlihqoc/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "x3ahhdkc6CM",
+        "song_title": "Ocean",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/x3ahhdkc6CM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/x3ahhdkc6CM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/x3ahhdkc6CM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "TK Kravitz Featuring Jacqueez",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "",
-    "id": 17410,
-    "updated_at": "2017-05-05T09:04:57.917Z",
-    "vocal": "S",
-    "artist": "Crystal Bowersox",
-    "tag": "高清歌曲,外國歌曲",
-    "title": "Crystal Bowersox - Mama"
-  },
-  {
-    "created_at": "2017-05-05T09:04:58.187Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "Gw_QJ8hliIc",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Mother",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/Gw_QJ8hliIc/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/Gw_QJ8hliIc/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/Gw_QJ8hliIc/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "UgzO1P6cKcU",
+        "song_title": "Come Through And Chill",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UgzO1P6cKcU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UgzO1P6cKcU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UgzO1P6cKcU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Miguel Featuring J. Cole & Salaam Remi",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "",
-    "id": 17411,
-    "updated_at": "2017-05-05T09:04:58.187Z",
-    "vocal": "S",
-    "artist": "Pink Floyd",
-    "tag": "外國歌曲",
-    "title": "Mother - Pink Floyd (Lyrics)"
-  },
-  {
-    "created_at": "2017-05-05T09:04:58.612Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "_RXDXwJLVMM",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "A Song for Mama",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/_RXDXwJLVMM/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/_RXDXwJLVMM/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/_RXDXwJLVMM/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "CFCKGAlO48g",
+        "song_title": "Focus",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/CFCKGAlO48g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/CFCKGAlO48g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/CFCKGAlO48g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "H.E.R.",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "Download MP3: http://www.karaoke-version.com/mp3-backingtrack/boyz-ii-men/a-song-for-mama.html Sing Online: ...",
-    "id": 17413,
-    "updated_at": "2017-05-05T09:04:58.612Z",
-    "vocal": "S",
-    "artist": "Boyz II Men",
-    "tag": "高清歌曲,外國歌曲",
-    "title": "Karaoke A Song For Mama - Boyz II Men *"
-  },
-  {
-    "created_at": "2017-05-05T09:04:58.814Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "hFFMup-N9WE",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Mama Liked The Roses",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/hFFMup-N9WE/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/hFFMup-N9WE/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/hFFMup-N9WE/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "8TSKNPldStk",
+        "song_title": "Best Part",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8TSKNPldStk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8TSKNPldStk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8TSKNPldStk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Daniel Caesar Featuring H.E.R.",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "Download MP3: http://www.karaoke-version.com/mp3-backingtrack/elvis-presley/mama-liked-the-roses.html Sing Online: ...",
-    "id": 17414,
-    "updated_at": "2017-05-05T09:04:58.814Z",
-    "vocal": "S",
-    "artist": "Elvis Presley",
-    "tag": "高清歌曲,外國歌曲",
-    "title": "Karaoke Mama Liked The Roses - Elvis Presley *"
-  },
-  {
-    "created_at": "2017-05-05T09:04:59.046Z",
-    "playlist_id": 55,
-    "source": "youtube",
-    "video_id": "cQCb9gdCSgA",
-    "song_id": null,
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "song_title": "Mama",
-    "thumbnails": {
-      "high": {
-        "height": 360,
-        "url": "https://i.ytimg.com/vi/cQCb9gdCSgA/hqdefault.jpg",
-        "width": 480
-      },
-      "medium": {
-        "height": 180,
-        "url": "https://i.ytimg.com/vi/cQCb9gdCSgA/mqdefault.jpg",
-        "width": 320
-      },
-      "default": {
-        "height": 90,
-        "url": "https://i.ytimg.com/vi/cQCb9gdCSgA/default.jpg",
-        "width": 120
-      }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "XMqYnGYa-JY",
+        "song_title": "Good Man",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XMqYnGYa-JY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XMqYnGYa-JY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XMqYnGYa-JY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Ne-Yo",
+        "tag": "Not given"
     },
-    "status": "1",
-    "song_lang": "E",
-    "description": "Download MP3: http://www.karaoke-version.com/mp3-backingtrack/spice-girls/viva-forever.html Sing Online: ...",
-    "id": 17415,
-    "updated_at": "2017-05-05T09:04:59.046Z",
-    "vocal": "S",
-    "artist": "The Spice Girls",
-    "tag": "高清歌曲,外國歌曲",
-    "title": "Karaoke Viva Forever - Spice Girls *"
-  }
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "nHOjzBzk62s",
+        "song_title": "Otherside",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/nHOjzBzk62s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/nHOjzBzk62s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/nHOjzBzk62s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Post Malone",
+        "tag": "Not given"
+    },
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "6Yrd61x9T48",
+        "song_title": "Long As I Live",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/6Yrd61x9T48/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/6Yrd61x9T48/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/6Yrd61x9T48/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Toni Braxton",
+        "tag": "Not given"
+    },
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "L-YpcU1yaYk",
+        "song_title": "The Light",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/L-YpcU1yaYk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/L-YpcU1yaYk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/L-YpcU1yaYk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Jeremih & Ty Dolla $ign",
+        "tag": "Not given"
+    },
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "u8eBen3puyU",
+        "song_title": "Blame It On Me",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/u8eBen3puyU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/u8eBen3puyU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/u8eBen3puyU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Post Malone",
+        "tag": "Not given"
+    },
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "duZ85VKPEp0",
+        "song_title": "This Way",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/duZ85VKPEp0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/duZ85VKPEp0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/duZ85VKPEp0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Khalid X H.E.R.",
+        "tag": "Not given"
+    },
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "0Zf9DUZglmY",
+        "song_title": "Wasted Times",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0Zf9DUZglmY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0Zf9DUZglmY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0Zf9DUZglmY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "The Weeknd",
+        "tag": "Not given"
+    },
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "iAXNGwyRYqY",
+        "song_title": "Inside",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/iAXNGwyRYqY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/iAXNGwyRYqY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/iAXNGwyRYqY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Jacquees Featuring Trey Songz",
+        "tag": "Not given"
+    },
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "VPSoNx1gyQ4",
+        "song_title": "Midsummer Madness",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/VPSoNx1gyQ4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/VPSoNx1gyQ4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/VPSoNx1gyQ4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "88rising Featuring Joji, Rich Brian, Higher Brothers & AUGUST 08",
+        "tag": "Not given"
+    },
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "FTYu4VpX3ks",
+        "song_title": "Naked",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FTYu4VpX3ks/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FTYu4VpX3ks/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FTYu4VpX3ks/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Ella Mai",
+        "tag": "Not given"
+    },
+    {
+        "playlist_id": 55,
+        "source": "youtube",
+        "video_id": "wW9Tafpt5xQ",
+        "song_title": "I Like That",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/wW9Tafpt5xQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/wW9Tafpt5xQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/wW9Tafpt5xQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "Not given",
+        "vocal": "U",
+        "artist": "Janelle Monae",
+        "tag": "Not given"
+    }
 ]
