@@ -5,12 +5,12 @@
         "region": "hk",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/61923388v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/61942437v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 66,
-        "updated_at": "2018-06-22 10:17:27",
+        "count": 88,
+        "updated_at": "2018-06-26 17:04:50",
         "fullname_localize": {
             "default": "本地熱門新歌",
             "cht": "本地熱門新歌",
@@ -24,12 +24,12 @@
         "region": "hk",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/61923374v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/61942423v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 89,
-        "updated_at": "2018-06-22 10:17:27",
+        "count": 95,
+        "updated_at": "2018-06-26 17:04:50",
         "fullname_localize": {
             "default": "華語熱門新歌",
             "cht": "華語熱門新歌",
@@ -43,12 +43,12 @@
         "region": "hk",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/61923381v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/61942430v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 100,
-        "updated_at": "2018-06-22 10:17:27",
+        "updated_at": "2018-06-26 17:04:50",
         "fullname_localize": {
             "default": "歐美熱門新歌",
             "cht": "歐美熱門新歌",
@@ -62,12 +62,12 @@
         "region": "hk",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/61923402v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/61942451v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 95,
-        "updated_at": "2018-06-22 10:17:27",
+        "count": 98,
+        "updated_at": "2018-06-26 17:04:50",
         "fullname_localize": {
             "default": "韓語熱門新歌",
             "cht": "韓語熱門新歌",
@@ -81,12 +81,12 @@
         "region": "hk",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/61923395v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/61942444v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 88,
-        "updated_at": "2018-06-22 10:17:27",
+        "count": 78,
+        "updated_at": "2018-06-26 17:04:50",
         "fullname_localize": {
             "default": "日語熱門新歌",
             "cht": "日語熱門新歌",
@@ -105,7 +105,7 @@
             }
         },
         "count": 161,
-        "updated_at": "2018-06-22 10:17:27",
+        "updated_at": "2018-06-26 17:04:50",
         "fullname_localize": {
             "default": "英美金曲榜",
             "cht": "英美金曲榜",
@@ -114,8 +114,8 @@
         }
     },
     {
-        "id": 66,
-        "fullname": "Ocean leaderboard",
+        "id": 68,
+        "fullname": "OceanKTV Hot Songs",
         "region": "hk",
         "thumbnails": {
             "default": {
@@ -123,13 +123,13 @@
                 "icon": "ic_cantonese"
             }
         },
-        "count": 49,
-        "updated_at": "2018-06-22 10:14:44",
+        "count": 50,
+        "updated_at": "2018-06-26 16:58:34",
         "fullname_localize": {
-            "default": "Ocean leaderboard",
-            "cht": "Ocean leaderboard",
-            "eng": "Ocean leaderboard",
-            "chs": "Ocean leaderboard"
+            "default": "OceanKTV Hot Songs",
+            "cht": "OceanKTV Hot Songs",
+            "eng": "OceanKTV Hot Songs",
+            "chs": "OceanKTV Hot Songs"
         }
     }
 ]

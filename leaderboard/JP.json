@@ -5,12 +5,12 @@
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/61923196v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/61942348v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 84,
-        "updated_at": "2018-06-22 10:17:27",
+        "count": 80,
+        "updated_at": "2018-06-26 17:04:50",
         "fullname_localize": {
             "default": "総合 話題の新曲",
             "cht": "総合 話題の新曲",
@@ -24,12 +24,12 @@
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/61923189v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/61942341v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 71,
-        "updated_at": "2018-06-22 10:17:27",
+        "count": 74,
+        "updated_at": "2018-06-26 17:04:50",
         "fullname_localize": {
             "default": "邦楽 話題の新曲",
             "cht": "邦楽 話題の新曲",
@@ -43,12 +43,12 @@
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/61923182v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/61942334v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 100,
-        "updated_at": "2018-06-22 10:17:27",
+        "updated_at": "2018-06-26 17:04:50",
         "fullname_localize": {
             "default": "洋楽 話題の新曲",
             "cht": "洋楽 話題の新曲",
@@ -62,12 +62,12 @@
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/61923175v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/61942327v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 94,
-        "updated_at": "2018-06-22 10:17:27",
+        "count": 95,
+        "updated_at": "2018-06-26 17:04:50",
         "fullname_localize": {
             "default": "アジア 話題の新曲",
             "cht": "アジア 話題の新曲",
@@ -86,7 +86,7 @@
             }
         },
         "count": 151,
-        "updated_at": "2018-06-22 10:17:27",
+        "updated_at": "2018-06-26 17:04:50",
         "fullname_localize": {
             "default": "UK/USヒットランキング",
             "cht": "UK/USヒットランキング",
@@ -95,8 +95,8 @@
         }
     },
     {
-        "id": 69,
-        "fullname": "Ocean leaderboard",
+        "id": 71,
+        "fullname": "OceanKTV Hot Songs",
         "region": "jp",
         "thumbnails": {
             "default": {
@@ -104,13 +104,13 @@
                 "icon": "ic_japanese"
             }
         },
-        "count": 46,
-        "updated_at": "2018-06-22 10:14:44",
+        "count": 50,
+        "updated_at": "2018-06-26 16:58:34",
         "fullname_localize": {
-            "default": "Ocean leaderboard",
-            "cht": "Ocean leaderboard",
-            "eng": "Ocean leaderboard",
-            "chs": "Ocean leaderboard"
+            "default": "OceanKTV Hot Songs",
+            "cht": "OceanKTV Hot Songs",
+            "eng": "OceanKTV Hot Songs",
+            "chs": "OceanKTV Hot Songs"
         }
     }
 ]
