@@ -1,122 +1,325 @@
 [
-  {
-    "release_date": "2016-07-15T00:00:00.000Z",
-    "fullname": "美國告示牌熱門歌曲",
-    "region": "us",
-    "thumbnails": {
-      "default": {
-        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
-        "icon": "ic_billboard"
-      }
+    {
+        "id": 51,
+        "fullname": "Billboard Hot 100",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 100,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Hot 100",
+            "cht": "Billboard Hot 100",
+            "eng": "Billboard Hot 100",
+            "chs": "Billboard Hot 100"
+        }
     },
-    "count": 186,
-    "status": "1",
-    "version": "2016",
-    "id": 4,
-    "updated_at": "2017-09-19T17:39:53.012Z",
-    "tag": "pop",
-    "fullname_localize": {
-      "chs": "美国告示牌热门歌曲",
-      "eng": "Billboard Hot Songs",
-      "default": "Billboard Hot Songs",
-      "cht": "美國告示牌熱門歌曲"
+    {
+        "id": 52,
+        "fullname": "Billboard Holiday 100",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 100,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Holiday 100",
+            "cht": "Billboard Holiday 100",
+            "eng": "Billboard Holiday 100",
+            "chs": "Billboard Holiday 100"
+        }
     },
-    "created_at": "2016-05-25T09:05:16.761Z"
-  },
-  {
-    "release_date": "2016-09-20T00:00:00.000Z",
-    "fullname": "西洋情歌",
-    "region": "us",
-    "thumbnails": {
-      "default": {
-        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
-        "icon": "ic_heart"
-      }
+    {
+        "id": 53,
+        "fullname": "Billboard POP Songs",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 40,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard POP Songs",
+            "cht": "Billboard POP Songs",
+            "eng": "Billboard POP Songs",
+            "chs": "Billboard POP Songs"
+        }
     },
-    "count": 19,
-    "status": "1",
-    "version": "2016",
-    "id": 13,
-    "updated_at": "2017-08-17T17:42:05.216Z",
-    "tag": "pop",
-    "fullname_localize": {
-      "chs": "西洋情歌",
-      "eng": "The 40 Biggest Duets Of All Time",
-      "default": "The 40 Biggest Duets Of All Time",
-      "cht": "西洋情歌"
+    {
+        "id": 54,
+        "fullname": "Billboard RAP Songs",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 25,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard RAP Songs",
+            "cht": "Billboard RAP Songs",
+            "eng": "Billboard RAP Songs",
+            "chs": "Billboard RAP Songs"
+        }
     },
-    "created_at": "2016-09-13T06:55:04.543Z"
-  },
-  {
-    "release_date": "2016-09-20T00:00:00.000Z",
-    "fullname": "西洋兒歌",
-    "region": "us",
-    "thumbnails": {
-      "default": {
-        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
-        "icon": "ic_funny_music"
-      }
+    {
+        "id": 55,
+        "fullname": "Billboard R&B Songs",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 25,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard R&B Songs",
+            "cht": "Billboard R&B Songs",
+            "eng": "Billboard R&B Songs",
+            "chs": "Billboard R&B Songs"
+        }
     },
-    "count": 74,
-    "status": "1",
-    "version": "2016",
-    "id": 14,
-    "updated_at": "2017-09-06T17:42:43.707Z",
-    "tag": "pop",
-    "fullname_localize": {
-      "chs": "西洋兒歌",
-      "eng": "iTunes Top 100 Kids Songs",
-      "default": "iTunes Top 100 Kids Songs",
-      "cht": "西洋兒歌"
+    {
+        "id": 56,
+        "fullname": "Billboard Hot R&B/HIP-HOP Songs",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 50,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Hot R&B/HIP-HOP Songs",
+            "cht": "Billboard Hot R&B/HIP-HOP Songs",
+            "eng": "Billboard Hot R&B/HIP-HOP Songs",
+            "chs": "Billboard Hot R&B/HIP-HOP Songs"
+        }
     },
-    "created_at": "2016-09-13T06:55:19.548Z"
-  },
-  {
-    "release_date": "2017-02-08T00:00:00.000Z",
-    "fullname": "西洋情歌特輯",
-    "region": "us",
-    "thumbnails": {
-      "default": {
-        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
-        "icon": "ic_heart"
-      }
+    {
+        "id": 57,
+        "fullname": "Billboard Hot Latin Songs",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 50,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Hot Latin Songs",
+            "cht": "Billboard Hot Latin Songs",
+            "eng": "Billboard Hot Latin Songs",
+            "chs": "Billboard Hot Latin Songs"
+        }
     },
-    "count": 49,
-    "status": "1",
-    "version": "2017",
-    "id": 41,
-    "updated_at": "2017-06-14T17:39:42.000Z",
-    "tag": "pop",
-    "fullname_localize": {
-      "chs": "西洋情歌特輯",
-      "eng": "Top 50 Love Songs of All Time",
-      "default": "Top 50 Love Songs of All Time",
-      "cht": "西洋情歌特輯"
+    {
+        "id": 58,
+        "fullname": "Billboard Hot Dance/Electronic Songs",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 50,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Hot Dance/Electronic Songs",
+            "cht": "Billboard Hot Dance/Electronic Songs",
+            "eng": "Billboard Hot Dance/Electronic Songs",
+            "chs": "Billboard Hot Dance/Electronic Songs"
+        }
     },
-    "created_at": "2017-02-09T02:34:43.214Z"
-  },
-  {
-    "release_date": "2017-05-05T00:00:00.000Z",
-    "fullname": "母親節西洋特輯",
-    "region": "us",
-    "thumbnails": {
-      "default": {
-        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
-        "icon": "ic_funny_music"
-      }
+    {
+        "id": 59,
+        "fullname": "Billboard Hot Country Songs",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 50,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Hot Country Songs",
+            "cht": "Billboard Hot Country Songs",
+            "eng": "Billboard Hot Country Songs",
+            "chs": "Billboard Hot Country Songs"
+        }
     },
-    "count": 15,
-    "status": "1",
-    "version": "2017",
-    "id": 55,
-    "updated_at": "2017-05-09T06:49:13.760Z",
-    "tag": "pop",
-    "fullname_localize": {
-      "chs": "母亲节西洋特辑",
-      "eng": "Songs for Mom",
-      "default": "Songs for Mom",
-      "cht": "母親節西洋特輯"
+    {
+        "id": 60,
+        "fullname": "Billboard Hot Rock Songs",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 50,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Hot Rock Songs",
+            "cht": "Billboard Hot Rock Songs",
+            "eng": "Billboard Hot Rock Songs",
+            "chs": "Billboard Hot Rock Songs"
+        }
     },
-    "created_at": "2017-05-05T09:05:12.236Z"
-  }
+    {
+        "id": 61,
+        "fullname": "Billboard Japan Hot 100",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 94,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Japan Hot 100",
+            "cht": "Billboard Japan Hot 100",
+            "eng": "Billboard Japan Hot 100",
+            "chs": "Billboard Japan Hot 100"
+        }
+    },
+    {
+        "id": 62,
+        "fullname": "Billboard Korea K-POP 100",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 100,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Korea K-POP 100",
+            "cht": "Billboard Korea K-POP 100",
+            "eng": "Billboard Korea K-POP 100",
+            "chs": "Billboard Korea K-POP 100"
+        }
+    },
+    {
+        "id": 63,
+        "fullname": "Billboard Canadian Hot 100",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 100,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Canadian Hot 100",
+            "cht": "Billboard Canadian Hot 100",
+            "eng": "Billboard Canadian Hot 100",
+            "chs": "Billboard Canadian Hot 100"
+        }
+    },
+    {
+        "id": 64,
+        "fullname": "Billboard Official U.K. Singles Chart",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 20,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Official U.K. Singles Chart",
+            "cht": "Billboard Official U.K. Singles Chart",
+            "eng": "Billboard Official U.K. Singles Chart",
+            "chs": "Billboard Official U.K. Singles Chart"
+        }
+    },
+    {
+        "id": 65,
+        "fullname": "Billboard Germany Songs",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 10,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard Germany Songs",
+            "cht": "Billboard Germany Songs",
+            "eng": "Billboard Germany Songs",
+            "chs": "Billboard Germany Songs"
+        }
+    },
+    {
+        "id": 66,
+        "fullname": "Billboard France Songs",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 10,
+        "updated_at": "2018-06-26 17:04:50",
+        "fullname_localize": {
+            "default": "Billboard France Songs",
+            "cht": "Billboard France Songs",
+            "eng": "Billboard France Songs",
+            "chs": "Billboard France Songs"
+        }
+    },
+    {
+        "id": 73,
+        "fullname": "OceanKTV Hot Songs",
+        "region": "us",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_english_songs"
+            }
+        },
+        "count": 50,
+        "updated_at": "2018-06-26 16:58:34",
+        "fullname_localize": {
+            "default": "OceanKTV Hot Songs",
+            "cht": "OceanKTV Hot Songs",
+            "eng": "OceanKTV Hot Songs",
+            "chs": "OceanKTV Hot Songs"
+        }
+    }
 ]
