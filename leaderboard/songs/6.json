@@ -515,6 +515,33 @@
     {
         "playlist_id": 6,
         "source": "youtube",
+        "video_id": "JkNLmtoMC3s",
+        "song_title": "Twice - Page Two - 1 - Cheer Up",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/JkNLmtoMC3s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/JkNLmtoMC3s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/JkNLmtoMC3s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "",
+        "tag": ""
+    },
+    {
+        "playlist_id": 6,
+        "source": "youtube",
         "video_id": "xYcT6QDQVLE",
         "song_title": "사랑비",
         "thumbnails": {

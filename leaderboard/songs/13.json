@@ -1055,6 +1055,33 @@
     {
         "playlist_id": 13,
         "source": "youtube",
+        "video_id": "igYGQuEZPkI",
+        "song_title": "勇敢向前走",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/igYGQuEZPkI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/igYGQuEZPkI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/igYGQuEZPkI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "陳隨意",
+        "tag": ""
+    },
+    {
+        "playlist_id": 13,
+        "source": "youtube",
         "video_id": "ayDvffccPF0",
         "song_title": "一生為你醉",
         "thumbnails": {
@@ -1536,6 +1563,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "張蓉蓉",
+        "tag": ""
+    },
+    {
+        "playlist_id": 13,
+        "source": "youtube",
+        "video_id": "13uO5W4pM40",
+        "song_title": "初雪",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/13uO5W4pM40/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/13uO5W4pM40/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/13uO5W4pM40/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "談詩玲",
         "tag": ""
     },
     {
