@@ -2,48 +2,399 @@
     {
         "playlist_id": 5,
         "source": "youtube",
-        "video_id": "tvTRZJ-4EyI",
-        "song_title": "Humble.",
+        "video_id": "cXECOIgY19Q",
+        "song_title": "Let It Go～ありのままで～",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/tvTRZJ-4EyI/default.jpg",
+                "url": "https://i.ytimg.com/vi/cXECOIgY19Q/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/tvTRZJ-4EyI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/cXECOIgY19Q/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/tvTRZJ-4EyI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/cXECOIgY19Q/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Kendrick Lamar",
+        "artist": "松たか子",
         "tag": ""
     },
     {
         "playlist_id": 5,
         "source": "youtube",
-        "video_id": "Jxg8hRHEKP8",
-        "song_title": "天黑黑",
+        "video_id": "WUvKRkmLzTo",
+        "song_title": "君の知らない物語",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/Jxg8hRHEKP8/default.jpg",
+                "url": "https://i.ytimg.com/vi/WUvKRkmLzTo/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/Jxg8hRHEKP8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/WUvKRkmLzTo/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/Jxg8hRHEKP8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/WUvKRkmLzTo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "supercell",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "K0AZ7RcZcew",
+        "song_title": "恋",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/K0AZ7RcZcew/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/K0AZ7RcZcew/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/K0AZ7RcZcew/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "星野源",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "n_UUpIoMgKU",
+        "song_title": "チェリー",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/n_UUpIoMgKU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/n_UUpIoMgKU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/n_UUpIoMgKU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "スピッツ",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "m3dSO95AALI",
+        "song_title": "Meghan Trainor - All About That Bass (Karaoke Version)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/m3dSO95AALI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/m3dSO95AALI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/m3dSO95AALI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Meghan Trainor",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "4HJw5T-nwB4",
+        "song_title": "Adele - Rolling In The Deep (Karaoke Version)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4HJw5T-nwB4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4HJw5T-nwB4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4HJw5T-nwB4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Adele",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "a4JaP0nWhe4",
+        "song_title": "さくら(独唱)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/a4JaP0nWhe4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/a4JaP0nWhe4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/a4JaP0nWhe4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "森山直太朗",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "1KeVns4CV94",
+        "song_title": "海の声",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1KeVns4CV94/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1KeVns4CV94/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1KeVns4CV94/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "浦島太郎(桐谷健太)",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "hXFat-KkIZI",
+        "song_title": "愛をこめて花束を",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/hXFat-KkIZI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/hXFat-KkIZI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/hXFat-KkIZI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Superfly",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "1t6uwGEDtTQ",
+        "song_title": "栄光の架橋",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1t6uwGEDtTQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1t6uwGEDtTQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1t6uwGEDtTQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "ゆず",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "NyXApXudtaU",
+        "song_title": "小さな恋のうた",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/NyXApXudtaU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/NyXApXudtaU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/NyXApXudtaU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "MONGOL800",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "IwcmaXku-6I",
+        "song_title": "366日",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/IwcmaXku-6I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/IwcmaXku-6I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/IwcmaXku-6I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "HY",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "V5g_u10b-1k",
+        "song_title": "世界に一つだけの花",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/V5g_u10b-1k/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/V5g_u10b-1k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/V5g_u10b-1k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "SMAP",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "Q7Z41XmT_nU",
+        "song_title": "前前前世 (movie ver.)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Q7Z41XmT_nU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Q7Z41XmT_nU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Q7Z41XmT_nU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "RADWIMPS",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "gUcyDovH5Xc",
+        "song_title": "天黑黑",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gUcyDovH5Xc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gUcyDovH5Xc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gUcyDovH5Xc/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -56,21 +407,48 @@
     {
         "playlist_id": 5,
         "source": "youtube",
-        "video_id": "7j4BOXdXH1Y",
-        "song_title": "ひまわりの約束",
+        "video_id": "fLruqDpZ8r4",
+        "song_title": "粉雪",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/7j4BOXdXH1Y/default.jpg",
+                "url": "https://i.ytimg.com/vi/fLruqDpZ8r4/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/7j4BOXdXH1Y/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/fLruqDpZ8r4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/7j4BOXdXH1Y/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/fLruqDpZ8r4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "レミオロメン",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "HXwx4qWPwjk",
+        "song_title": "ひまわりの約束",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HXwx4qWPwjk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HXwx4qWPwjk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HXwx4qWPwjk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -110,48 +488,48 @@
     {
         "playlist_id": 5,
         "source": "youtube",
-        "video_id": "NXV5B0O27Fs",
-        "song_title": "Teenage Mutant Ninja Turtles Cartoon Opening Theme (1987)",
+        "video_id": "FQGt6VNm_iQ",
+        "song_title": "Whitney Houston - I Believe In You And Me",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/NXV5B0O27Fs/default.jpg",
+                "url": "https://i.ytimg.com/vi/FQGt6VNm_iQ/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/NXV5B0O27Fs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/FQGt6VNm_iQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/NXV5B0O27Fs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/FQGt6VNm_iQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Teenage Mutant Ninja Turtles",
+        "artist": "Whitney Houston",
         "tag": ""
     },
     {
         "playlist_id": 5,
         "source": "youtube",
-        "video_id": "rcvEn5ORlP4",
+        "video_id": "OcTlxvETMDs",
         "song_title": "Work",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/rcvEn5ORlP4/default.jpg",
+                "url": "https://i.ytimg.com/vi/OcTlxvETMDs/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/rcvEn5ORlP4/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/OcTlxvETMDs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/rcvEn5ORlP4/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/OcTlxvETMDs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -164,21 +542,21 @@
     {
         "playlist_id": 5,
         "source": "youtube",
-        "video_id": "N6M1i0wb5tU",
+        "video_id": "HEv6E4hz8cM",
         "song_title": "Watch Me (Whip / Nae Nae)",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/N6M1i0wb5tU/default.jpg",
+                "url": "https://i.ytimg.com/vi/HEv6E4hz8cM/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/N6M1i0wb5tU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/HEv6E4hz8cM/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/N6M1i0wb5tU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/HEv6E4hz8cM/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -186,6 +564,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Silento",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "BL8nEic--5U",
+        "song_title": "Shaky Shaky - Daddy Yankee (Karaoke)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/BL8nEic--5U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/BL8nEic--5U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/BL8nEic--5U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Daddy Yankee",
         "tag": ""
     },
     {
@@ -213,6 +618,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Bruno Mars",
+        "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "loYKQy1AGcw",
+        "song_title": "365日の紙飛行機",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/loYKQy1AGcw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/loYKQy1AGcw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/loYKQy1AGcw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "AKB48",
         "tag": ""
     }
 ]
