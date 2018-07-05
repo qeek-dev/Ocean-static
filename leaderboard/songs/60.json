@@ -2,21 +2,696 @@
     {
         "playlist_id": 60,
         "source": "youtube",
-        "video_id": "TaTWOBxwkhA",
+        "video_id": "R0ZeLqSXCPo",
+        "song_title": "I Like It",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/R0ZeLqSXCPo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/R0ZeLqSXCPo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/R0ZeLqSXCPo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Cardi B, Bad Bunny , J Balvin",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "pWc6rPPKzCU",
+        "song_title": "Lucid Dreams",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/pWc6rPPKzCU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/pWc6rPPKzCU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/pWc6rPPKzCU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Juice WRLD",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "aHwunfr7uaY",
+        "song_title": "Psycho",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/aHwunfr7uaY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/aHwunfr7uaY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/aHwunfr7uaY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Post Malone Featuring Ty Dolla $ign",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "d_tWevHRG9g",
+        "song_title": "Nice For What",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/d_tWevHRG9g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/d_tWevHRG9g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/d_tWevHRG9g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Drake",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "IWhNSfeNeoU",
+        "song_title": "Boo'd Up",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/IWhNSfeNeoU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/IWhNSfeNeoU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/IWhNSfeNeoU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Ella Mai",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "PSYn6Y1B3KY",
+        "song_title": "No Tears Left To Cry",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/PSYn6Y1B3KY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/PSYn6Y1B3KY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/PSYn6Y1B3KY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Ariana Grande",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "FPdX2zNaUDw",
+        "song_title": "God's Plan",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FPdX2zNaUDw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FPdX2zNaUDw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FPdX2zNaUDw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Drake",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "-cS2mcNnQfY",
+        "song_title": "Meant To Be",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-cS2mcNnQfY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-cS2mcNnQfY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-cS2mcNnQfY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Bebe Rexha , Florida Georgia Line",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "4AVHt2vcX14",
+        "song_title": "Yes Indeed",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4AVHt2vcX14/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4AVHt2vcX14/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4AVHt2vcX14/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Lil Baby , Drake",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "Ef5yD5l93k4",
+        "song_title": "The Middle",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Ef5yD5l93k4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Ef5yD5l93k4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Ef5yD5l93k4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Zedd, Maren Morris , Grey",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "SJSiLlT9Ko8",
+        "song_title": "Moonlight",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/SJSiLlT9Ko8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/SJSiLlT9Ko8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/SJSiLlT9Ko8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "XXXTENTACION",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "-yHoa4MR0W4",
+        "song_title": "Better Now",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-yHoa4MR0W4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-yHoa4MR0W4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-yHoa4MR0W4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Post Malone",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "ToY6sjSV8h8",
+        "song_title": "Plug Walk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ToY6sjSV8h8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ToY6sjSV8h8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ToY6sjSV8h8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Rich The Kid",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "YNCq93XIIJU",
+        "song_title": "Mine",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/YNCq93XIIJU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/YNCq93XIIJU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/YNCq93XIIJU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Bazzi",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "sPMA1tqWuf4",
+        "song_title": "Perfect",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/sPMA1tqWuf4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/sPMA1tqWuf4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/sPMA1tqWuf4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Ed Sheeran",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "3dyz4Y1j-JY",
+        "song_title": "Changes",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/3dyz4Y1j-JY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/3dyz4Y1j-JY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/3dyz4Y1j-JY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "XXXTENTACION",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "jyJKXLYciR0",
+        "song_title": "Apes**t",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jyJKXLYciR0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jyJKXLYciR0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jyJKXLYciR0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "The Carters",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "F4Y0daichwg",
+        "song_title": "Delicate",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/F4Y0daichwg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/F4Y0daichwg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/F4Y0daichwg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Taylor Swift",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "hiDywE4babg",
+        "song_title": "Tequila",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/hiDywE4babg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/hiDywE4babg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/hiDywE4babg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Dan , Shay",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "mQVt_e9kACk",
+        "song_title": "Friends",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mQVt_e9kACk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mQVt_e9kACk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mQVt_e9kACk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Marshmello , Anne-Marie",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "eLN8k0wtTBw",
+        "song_title": "In My Blood",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/eLN8k0wtTBw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/eLN8k0wtTBw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/eLN8k0wtTBw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Shawn Mendes",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "RqjsstB1uKA",
+        "song_title": "This Is America",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/RqjsstB1uKA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/RqjsstB1uKA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/RqjsstB1uKA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Childish Gambino",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "ihG--aIQtcI",
+        "song_title": "Jocelyn Flores",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ihG--aIQtcI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ihG--aIQtcI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ihG--aIQtcI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "XXXTENTACION",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "dCHcQCe6evc",
+        "song_title": "I'm Upset",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/dCHcQCe6evc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/dCHcQCe6evc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/dCHcQCe6evc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Drake",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "A-2eW56Wdoo",
+        "song_title": "Never Be The Same",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/A-2eW56Wdoo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/A-2eW56Wdoo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/A-2eW56Wdoo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Camila Cabello",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "M66U_DuMCS8",
         "song_title": "Whatever It Takes",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/TaTWOBxwkhA/default.jpg",
+                "url": "https://i.ytimg.com/vi/M66U_DuMCS8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/TaTWOBxwkhA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/M66U_DuMCS8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/TaTWOBxwkhA/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/M66U_DuMCS8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -29,82 +704,460 @@
     {
         "playlist_id": 60,
         "source": "youtube",
-        "video_id": "wFhs7WVvuXk",
-        "song_title": "Thunder",
+        "video_id": "vAjp02Tx-I8",
+        "song_title": "Be Careful",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/wFhs7WVvuXk/default.jpg",
+                "url": "https://i.ytimg.com/vi/vAjp02Tx-I8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/wFhs7WVvuXk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vAjp02Tx-I8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/wFhs7WVvuXk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vAjp02Tx-I8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Imagine Dragons",
+        "artist": "Cardi B",
         "tag": ""
     },
     {
         "playlist_id": 60,
         "source": "youtube",
-        "video_id": "sfbCZw_c2Zs",
-        "song_title": "Believer",
+        "video_id": "PBjyrWd2HIk",
+        "song_title": "Rockstar",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/sfbCZw_c2Zs/default.jpg",
+                "url": "https://i.ytimg.com/vi/PBjyrWd2HIk/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/sfbCZw_c2Zs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/PBjyrWd2HIk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/sfbCZw_c2Zs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/PBjyrWd2HIk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Imagine Dragons",
+        "artist": "Post Malone Featuring 21 Savage",
         "tag": ""
     },
     {
         "playlist_id": 60,
         "source": "youtube",
-        "video_id": "ufX7yqEfv70",
-        "song_title": "Feel It Still",
+        "video_id": "kIuJ0xFG55s",
+        "song_title": "Back To You",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/ufX7yqEfv70/default.jpg",
+                "url": "https://i.ytimg.com/vi/kIuJ0xFG55s/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/ufX7yqEfv70/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/kIuJ0xFG55s/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/ufX7yqEfv70/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/kIuJ0xFG55s/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Portugal. The Man",
+        "artist": "Selena Gomez",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "ys1EwQ69x6E",
+        "song_title": "One Kiss",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ys1EwQ69x6E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ys1EwQ69x6E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ys1EwQ69x6E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Calvin Harris , Dua Lipa",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "sRg2P-KQt_w",
+        "song_title": "Love Lies",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/sRg2P-KQt_w/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/sRg2P-KQt_w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/sRg2P-KQt_w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Khalid , Normani",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "5Id0EmzV-EY",
+        "song_title": "Heaven",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5Id0EmzV-EY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5Id0EmzV-EY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5Id0EmzV-EY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kane Brown",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "-aoj_QWqK4g",
+        "song_title": "Havana",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-aoj_QWqK4g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-aoj_QWqK4g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-aoj_QWqK4g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Camila Cabello Featuring Young Thug",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "TsEYfkT4eF8",
+        "song_title": "New Rules",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/TsEYfkT4eF8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/TsEYfkT4eF8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/TsEYfkT4eF8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Dua Lipa",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "cQhV-PfMoh4",
+        "song_title": "I Like Me Better",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cQhV-PfMoh4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cQhV-PfMoh4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cQhV-PfMoh4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Lauv",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "trVc4PwcRPw",
+        "song_title": "All Girls Are The Same",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/trVc4PwcRPw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/trVc4PwcRPw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/trVc4PwcRPw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Juice WRLD",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "rklOdh1nRho",
+        "song_title": "Get Along",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rklOdh1nRho/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rklOdh1nRho/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rklOdh1nRho/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kenny Chesney",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "RtsZq6O1fAI",
+        "song_title": "Simple",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/RtsZq6O1fAI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/RtsZq6O1fAI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/RtsZq6O1fAI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Florida Georgia Line",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "aSwFI7SZZcg",
+        "song_title": "Everybody Dies In Their Nightmares",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/aSwFI7SZZcg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/aSwFI7SZZcg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/aSwFI7SZZcg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "XXXTENTACION",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "Qc1yYt0833w",
+        "song_title": "Freaky Friday",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Qc1yYt0833w/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Qc1yYt0833w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Qc1yYt0833w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Lil Dicky Featuring Chris Brown",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "2FJpFbyaoPY",
+        "song_title": "Mercy",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/2FJpFbyaoPY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/2FJpFbyaoPY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/2FJpFbyaoPY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Brett Young",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "40lpfxma5n4",
+        "song_title": "One Number Away",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/40lpfxma5n4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/40lpfxma5n4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/40lpfxma5n4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Luke Combs",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "IvT2SEtC8o0",
+        "song_title": "Wait",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/IvT2SEtC8o0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/IvT2SEtC8o0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/IvT2SEtC8o0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Maroon 5",
         "tag": ""
     },
     {
@@ -137,6 +1190,114 @@
     {
         "playlist_id": 60,
         "source": "youtube",
+        "video_id": "fpap3RTKjS8",
+        "song_title": "Youngblood",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fpap3RTKjS8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fpap3RTKjS8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fpap3RTKjS8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "5 Seconds Of Summer",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "gqOHgO8A8go",
+        "song_title": "All Mine",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gqOHgO8A8go/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gqOHgO8A8go/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gqOHgO8A8go/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kanye West",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "jQySgY5N0Ak",
+        "song_title": "Dura",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jQySgY5N0Ak/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jQySgY5N0Ak/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jQySgY5N0Ak/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Daddy Yankee",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "A-_9VonfUko",
+        "song_title": "Sober",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/A-_9VonfUko/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/A-_9VonfUko/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/A-_9VonfUko/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Demi Lovato",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
         "video_id": "P1UBspLSWvU",
         "song_title": "Say Amen (Saturday Night)",
         "thumbnails": {
@@ -164,21 +1325,453 @@
     {
         "playlist_id": 60,
         "source": "youtube",
-        "video_id": "-lfX6_VhgOk",
-        "song_title": "High Hopes",
+        "video_id": "Ibhgmkgds-k",
+        "song_title": "Chun-Li",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/-lfX6_VhgOk/default.jpg",
+                "url": "https://i.ytimg.com/vi/Ibhgmkgds-k/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/-lfX6_VhgOk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Ibhgmkgds-k/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/-lfX6_VhgOk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Ibhgmkgds-k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Nicki Minaj",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "cZ3E_-440wE",
+        "song_title": "Japan",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cZ3E_-440wE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cZ3E_-440wE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cZ3E_-440wE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Famous Dex",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "h8r5rbUmBzs",
+        "song_title": "X",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/h8r5rbUmBzs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/h8r5rbUmBzs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/h8r5rbUmBzs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Nicky Jam x J Balvin",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "_o2pZbw05Dk",
+        "song_title": "Legends",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_o2pZbw05Dk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_o2pZbw05Dk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_o2pZbw05Dk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Juice WRLD",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "OSzYUf2-GSs",
+        "song_title": "Everything's Gonna Be Alright",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/OSzYUf2-GSs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/OSzYUf2-GSs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/OSzYUf2-GSs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "David Lee Murphy , Kenny Chesney",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "Oe4NjlXucgw",
+        "song_title": "Bed",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Oe4NjlXucgw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Oe4NjlXucgw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Oe4NjlXucgw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Nicki Minaj Featuring Ariana Grande",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "0RHKfUcZ5CM",
+        "song_title": "KOD",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0RHKfUcZ5CM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0RHKfUcZ5CM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0RHKfUcZ5CM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "J. Cole",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "pk0wqlO_ouE",
+        "song_title": "Esskeetit",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/pk0wqlO_ouE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/pk0wqlO_ouE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/pk0wqlO_ouE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Lil Pump",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "qqlLOId08hc",
+        "song_title": "Done For Me",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qqlLOId08hc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qqlLOId08hc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qqlLOId08hc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Charlie Puth Featuring Kehlani",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "LM9XYQtnUdk",
+        "song_title": "I Was Jack (You Were Diane)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LM9XYQtnUdk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LM9XYQtnUdk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LM9XYQtnUdk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Jake Owen",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "r4-aNP2mlZM",
+        "song_title": "Fake Love",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/r4-aNP2mlZM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/r4-aNP2mlZM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/r4-aNP2mlZM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "BTS",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "FzfmXSSdTZg",
+        "song_title": "Yikes",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FzfmXSSdTZg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FzfmXSSdTZg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FzfmXSSdTZg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kanye West",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "jmdtfLeDGTw",
+        "song_title": "Call Out My Name",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jmdtfLeDGTw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jmdtfLeDGTw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jmdtfLeDGTw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "The Weeknd",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "Fp-SY3Sd6vg",
+        "song_title": "Numb",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Fp-SY3Sd6vg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Fp-SY3Sd6vg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Fp-SY3Sd6vg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "XXXTENTACION",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "5p2Rg93fkG4",
+        "song_title": "Medicine",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5p2Rg93fkG4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5p2Rg93fkG4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5p2Rg93fkG4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Queen Naija",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "mcwrohEmQDM",
+        "song_title": "Sin Pijama",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mcwrohEmQDM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mcwrohEmQDM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mcwrohEmQDM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Becky G , Natti Natasha",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "kILnd32F5LI",
+        "song_title": "High Hopes",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/kILnd32F5LI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/kILnd32F5LI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/kILnd32F5LI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -191,21 +1784,102 @@
     {
         "playlist_id": 60,
         "source": "youtube",
-        "video_id": "Mr4mjuQoBdw",
-        "song_title": "Zombie",
+        "video_id": "iYtoOvOjOCY",
+        "song_title": "I Lived It",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/Mr4mjuQoBdw/default.jpg",
+                "url": "https://i.ytimg.com/vi/iYtoOvOjOCY/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/Mr4mjuQoBdw/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/iYtoOvOjOCY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/Mr4mjuQoBdw/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/iYtoOvOjOCY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Blake Shelton",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "o4lOnVkHB4o",
+        "song_title": "Powerglide",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/o4lOnVkHB4o/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/o4lOnVkHB4o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/o4lOnVkHB4o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Rae Sremmurd , Juicy J",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "nu0DF30UiC8",
+        "song_title": "Lovely",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/nu0DF30UiC8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/nu0DF30UiC8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/nu0DF30UiC8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Billie Eilish , Khalid",
+        "tag": ""
+    },
+    {
+        "playlist_id": 60,
+        "source": "youtube",
+        "video_id": "u2ZFB2bwmR8",
+        "song_title": "Zombie",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/u2ZFB2bwmR8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/u2ZFB2bwmR8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/u2ZFB2bwmR8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -218,1054 +1892,136 @@
     {
         "playlist_id": 60,
         "source": "youtube",
-        "video_id": "cnlGCgZ2iy4",
-        "song_title": "Broken",
+        "video_id": "sE8gcsGM8gw",
+        "song_title": "Overdose",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/cnlGCgZ2iy4/default.jpg",
+                "url": "https://i.ytimg.com/vi/sE8gcsGM8gw/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/cnlGCgZ2iy4/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/sE8gcsGM8gw/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/cnlGCgZ2iy4/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/sE8gcsGM8gw/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "lovelytheband",
+        "artist": "YoungBoy Never Broke Again",
         "tag": ""
     },
     {
         "playlist_id": 60,
         "source": "youtube",
-        "video_id": "SKnXNXv1yoE",
-        "song_title": "Hey Look Ma, I Made It",
+        "video_id": "uGoPC7ZJ2b8",
+        "song_title": "Life Changes",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/SKnXNXv1yoE/default.jpg",
+                "url": "https://i.ytimg.com/vi/uGoPC7ZJ2b8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/SKnXNXv1yoE/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/uGoPC7ZJ2b8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/SKnXNXv1yoE/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/uGoPC7ZJ2b8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Panic! At The Disco",
+        "artist": "Thomas Rhett",
         "tag": ""
     },
     {
         "playlist_id": 60,
         "source": "youtube",
-        "video_id": "ww_FLoPs4K8",
-        "song_title": "King Of The Clouds",
+        "video_id": "ykxiGGqz0XA",
+        "song_title": "Woman, Amen",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/ww_FLoPs4K8/default.jpg",
+                "url": "https://i.ytimg.com/vi/ykxiGGqz0XA/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/ww_FLoPs4K8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ykxiGGqz0XA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/ww_FLoPs4K8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ykxiGGqz0XA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Panic! At The Disco",
+        "artist": "Dierks Bentley",
         "tag": ""
     },
     {
         "playlist_id": 60,
         "source": "youtube",
-        "video_id": "FDcmdZq93WY",
-        "song_title": "(Fuck A) Silver Lining",
+        "video_id": "y8_jF0kg3lU",
+        "song_title": "Born To Be Yours",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/FDcmdZq93WY/default.jpg",
+                "url": "https://i.ytimg.com/vi/y8_jF0kg3lU/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/FDcmdZq93WY/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/y8_jF0kg3lU/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/FDcmdZq93WY/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/y8_jF0kg3lU/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Panic! At The Disco",
+        "artist": "Kygo , Imagine Dragons",
         "tag": ""
     },
     {
         "playlist_id": 60,
         "source": "youtube",
-        "video_id": "ulHIXp4GJS8",
-        "song_title": "New Light",
+        "video_id": "W7kDdRU3UGM",
+        "song_title": "OTW",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/ulHIXp4GJS8/default.jpg",
+                "url": "https://i.ytimg.com/vi/W7kDdRU3UGM/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/ulHIXp4GJS8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/W7kDdRU3UGM/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/ulHIXp4GJS8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/W7kDdRU3UGM/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "John Mayer",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "PZNZaVXVVEQ",
-        "song_title": "Roaring 20s",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/PZNZaVXVVEQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/PZNZaVXVVEQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/PZNZaVXVVEQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Panic! At The Disco",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "Ysh9eE1UgvQ",
-        "song_title": "Africa",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Ysh9eE1UgvQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Ysh9eE1UgvQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Ysh9eE1UgvQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Weezer",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "cP0bgHYDjVY",
-        "song_title": "Dancing's Not A Crime",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/cP0bgHYDjVY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/cP0bgHYDjVY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/cP0bgHYDjVY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Panic! At The Disco",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "DB5dCXSv__8",
-        "song_title": "Dying In LA",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/DB5dCXSv__8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/DB5dCXSv__8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/DB5dCXSv__8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Panic! At The Disco",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "dSVovg06NQg",
-        "song_title": "Let It Be",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/dSVovg06NQg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/dSVovg06NQg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/dSVovg06NQg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "The Beatles",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "Qc1t-vDUCmQ",
-        "song_title": "One Of The Drunks",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Qc1t-vDUCmQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Qc1t-vDUCmQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Qc1t-vDUCmQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Panic! At The Disco",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "OGnJwfhh9uo",
-        "song_title": "I Feel Like I'm Drowning",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/OGnJwfhh9uo/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/OGnJwfhh9uo/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/OGnJwfhh9uo/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Two Feet",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "sCIHw786W9g",
-        "song_title": "Bulletproof",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/sCIHw786W9g/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/sCIHw786W9g/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/sCIHw786W9g/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Godsmack",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "rt1hqrTkx30",
-        "song_title": "Old Fashioned",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/rt1hqrTkx30/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/rt1hqrTkx30/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/rt1hqrTkx30/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Panic! At The Disco",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "Rc_l-Fzt5l8",
-        "song_title": "The Overpass",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Rc_l-Fzt5l8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Rc_l-Fzt5l8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Rc_l-Fzt5l8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Panic! At The Disco",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "ZeJLrtFY7Ds",
-        "song_title": "Come On To Me",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ZeJLrtFY7Ds/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ZeJLrtFY7Ds/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ZeJLrtFY7Ds/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Paul McCartney",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "C7VxXRR8BEI",
-        "song_title": "Hunger",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/C7VxXRR8BEI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/C7VxXRR8BEI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/C7VxXRR8BEI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Florence , The Machine",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "dzcYWuOOwE0",
-        "song_title": "&Run",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/dzcYWuOOwE0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/dzcYWuOOwE0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/dzcYWuOOwE0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Sir Sly",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "LAe9WmN5-ps",
-        "song_title": "Devil",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/LAe9WmN5-ps/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/LAe9WmN5-ps/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/LAe9WmN5-ps/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Shinedown",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "aGjIN8x6-xg",
-        "song_title": "Quarter Past Midnight",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/aGjIN8x6-xg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/aGjIN8x6-xg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/aGjIN8x6-xg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Bastille",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "wIm-vU8xfTo",
-        "song_title": "Sham Pain",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/wIm-vU8xfTo/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/wIm-vU8xfTo/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/wIm-vU8xfTo/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Five Finger Death Punch",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "ZFtLoY3yEBg",
-        "song_title": "Gold Rush",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ZFtLoY3yEBg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ZFtLoY3yEBg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ZFtLoY3yEBg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Death Cab For Cutie",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "i-8RUQkG7kA",
-        "song_title": "Big God",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/i-8RUQkG7kA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/i-8RUQkG7kA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/i-8RUQkG7kA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Florence , The Machine",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "9EhAZgddhj8",
-        "song_title": "Kamikaze",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/9EhAZgddhj8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/9EhAZgddhj8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/9EhAZgddhj8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "WALK THE MOON",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "m9Im0h5FNR4",
-        "song_title": "Rats",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/m9Im0h5FNR4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/m9Im0h5FNR4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/m9Im0h5FNR4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Ghost",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "KDIiuBAQwos",
-        "song_title": "Thought Contagion",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/KDIiuBAQwos/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/KDIiuBAQwos/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/KDIiuBAQwos/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Muse",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "Rc_8tbGhXUc",
-        "song_title": "Blood // Water",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Rc_8tbGhXUc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Rc_8tbGhXUc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Rc_8tbGhXUc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "grandson",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "kyq5eZTSq-A",
-        "song_title": "Give Yourself A Try",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/kyq5eZTSq-A/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/kyq5eZTSq-A/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/kyq5eZTSq-A/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "The 1975",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "VkjhDFBkI4U",
-        "song_title": "Blue On Black",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/VkjhDFBkI4U/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/VkjhDFBkI4U/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/VkjhDFBkI4U/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Five Finger Death Punch",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "mgrWNVe48xE",
-        "song_title": "I Don't Know",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/mgrWNVe48xE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/mgrWNVe48xE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/mgrWNVe48xE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Paul McCartney",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "8I1B4n_8Cto",
-        "song_title": "Colors",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/8I1B4n_8Cto/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/8I1B4n_8Cto/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/8I1B4n_8Cto/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Beck",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "LoYpQxZs8bY",
-        "song_title": "Samurai Cop (Oh Joy Begin)",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/LoYpQxZs8bY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/LoYpQxZs8bY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/LoYpQxZs8bY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Dave Matthews Band",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "FwZvuV79jeY",
-        "song_title": "I Hope You're Happy",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/FwZvuV79jeY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/FwZvuV79jeY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/FwZvuV79jeY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Blue October",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "FCrzyyXMN0s",
-        "song_title": "Next To Me",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/FCrzyyXMN0s/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/FCrzyyXMN0s/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/FCrzyyXMN0s/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Imagine Dragons",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "_OITSVOM_OY",
-        "song_title": "Walking On Water",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/_OITSVOM_OY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/_OITSVOM_OY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/_OITSVOM_OY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "NEEDTOBREATHE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "9XcCC6NvcNg",
-        "song_title": "Crossing A Line",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/9XcCC6NvcNg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/9XcCC6NvcNg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/9XcCC6NvcNg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Mike Shinoda",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "5Thvdwukeyg",
-        "song_title": "Such A Simple Thing",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/5Thvdwukeyg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/5Thvdwukeyg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/5Thvdwukeyg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Ray LaMontagne",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "tjLclpNe9-0",
-        "song_title": "Four Out Of Five",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/tjLclpNe9-0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/tjLclpNe9-0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/tjLclpNe9-0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Arctic Monkeys",
-        "tag": ""
-    },
-    {
-        "playlist_id": 60,
-        "source": "youtube",
-        "video_id": "iDu32EkbVc0",
-        "song_title": "Lash Out",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/iDu32EkbVc0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/iDu32EkbVc0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/iDu32EkbVc0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Alice Merton",
+        "artist": "Khalid, Ty Dolla $ign , 6LACK",
         "tag": ""
     }
 ]
