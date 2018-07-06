@@ -700,5 +700,32 @@
         "vocal": "U",
         "artist": "AKB48",
         "tag": ""
+    },
+    {
+        "playlist_id": 5,
+        "source": "youtube",
+        "video_id": "i0OuHle6hFs",
+        "song_title": "阿杜 ~ 撕夜 (Lyrics)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/i0OuHle6hFs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/i0OuHle6hFs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/i0OuHle6hFs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "阿杜",
+        "tag": ""
     }
 ]

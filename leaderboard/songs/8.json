@@ -83,21 +83,21 @@
     {
         "playlist_id": 8,
         "source": "youtube",
-        "video_id": "2Lza9-cPmyw",
+        "video_id": "8JbIkOnC5ko",
         "song_title": "公主病",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/2Lza9-cPmyw/default.jpg",
+                "url": "https://i.ytimg.com/vi/8JbIkOnC5ko/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/2Lza9-cPmyw/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/8JbIkOnC5ko/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/2Lza9-cPmyw/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/8JbIkOnC5ko/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -509,7 +509,7 @@
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "杜德偉 (Alex To)",
+        "artist": "杜德偉",
         "tag": ""
     },
     {
@@ -645,6 +645,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "龚玥",
+        "tag": ""
+    },
+    {
+        "playlist_id": 8,
+        "source": "youtube",
+        "video_id": "HTcBZjbCEMY",
+        "song_title": "薛之謙 - 我知道你都知道",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HTcBZjbCEMY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HTcBZjbCEMY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HTcBZjbCEMY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "薛之謙",
         "tag": ""
     },
     {
