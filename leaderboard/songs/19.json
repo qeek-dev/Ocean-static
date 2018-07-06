@@ -110,6 +110,33 @@
     {
         "playlist_id": 19,
         "source": "youtube",
+        "video_id": "yhGVXlnpGkM",
+        "song_title": "原諒我沒勇氣講出我愛你",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/yhGVXlnpGkM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/yhGVXlnpGkM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/yhGVXlnpGkM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "邱賢桂",
+        "tag": ""
+    },
+    {
+        "playlist_id": 19,
+        "source": "youtube",
         "video_id": "ovOzbUx0Ybo",
         "song_title": "關老爺",
         "thumbnails": {
