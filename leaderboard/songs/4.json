@@ -83,6 +83,33 @@
     {
         "playlist_id": 4,
         "source": "youtube",
+        "video_id": "EHaTXljttro",
+        "song_title": "张学友 爱我别走 高清",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EHaTXljttro/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EHaTXljttro/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EHaTXljttro/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "張學友",
+        "tag": ""
+    },
+    {
+        "playlist_id": 4,
+        "source": "youtube",
         "video_id": "dJEjuUj3Op4",
         "song_title": "我等到花兒也謝了",
         "thumbnails": {
@@ -326,6 +353,33 @@
     {
         "playlist_id": 4,
         "source": "youtube",
+        "video_id": "5EBi6ucm494",
+        "song_title": ". Kisah Seorang Biduan - Dhalan Zainuddin.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5EBi6ucm494/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5EBi6ucm494/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5EBi6ucm494/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Dhalan Zainuddin",
+        "tag": ""
+    },
+    {
+        "playlist_id": 4,
+        "source": "youtube",
         "video_id": "9ov37uwNEx8",
         "song_title": "Jay Chou 周杰倫【不能說的祕密 Secret】-Official Music Video",
         "thumbnails": {
@@ -347,7 +401,7 @@
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "周杰倫 (Jay Chou)",
+        "artist": "周杰倫",
         "tag": ""
     },
     {
@@ -725,7 +779,7 @@
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "周杰倫 (Jay Chou)",
+        "artist": "周杰倫",
         "tag": ""
     },
     {
