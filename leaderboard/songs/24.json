@@ -164,21 +164,21 @@
     {
         "playlist_id": 24,
         "source": "youtube",
-        "video_id": "bm1UB208HEk",
+        "video_id": "hBqDjgLj0ps",
         "song_title": "Hirari",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/bm1UB208HEk/default.jpg",
+                "url": "https://i.ytimg.com/vi/hBqDjgLj0ps/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/bm1UB208HEk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/hBqDjgLj0ps/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/bm1UB208HEk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/hBqDjgLj0ps/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -888,6 +888,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Def Will",
+        "tag": ""
+    },
+    {
+        "playlist_id": 24,
+        "source": "youtube",
+        "video_id": "NU_vgdDUlSU",
+        "song_title": "Make My Day",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/NU_vgdDUlSU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/NU_vgdDUlSU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/NU_vgdDUlSU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "H ZETTRIO",
         "tag": ""
     },
     {

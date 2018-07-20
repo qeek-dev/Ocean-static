@@ -569,21 +569,21 @@
     {
         "playlist_id": 50,
         "source": "youtube",
-        "video_id": "lzonoxIKMCo",
+        "video_id": "HZgD50gcBoY",
         "song_title": "That Girl",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/lzonoxIKMCo/default.jpg",
+                "url": "https://i.ytimg.com/vi/HZgD50gcBoY/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/lzonoxIKMCo/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/HZgD50gcBoY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/lzonoxIKMCo/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/HZgD50gcBoY/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -996,6 +996,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "宋孟君,威仔",
+        "tag": ""
+    },
+    {
+        "playlist_id": 50,
+        "source": "youtube",
+        "video_id": "xR-FQVe7huk",
+        "song_title": "修炼",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xR-FQVe7huk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xR-FQVe7huk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xR-FQVe7huk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "M哥",
         "tag": ""
     },
     {

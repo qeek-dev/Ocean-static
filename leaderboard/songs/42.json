@@ -29,21 +29,21 @@
     {
         "playlist_id": 42,
         "source": "youtube",
-        "video_id": "Wo7njOzJLxY",
+        "video_id": "uPqn_BPSAHI",
         "song_title": "Tomorrow",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/Wo7njOzJLxY/default.jpg",
+                "url": "https://i.ytimg.com/vi/uPqn_BPSAHI/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/Wo7njOzJLxY/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/uPqn_BPSAHI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/Wo7njOzJLxY/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/uPqn_BPSAHI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -186,6 +186,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "CREAM",
+        "tag": ""
+    },
+    {
+        "playlist_id": 42,
+        "source": "youtube",
+        "video_id": "O2Q0Z-DdNJk",
+        "song_title": "alone feat.SALU",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/O2Q0Z-DdNJk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/O2Q0Z-DdNJk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/O2Q0Z-DdNJk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Shota Shimizu",
         "tag": ""
     },
     {
@@ -704,21 +731,21 @@
     {
         "playlist_id": 42,
         "source": "youtube",
-        "video_id": "jf2hKntfSIU",
+        "video_id": "PbHO1eEiULs",
         "song_title": "Rainbow",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/jf2hKntfSIU/default.jpg",
+                "url": "https://i.ytimg.com/vi/PbHO1eEiULs/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/jf2hKntfSIU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/PbHO1eEiULs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/jf2hKntfSIU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/PbHO1eEiULs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1698,33 +1725,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "UVERworld",
-        "tag": ""
-    },
-    {
-        "playlist_id": 42,
-        "source": "youtube",
-        "video_id": "HS2SodIuApw",
-        "song_title": "Aitai-tai",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/HS2SodIuApw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/HS2SodIuApw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/HS2SodIuApw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Red Velvet",
         "tag": ""
     },
     {

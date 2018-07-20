@@ -1352,6 +1352,33 @@
     {
         "playlist_id": 12,
         "source": "youtube",
+        "video_id": "NU_vgdDUlSU",
+        "song_title": "Make My Day",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/NU_vgdDUlSU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/NU_vgdDUlSU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/NU_vgdDUlSU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "H ZETTRIO",
+        "tag": ""
+    },
+    {
+        "playlist_id": 12,
+        "source": "youtube",
         "video_id": "uA7ZGV5z3i4",
         "song_title": "死神",
         "thumbnails": {
@@ -1590,6 +1617,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "宇野実彩子",
+        "tag": ""
+    },
+    {
+        "playlist_id": 12,
+        "source": "youtube",
+        "video_id": "9DONlD9GMMY",
+        "song_title": "花の香りのシンフォニー",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9DONlD9GMMY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9DONlD9GMMY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9DONlD9GMMY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "SKE48",
         "tag": ""
     },
     {
