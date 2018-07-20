@@ -1,135 +1,362 @@
 [
-    {
-        "id": 2,
-        "fullname": "OceanKTV Hot Songs",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
-                "icon": "ic_cantonese"
-            }
-        },
-        "count": 50,
-        "updated_at": "2018-07-20 11:41:16",
-        "fullname_localize": {
-            "default": "OceanKTV Hot Songs",
-            "cht": "OceanKTV Hot Songs",
-            "eng": "OceanKTV Hot Songs",
-            "chs": "OceanKTV Hot Songs"
-        }
+  {
+    "release_date": "2016-05-17T00:00:00.000Z",
+    "fullname": "熱門情歌對唱歌曲",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_heart"
+      }
     },
-    {
-        "id": 20,
-        "fullname": "本地熱門新歌",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.kfs.io/playlist/global/62136231v1/cropresize/300x300.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 87,
-        "updated_at": "2018-07-20 11:41:16",
-        "fullname_localize": {
-            "default": "本地熱門新歌",
-            "cht": "本地熱門新歌",
-            "eng": "本地熱門新歌",
-            "chs": "本地熱門新歌"
-        }
+    "count": 106,
+    "status": "1",
+    "version": "2016",
+    "id": 1,
+    "updated_at": "2017-09-18T17:40:31.257Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "热门情歌对唱歌曲",
+      "eng": "Hot Love Songs",
+      "default": "Hot Love Songs",
+      "cht": "熱門情歌對唱歌曲"
     },
-    {
-        "id": 21,
-        "fullname": "華語熱門新歌",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.kfs.io/playlist/global/62136217v1/cropresize/300x300.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 95,
-        "updated_at": "2018-07-20 11:41:16",
-        "fullname_localize": {
-            "default": "華語熱門新歌",
-            "cht": "華語熱門新歌",
-            "eng": "華語熱門新歌",
-            "chs": "華語熱門新歌"
-        }
+    "created_at": "2016-05-25T09:05:15.556Z"
+  },
+  {
+    "release_date": "2016-05-17T00:00:00.000Z",
+    "fullname": "熱門粵語點播歌曲",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_cantonese"
+      }
     },
-    {
-        "id": 22,
-        "fullname": "歐美熱門新歌",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.kfs.io/playlist/global/62136224v1/cropresize/300x300.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 100,
-        "updated_at": "2018-07-20 11:41:16",
-        "fullname_localize": {
-            "default": "歐美熱門新歌",
-            "cht": "歐美熱門新歌",
-            "eng": "歐美熱門新歌",
-            "chs": "歐美熱門新歌"
-        }
+    "count": 50,
+    "status": "1",
+    "version": "2016",
+    "id": 2,
+    "updated_at": "2017-09-18T17:40:31.263Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "热门粤语点播歌曲",
+      "eng": "Hot Cantonese Songs",
+      "default": "Hot Cantonese Songs",
+      "cht": "熱門粵語點播歌曲"
     },
-    {
-        "id": 23,
-        "fullname": "韓語熱門新歌",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.kfs.io/playlist/global/62136245v1/cropresize/300x300.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 98,
-        "updated_at": "2018-07-20 11:41:16",
-        "fullname_localize": {
-            "default": "韓語熱門新歌",
-            "cht": "韓語熱門新歌",
-            "eng": "韓語熱門新歌",
-            "chs": "韓語熱門新歌"
-        }
+    "created_at": "2016-05-25T09:05:15.955Z"
+  },
+  {
+    "release_date": "2016-05-17T00:00:00.000Z",
+    "fullname": "熱門華語點播歌曲",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_chinese_songs"
+      }
     },
-    {
-        "id": 24,
-        "fullname": "日語熱門新歌",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.kfs.io/playlist/global/62136238v1/cropresize/300x300.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 48,
-        "updated_at": "2018-07-20 11:41:16",
-        "fullname_localize": {
-            "default": "日語熱門新歌",
-            "cht": "日語熱門新歌",
-            "eng": "日語熱門新歌",
-            "chs": "日語熱門新歌"
-        }
+    "count": 80,
+    "status": "1",
+    "version": "2016",
+    "id": 3,
+    "updated_at": "2017-09-21T17:39:35.494Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "热门华语点播歌曲",
+      "eng": "Hot Chinese songs",
+      "default": "Hot Chinese songs",
+      "cht": "熱門華語點播歌曲"
     },
-    {
-        "id": 25,
-        "fullname": "英美金曲榜",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.kfs.io/playlist/global/23026388v1/cropresize/300x300.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 169,
-        "updated_at": "2018-07-20 11:41:16",
-        "fullname_localize": {
-            "default": "英美金曲榜",
-            "cht": "英美金曲榜",
-            "eng": "英美金曲榜",
-            "chs": "英美金曲榜"
-        }
-    }
+    "created_at": "2016-05-25T09:05:16.366Z"
+  },
+  {
+    "release_date": "2016-05-17T00:00:00.000Z",
+    "fullname": "熱門日語點播歌曲",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_japanese_ktv"
+      }
+    },
+    "count": 34,
+    "status": "1",
+    "version": "2016",
+    "id": 5,
+    "updated_at": "2017-06-19T17:40:50.447Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "热门日语点播歌曲",
+      "eng": "Hot Japanese Songs",
+      "default": "Hot Japanese Songs",
+      "cht": "熱門日語點播歌曲"
+    },
+    "created_at": "2016-05-25T09:05:17.171Z"
+  },
+  {
+    "release_date": "2016-05-17T00:00:00.000Z",
+    "fullname": "熱門台語點播歌曲",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_taiwaness"
+      }
+    },
+    "count": 73,
+    "status": "1",
+    "version": "2016",
+    "id": 6,
+    "updated_at": "2017-09-21T17:39:35.493Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "热门台语点播歌曲",
+      "eng": "Hot Taiwanese Songs",
+      "default": "Hot Taiwanese Songs",
+      "cht": "熱門台語點播歌曲"
+    },
+    "created_at": "2016-05-25T09:20:07.742Z"
+  },
+  {
+    "release_date": "2016-07-15T00:00:00.000Z",
+    "fullname": "最新華語人氣歌曲",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_chinese_new"
+      }
+    },
+    "count": 234,
+    "status": "1",
+    "version": "2016",
+    "id": 9,
+    "updated_at": "2017-08-22T17:40:55.272Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "最新华语人气歌曲",
+      "eng": "New Chinese songs",
+      "default": "New Chinese songs",
+      "cht": "最新華語人氣歌曲"
+    },
+    "created_at": "2016-07-06T07:13:25.646Z"
+  },
+  {
+    "release_date": "2016-07-01T00:00:00.000Z",
+    "fullname": "熱門西洋點播歌曲",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_english_songs"
+      }
+    },
+    "count": 44,
+    "status": "1",
+    "version": "2016",
+    "id": 10,
+    "updated_at": "2017-05-18T17:37:27.156Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "热门西洋点播歌曲",
+      "eng": "Hot English Songs",
+      "default": "Hot English Songs",
+      "cht": "熱門西洋點播歌曲"
+    },
+    "created_at": "2016-07-06T07:15:15.783Z"
+  },
+  {
+    "release_date": "2016-10-07T00:00:00.000Z",
+    "fullname": "最新台語人氣歌曲",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_taiwaness_new"
+      }
+    },
+    "count": 153,
+    "status": "1",
+    "version": "2016",
+    "id": 19,
+    "updated_at": "2017-08-16T17:44:06.542Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "最新台语人气歌曲",
+      "eng": "New Taiwanese songs",
+      "default": "New Taiwanese songs",
+      "cht": "最新台語人氣歌曲"
+    },
+    "created_at": "2016-10-07T10:41:03.900Z"
+  },
+  {
+    "release_date": "2017-02-08T00:00:00.000Z",
+    "fullname": "美國告示牌熱門歌曲",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_billboard"
+      }
+    },
+    "count": 186,
+    "status": "1",
+    "version": "2017",
+    "id": 4,
+    "updated_at": "2017-09-19T17:39:53.009Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "美国告示牌热门歌曲",
+      "eng": "Billboard Hot Songs",
+      "default": "Billboard Hot Songs",
+      "cht": "美國告示牌熱門歌曲"
+    },
+    "created_at": "2017-02-09T09:22:55.494Z"
+  },
+  {
+    "release_date": "2017-02-08T00:00:00.000Z",
+    "fullname": "西洋情歌特輯",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_heart"
+      }
+    },
+    "count": 49,
+    "status": "1",
+    "version": "2017",
+    "id": 41,
+    "updated_at": "2017-06-14T17:39:41.999Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "西洋情歌特輯",
+      "eng": "Top 50 Love Songs of All Time",
+      "default": "Top 50 Love Songs of All Time",
+      "cht": "西洋情歌特輯"
+    },
+    "created_at": "2017-02-09T09:23:52.826Z"
+  },
+  {
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "fullname": "兒歌",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_funny_music"
+      }
+    },
+    "count": 48,
+    "status": "1",
+    "version": "2017",
+    "id": 48,
+    "updated_at": "2017-06-14T17:39:41.997Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "儿歌",
+      "eng": "New Kid's songs",
+      "default": "Kid's songs",
+      "cht": "兒歌"
+    },
+    "created_at": "2017-03-17T06:42:28.668Z"
+  },
+  {
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "fullname": "西洋情歌",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_heart"
+      }
+    },
+    "count": 19,
+    "status": "1",
+    "version": "2017",
+    "id": 13,
+    "updated_at": "2017-08-17T17:42:05.217Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "西洋情歌",
+      "eng": "The 40 Biggest Duets Of All Time",
+      "default": "The 40 Biggest Duets Of All Time",
+      "cht": "西洋情歌"
+    },
+    "created_at": "2017-03-17T10:04:49.897Z"
+  },
+  {
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "fullname": "西洋兒歌",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_funny_music"
+      }
+    },
+    "count": 74,
+    "status": "1",
+    "version": "2017",
+    "id": 14,
+    "updated_at": "2017-09-06T17:42:43.706Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "西洋兒歌",
+      "eng": "iTunes Top 100 Kids Songs",
+      "default": "iTunes Top 100 Kids Songs",
+      "cht": "西洋兒歌"
+    },
+    "created_at": "2017-03-17T10:04:56.819Z"
+  },
+  {
+    "release_date": "2017-05-05T00:00:00.000Z",
+    "fullname": "母親節特輯",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_funny_music"
+      }
+    },
+    "count": 15,
+    "status": "1",
+    "version": "2017",
+    "id": 57,
+    "updated_at": "2017-05-09T06:48:39.829Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "母亲节特辑",
+      "eng": "Happy Mother's Day",
+      "default": "Happy Mother's Day",
+      "cht": "母親節特輯"
+    },
+    "created_at": "2017-05-05T09:05:03.046Z"
+  },
+  {
+    "release_date": "2017-05-05T00:00:00.000Z",
+    "fullname": "母親節西洋特輯",
+    "region": "tw",
+    "thumbnails": {
+      "default": {
+        "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+        "icon": "ic_funny_music"
+      }
+    },
+    "count": 15,
+    "status": "1",
+    "version": "2017",
+    "id": 55,
+    "updated_at": "2017-05-09T06:48:55.352Z",
+    "tag": "pop",
+    "fullname_localize": {
+      "chs": "母亲节西洋特辑",
+      "eng": "Songs for Mom",
+      "default": "Songs for Mom",
+      "cht": "母親節西洋特輯"
+    },
+    "created_at": "2017-05-05T09:05:08.728Z"
+  }
 ]
