@@ -1,1109 +1,1192 @@
 [
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "QfaQzSAo6qk",
-        "song_title": "Let It Go～ありのままで～",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/QfaQzSAo6qk/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/QfaQzSAo6qk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/QfaQzSAo6qk/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "松たか子",
-        "tag": ""
+  {
+    "created_at": "2017-03-17T08:12:32.292Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "AJR16-UIKSE",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "天体観測",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/AJR16-UIKSE/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/AJR16-UIKSE/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/AJR16-UIKSE/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "jsOwU8PGbN8",
-        "song_title": "君の知らない物語",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/jsOwU8PGbN8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/jsOwU8PGbN8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/jsOwU8PGbN8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "supercell",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "ハルジオンのカラオケです。[v7.0d] なめらかテロップ対応.",
+    "id": 13554,
+    "updated_at": "2017-03-17T08:12:32.292Z",
+    "vocal": "N",
+    "artist": "Bump Of Chicken",
+    "tag": "高清影片",
+    "title": "ハルジオン　BUMP OF　CHICKEN　（カラオケ）"
+  },
+  {
+    "created_at": "2017-03-17T08:12:32.735Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "GNPDxHiMmc0",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "Pen-Pineapple-Apple-Pen(PPAP)",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/GNPDxHiMmc0/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/GNPDxHiMmc0/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/GNPDxHiMmc0/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "jhOVibLEDhA",
-        "song_title": "恋",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/jhOVibLEDhA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/jhOVibLEDhA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/jhOVibLEDhA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "星野源",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "Please use freely. 作ってみました、自由にお使いください。",
+    "id": 13556,
+    "updated_at": "2017-03-17T08:12:32.735Z",
+    "vocal": "S",
+    "artist": "ピコ太郎",
+    "tag": "高清影片,異國風情",
+    "title": "［PPAP］ Pen-Pineapple-Apple-Pen -  KARAOKE - instrumental / ペンパイナッポーアッポーペン - カラオケ ［PIKOTARO / ピコ太郎］"
+  },
+  {
+    "created_at": "2017-03-17T08:12:33.246Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "m5ShLAi-fsU",
+    "song_id": 53688,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "夜空",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/m5ShLAi-fsU/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/m5ShLAi-fsU/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/m5ShLAi-fsU/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "_uhKpcmGtRw",
-        "song_title": "부담이돼",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/_uhKpcmGtRw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/_uhKpcmGtRw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/_uhKpcmGtRw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "정키",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "PS: 假如上傳的影片有侵權,敬請先告知! 我會馬上刪除的! PS: If the upload movie infringement please tell ! I'll remove it ! 原版權屬於日本NHK Original copyright...",
+    "id": 13558,
+    "updated_at": "2017-03-17T08:12:33.246Z",
+    "vocal": "S",
+    "artist": "五木ひろし",
+    "tag": "高清影片,異國風情",
+    "title": "五木ひろし-  夜空(よぞら) 1080i"
+  },
+  {
+    "created_at": "2017-03-17T08:12:33.428Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "cRkDjYGKlnc",
+    "song_id": 54063,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "昔の名前で出ています",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/cRkDjYGKlnc/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/cRkDjYGKlnc/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/cRkDjYGKlnc/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "hYStIbcakd4",
-        "song_title": "【キラキラ☆プリキュアアラモード】前期エンディング 「レッツ・ラ・クッキン☆ショータイム」 （歌：宮本佳那子）",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "RiNG-O Melody",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "http://www.ashinari.com/ 写真素材足成提供.",
+    "id": 13559,
+    "updated_at": "2017-03-17T08:12:33.428Z",
+    "vocal": "N",
+    "artist": "小林旭",
+    "tag": "高清影片,異國風情",
+    "title": "「昔の名前で出ています」カラオケ・オリジナル歌手・小林　旭"
+  },
+  {
+    "created_at": "2017-03-17T08:12:33.656Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "SjZXAHtLKRY",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "深い森",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/SjZXAHtLKRY/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/SjZXAHtLKRY/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/SjZXAHtLKRY/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "uiEDEEbV8Ik",
-        "song_title": "チェリー",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/uiEDEEbV8Ik/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/uiEDEEbV8Ik/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/uiEDEEbV8Ik/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "スピッツ",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "元曲 http://www.youtube.com/watch?v=lI8drV-0t0U.",
+    "id": 13560,
+    "updated_at": "2017-03-17T08:12:33.656Z",
+    "vocal": "N",
+    "artist": "Do As Infinity (大無限樂團)",
+    "tag": "異國風情",
+    "title": "深い森（カラオケ）"
+  },
+  {
+    "created_at": "2017-03-17T08:12:34.673Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "oLrya4nqRVI",
+    "song_id": 194247,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "FIRST LOVE",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/oLrya4nqRVI/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/oLrya4nqRVI/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/oLrya4nqRVI/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "YoMLiOpbsqA",
-        "song_title": "박효신(Park Hyo Shin) - 야생화 [7집 I am A Dreamer]",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/YoMLiOpbsqA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/YoMLiOpbsqA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/YoMLiOpbsqA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Park Hyo Shin",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13565,
+    "updated_at": "2017-03-17T08:12:34.673Z",
+    "vocal": "N",
+    "artist": "宇多田ヒカル",
+    "tag": "高清影片,異國風情",
+    "title": "（カラオケ） 「First Love」　宇多田ヒカル"
+  },
+  {
+    "created_at": "2017-03-17T08:12:35.642Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "S_H6l4FuANE",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "SAY YES",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/S_H6l4FuANE/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/S_H6l4FuANE/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/S_H6l4FuANE/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "m3dSO95AALI",
-        "song_title": "Meghan Trainor - All About That Bass (Karaoke Version)",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/m3dSO95AALI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/m3dSO95AALI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/m3dSO95AALI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Meghan Trainor",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13570,
+    "updated_at": "2017-03-17T08:12:35.642Z",
+    "vocal": "N",
+    "artist": "チャゲ ﹠飛鳥",
+    "tag": "異國風情",
+    "title": "SAY　YES　（カラオケ）　CHAGE&ASKA"
+  },
+  {
+    "created_at": "2017-03-17T08:12:35.833Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "t_fdZUTYbS4",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "Sweet 19 Blues",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/t_fdZUTYbS4/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/t_fdZUTYbS4/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/t_fdZUTYbS4/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "-zQWavER7to",
-        "song_title": "海の声",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/-zQWavER7to/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/-zQWavER7to/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/-zQWavER7to/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "浦島太郎",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "安室奈美恵 Namie Amuro 「SWEET 19 BLUES」 instrumental +Lyrics 歌詞付きBGM （作詞・作曲 小室哲哉 Lyrics/Composer Tetsuya Komuro）",
+    "id": 13571,
+    "updated_at": "2017-03-17T08:12:35.833Z",
+    "vocal": "N",
+    "artist": "安室奈美惠",
+    "tag": "異國風情",
+    "title": "安室奈美恵　SWEET 19 BLUES　インストゥルメンタル 歌詞付き　カラオケ"
+  },
+  {
+    "created_at": "2017-03-17T08:12:36.236Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "oo6zlMTqDLU",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "サチコ",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/oo6zlMTqDLU/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/oo6zlMTqDLU/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/oo6zlMTqDLU/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "K6yn1WAHB8s",
-        "song_title": "ひまわりの約束",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/K6yn1WAHB8s/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/K6yn1WAHB8s/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/K6yn1WAHB8s/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "秦 基博",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "懐メロカラオケ 「サチコ」 原曲 ♪ニック・ニューサ.",
+    "id": 13573,
+    "updated_at": "2017-03-17T08:12:36.236Z",
+    "vocal": "N",
+    "artist": "ニック．ニューサー",
+    "tag": "異國風情",
+    "title": "懐メロカラオケ　「サチコ」　原曲 ♪ニック・ニューサ"
+  },
+  {
+    "created_at": "2017-03-17T08:12:36.630Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "My1_E2KYqP8",
+    "song_id": 87085,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "つぐない",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/My1_E2KYqP8/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/My1_E2KYqP8/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/My1_E2KYqP8/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "6cyYwhL2zeU",
-        "song_title": "Endless",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/6cyYwhL2zeU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/6cyYwhL2zeU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/6cyYwhL2zeU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "플라워",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13575,
+    "updated_at": "2017-03-17T08:12:36.630Z",
+    "vocal": "S",
+    "artist": "鄧麗君",
+    "tag": "高清影片,異國風情",
+    "title": "つぐない  鄧麗君【附加歌詞  音標 1080P】"
+  },
+  {
+    "created_at": "2017-03-17T08:12:37.049Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "szGb41hHUHs",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "ようかい体操第一",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/szGb41hHUHs/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/szGb41hHUHs/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/szGb41hHUHs/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "rxckGuUTQts",
-        "song_title": "Adele - Rolling In The Deep (Karaoke Version)",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/rxckGuUTQts/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/rxckGuUTQts/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/rxckGuUTQts/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Adele",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "http://avex.jp/dream5/ テレビ東京系 アニメ「妖怪ウォッチ」のエンディングテーマである 「ようかい体操第一」（Dream5）の体操ビデオ！ 「ようかい...",
+    "id": 13577,
+    "updated_at": "2017-03-17T08:12:37.049Z",
+    "vocal": "S",
+    "artist": "Dream5",
+    "tag": "異國風情",
+    "title": "Dream5 / ようかい体操第一＜体操ビデオ＞"
+  },
+  {
+    "created_at": "2017-03-17T08:12:37.263Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "4kjQjIfQnXY",
+    "song_id": 194355,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "上を向いて歩こう",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/4kjQjIfQnXY/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/4kjQjIfQnXY/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/4kjQjIfQnXY/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "06LNPeJJvmE",
-        "song_title": "さくら(独唱)",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/06LNPeJJvmE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/06LNPeJJvmE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/06LNPeJJvmE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "森山直太朗",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13578,
+    "updated_at": "2017-03-17T08:12:37.263Z",
+    "vocal": "N",
+    "artist": "坂本九",
+    "tag": "異國風情",
+    "title": "上を向いて歩こう　（カラオケ）　坂本九"
+  },
+  {
+    "created_at": "2017-03-17T08:12:37.494Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "fEoOlTKrrEg",
+    "song_id": 56635,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "大阪しぐれ",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/fEoOlTKrrEg/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/fEoOlTKrrEg/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/fEoOlTKrrEg/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "AnQESyZisU0",
-        "song_title": "Humble.",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/AnQESyZisU0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/AnQESyZisU0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/AnQESyZisU0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Kendrick Lamar",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13579,
+    "updated_at": "2017-03-17T08:12:37.494Z",
+    "vocal": "N",
+    "artist": "都はるみ",
+    "tag": "異國風情",
+    "title": "大阪しぐれ　（カラオケ）　都はるみ"
+  },
+  {
+    "created_at": "2017-03-17T08:12:37.698Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "WLjj9fand_M",
+    "song_id": 31776,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "川の流れのように",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/WLjj9fand_M/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/WLjj9fand_M/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/WLjj9fand_M/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "M7IRRqGxQok",
-        "song_title": "愛をこめて花束を",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/M7IRRqGxQok/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/M7IRRqGxQok/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/M7IRRqGxQok/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Superfly",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "Romaji karaoke 一番はテレサが歌っています。 二番はカラオケです。途中からテレサがフェードインしてきます。",
+    "id": 13580,
+    "updated_at": "2017-03-17T08:12:37.698Z",
+    "vocal": "S",
+    "artist": "美空ひばり",
+    "tag": "異國風情",
+    "title": "川の流れのように テレサと歌うカラオケ Romaji karaoke"
+  },
+  {
+    "created_at": "2017-03-17T08:12:37.874Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "NwsYQIj9nkM",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "北国の春",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/NwsYQIj9nkM/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/NwsYQIj9nkM/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/NwsYQIj9nkM/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "q2Av5Bcblo4",
-        "song_title": "粉雪",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/q2Av5Bcblo4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/q2Av5Bcblo4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/q2Av5Bcblo4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "レミオロメン",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "懐メロカラオケ 「北国の春」 原曲 ♪千 昌夫.",
+    "id": 13581,
+    "updated_at": "2017-03-17T08:12:37.874Z",
+    "vocal": "N",
+    "artist": "千 昌夫",
+    "tag": "異國風情",
+    "title": "懐メロカラオケ　「北国の春」　原曲 ♪千　昌夫"
+  },
+  {
+    "created_at": "2017-03-17T08:12:38.821Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "2ZRJW1xPSq0",
+    "song_id": 194284,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "花笠道中",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/2ZRJW1xPSq0/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/2ZRJW1xPSq0/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/2ZRJW1xPSq0/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "KIfFih3qRaI",
-        "song_title": "栄光の架橋",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/KIfFih3qRaI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/KIfFih3qRaI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/KIfFih3qRaI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "ゆず",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "http://www.ashinari.com/ 写真素材足成提供.",
+    "id": 13586,
+    "updated_at": "2017-03-17T08:12:38.821Z",
+    "vocal": "N",
+    "artist": "美空ひばり",
+    "tag": "高清影片,異國風情",
+    "title": "「花笠道中」カラオケ・オリジナル歌手・美空ひばり"
+  },
+  {
+    "created_at": "2017-03-17T08:12:39.019Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "9Swv7Hkirl4",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "長崎は今日も雨だった",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/9Swv7Hkirl4/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/9Swv7Hkirl4/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/9Swv7Hkirl4/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "Woorod1gJ_w",
-        "song_title": "小さな恋のうた",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Woorod1gJ_w/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Woorod1gJ_w/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Woorod1gJ_w/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "MONGOL800",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13587,
+    "updated_at": "2017-03-17T08:12:39.019Z",
+    "vocal": "N",
+    "artist": "內山田洋とクルファイブ",
+    "tag": "異國風情",
+    "title": "長崎は今日も雨だった　（カラオケ）　内山田洋とクール・ファイブ"
+  },
+  {
+    "created_at": "2017-03-17T08:12:39.197Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "p9WuGZos4kE",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "昴(すばる)",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/p9WuGZos4kE/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/p9WuGZos4kE/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/p9WuGZos4kE/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "n_pY3PktGWU",
-        "song_title": "366日",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/n_pY3PktGWU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/n_pY3PktGWU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/n_pY3PktGWU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "HY",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13588,
+    "updated_at": "2017-03-17T08:12:39.197Z",
+    "vocal": "N",
+    "artist": "谷村新司",
+    "tag": "異國風情",
+    "title": "昴＜すばる＞　カラオケ　谷村新司"
+  },
+  {
+    "created_at": "2017-03-17T08:12:39.843Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "oJqlhJhJuQg",
+    "song_id": 194255,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "浪花節だよ人生は",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/oJqlhJhJuQg/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/oJqlhJhJuQg/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/oJqlhJhJuQg/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "3S5Yu9HpE3I",
-        "song_title": "残酷な天使のテーゼ",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/3S5Yu9HpE3I/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/3S5Yu9HpE3I/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/3S5Yu9HpE3I/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "高橋洋子",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13591,
+    "updated_at": "2017-03-17T08:12:39.843Z",
+    "vocal": "N",
+    "artist": "木村友衛",
+    "tag": "高清影片,異國風情",
+    "title": "浪花節だよ人生は　（カラオケ）　木村友衛"
+  },
+  {
+    "created_at": "2017-03-17T08:12:40.012Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "fYO8HJ7A6ws",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "酒よ",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/fYO8HJ7A6ws/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/fYO8HJ7A6ws/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/fYO8HJ7A6ws/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "m4aJnxGzdZw",
-        "song_title": "孤星",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/m4aJnxGzdZw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/m4aJnxGzdZw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/m4aJnxGzdZw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "王傑",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13592,
+    "updated_at": "2017-03-17T08:12:40.012Z",
+    "vocal": "N",
+    "artist": "吉 幾三",
+    "tag": "異國風情",
+    "title": "酒よ　（カラオケ）　吉幾三"
+  },
+  {
+    "created_at": "2017-03-17T08:12:40.210Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "zJMctNwrQyk",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "骨まで愛して",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/zJMctNwrQyk/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/zJMctNwrQyk/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/zJMctNwrQyk/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "csLYjy850rc",
-        "song_title": "기억을걷는시간",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/csLYjy850rc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/csLYjy850rc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/csLYjy850rc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "넬",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13593,
+    "updated_at": "2017-03-17T08:12:40.210Z",
+    "vocal": "N",
+    "artist": "城 卓矢",
+    "tag": "異國風情",
+    "title": "骨まで愛して　（カラオケ）　城卓矢"
+  },
+  {
+    "created_at": "2017-03-17T08:12:40.607Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "Yc72vWMqWi0",
+    "song_id": 53683,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "細雪",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/Yc72vWMqWi0/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/Yc72vWMqWi0/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/Yc72vWMqWi0/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "QK8mJJJvaes",
-        "song_title": "Macklemore & Ryan Lewis and Wanz - Thrift Shop (Karaoke Version)",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/QK8mJJJvaes/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/QK8mJJJvaes/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/QK8mJJJvaes/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Rudimental",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13595,
+    "updated_at": "2017-03-17T08:12:40.607Z",
+    "vocal": "N",
+    "artist": "五木ひろし",
+    "tag": "異國風情",
+    "title": "細雪　（カラオケ）　五木ひろし"
+  },
+  {
+    "created_at": "2017-03-17T08:12:41.202Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "pfJUly7pVs4",
+    "song_id": 86331,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "愛人",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/pfJUly7pVs4/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/pfJUly7pVs4/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/pfJUly7pVs4/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "YzLw5e01ihs",
-        "song_title": "世界に一つだけの花",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/YzLw5e01ihs/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/YzLw5e01ihs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/YzLw5e01ihs/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "SMAP",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13597,
+    "updated_at": "2017-03-17T08:12:41.202Z",
+    "vocal": "N",
+    "artist": "鄧麗君",
+    "tag": "異國風情",
+    "title": "愛人　（カラオケ）　テレサ・テン"
+  },
+  {
+    "created_at": "2017-03-17T08:12:41.405Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "vsdIKe_FIXc",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "裏町酒場",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/vsdIKe_FIXc/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/vsdIKe_FIXc/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/vsdIKe_FIXc/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "PDSkFeMVNFs",
-        "song_title": "前前前世 (movie ver.)",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/PDSkFeMVNFs/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "RADWIMPS",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "Uramachi_Sakaba Misora_hibari.",
+    "id": 13598,
+    "updated_at": "2017-03-17T08:12:41.405Z",
+    "vocal": "N",
+    "artist": "美空ひばり",
+    "tag": "異國風情",
+    "title": "懐メロカラオケ　「裏町酒場」　原曲♪ 美空ひばり"
+  },
+  {
+    "created_at": "2017-03-17T08:12:41.647Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "d3WXdL25_BQ",
+    "song_id": 52971,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "夢追い酒",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/d3WXdL25_BQ/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/d3WXdL25_BQ/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/d3WXdL25_BQ/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "lbMC1_DiLlg",
-        "song_title": "【HD】陳粒 - 易燃易爆炸 [歌詞字幕][完整高清音質] Chen Li - Flammable and Explosive",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/lbMC1_DiLlg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/lbMC1_DiLlg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/lbMC1_DiLlg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "陳粒",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13599,
+    "updated_at": "2017-03-17T08:12:41.647Z",
+    "vocal": "N",
+    "artist": "渥美二郎",
+    "tag": "異國風情",
+    "title": "夢追い酒　（カラオケ）　渥美二郎"
+  },
+  {
+    "created_at": "2017-03-17T08:12:42.244Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "AJMzFK1-x6A",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "みちづれ",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/AJMzFK1-x6A/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/AJMzFK1-x6A/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/AJMzFK1-x6A/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "iJHZRT-BDsM",
-        "song_title": "新裤子 - 爱情催泪弹",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/iJHZRT-BDsM/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/iJHZRT-BDsM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/iJHZRT-BDsM/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "新褲子樂隊",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "渡 哲也 カラオケ.",
+    "id": 13602,
+    "updated_at": "2017-03-17T08:12:42.244Z",
+    "vocal": "S",
+    "artist": "渡 哲也",
+    "tag": "異國風情",
+    "title": "みちづれ / 渡　哲也 / カラオケ・カバー"
+  },
+  {
+    "created_at": "2017-03-17T08:12:42.409Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "32R5tOa6t1A",
+    "song_id": 194291,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "SECRET OF MY HEART",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/32R5tOa6t1A/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/32R5tOa6t1A/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/32R5tOa6t1A/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "zi8z6RPYGV0",
-        "song_title": "天黑黑",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/zi8z6RPYGV0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/zi8z6RPYGV0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/zi8z6RPYGV0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "孙燕姿",
-        "tag": ""
+    "status": "1",
+    "song_lang": "E",
+    "description": "最近思い出した歌ですが、やっぱり麻衣ちゃん最高です～ （もう１０なん年？） Music Produce by FL Studio http://affiliate.image-line.com/IDFAGBB479.",
+    "id": 13603,
+    "updated_at": "2017-03-17T08:12:42.409Z",
+    "vocal": "N",
+    "artist": "倉木麻衣",
+    "tag": "異國風情",
+    "title": "Kuraki Mai 倉木麻衣 Secret of My Heart (English Ver.) - Midi Instrumental Karaoke"
+  },
+  {
+    "created_at": "2017-03-17T08:12:42.625Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "CzCP67nWZoI",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "EVERY HEART",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/CzCP67nWZoI/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/CzCP67nWZoI/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/CzCP67nWZoI/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "hYStIbcakd4",
-        "song_title": "【キラキラ☆プリキュアアラモード】後期エンディング 「シュビドゥビ☆スイーツタイム」 （歌：宮本佳那子）",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "RiNG-O Melody",
-        "tag": ""
+    "status": "1",
+    "song_lang": "K",
+    "description": "매일매일 새로운 노래가 업데이트 됩니다. 구독을 통해 그 기쁨을 즐기세요! Brand NEW KPOP SONG will be updated EVERY DAY!! Would you like to enjoy more ...",
+    "id": 13604,
+    "updated_at": "2017-03-17T08:12:42.625Z",
+    "vocal": "N",
+    "artist": "寶兒(BOA)",
+    "tag": "異國風情",
+    "title": "[KY 금영노래방] BOA(보아) - Every Heart (KY Karaoke No.KY62728)"
+  },
+  {
+    "created_at": "2017-03-17T08:12:42.880Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "ubEC9me4B1c",
+    "song_id": 194798,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "未来へ",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/ubEC9me4B1c/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/ubEC9me4B1c/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/ubEC9me4B1c/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "q2UVTPlKZtQ",
-        "song_title": "Adele-Hello Karaoke Version(BY:SING KING KARAOKE)",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/q2UVTPlKZtQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/q2UVTPlKZtQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/q2UVTPlKZtQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Adele",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "カラオケ：https://www.youtube.com/watch?v=AuPsUd50gqM&feature=youtu.be jasrac 051-9147-5 未来へ 作曲：玉城千春 作詞：玉城千春.",
+    "id": 13605,
+    "updated_at": "2017-03-17T08:12:42.880Z",
+    "vocal": "N",
+    "artist": "KIRORO",
+    "tag": "異國風情",
+    "title": "未来へ_Kiroro_Midi Instrumental_歌詞"
+  },
+  {
+    "created_at": "2017-03-17T08:12:43.074Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "WH8ZPINGpRs",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "勇者的浪漫(風になって)",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/WH8ZPINGpRs/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/WH8ZPINGpRs/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/WH8ZPINGpRs/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "hYStIbcakd4",
-        "song_title": "キュアホイップキャラクターソング「ダイスキにベリーを添えて」 ～「キラキラ☆プリキュアアラモード」第１話より～",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "RiNG-O Melody",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13606,
+    "updated_at": "2017-03-17T08:12:43.074Z",
+    "vocal": "N",
+    "artist": "中孝介,RAKE,范逸臣,舒米恩,羅美玲",
+    "tag": "異國風情",
+    "title": "映画KANO 勇者的浪漫~風になって~ 歌ってみた"
+  },
+  {
+    "created_at": "2017-03-17T08:12:43.344Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "e0VF9ofgdxI",
+    "song_id": 194683,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "長い間",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/e0VF9ofgdxI/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/e0VF9ofgdxI/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/e0VF9ofgdxI/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "hYStIbcakd4",
-        "song_title": "キュアジェラート キャラクターソング「青空Alright」 ～「キラキラ☆プリキュアアラモード」第3話より～",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/hYStIbcakd4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "RiNG-O Melody",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "It is still the best to enjoy original song.",
+    "id": 13607,
+    "updated_at": "2017-03-17T08:12:43.344Z",
+    "vocal": "N",
+    "artist": "KIRORO",
+    "tag": "異國風情",
+    "title": "Karaoke  kiroro　長い間"
+  },
+  {
+    "created_at": "2017-03-17T08:12:43.542Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "tGOq8mE6h4w",
+    "song_id": 56641,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "浮草ぐらし",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/tGOq8mE6h4w/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/tGOq8mE6h4w/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/tGOq8mE6h4w/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "TlQ-drhvT0c",
-        "song_title": "林俊傑 JJ Lin - I am alive feat. Jason Mraz 傑森瑪耶茲 (華納 Official 高畫質 HD 官方完整版 MV)",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/TlQ-drhvT0c/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/TlQ-drhvT0c/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/TlQ-drhvT0c/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "林俊傑",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13608,
+    "updated_at": "2017-03-17T08:12:43.542Z",
+    "vocal": "N",
+    "artist": "都はるみ",
+    "tag": "異國風情",
+    "title": "浮草ぐらし　（カラオケ）　都はるみ"
+  },
+  {
+    "created_at": "2017-03-17T08:12:43.742Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "b1-RKsFk-zU",
+    "song_id": 194378,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "天城越え",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/b1-RKsFk-zU/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/b1-RKsFk-zU/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/b1-RKsFk-zU/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "NCE8xoq7vgk",
-        "song_title": "林俊傑 JJ LIn【記得 Remember】官方完整版 MV（張惠妹原唱）",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/NCE8xoq7vgk/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/NCE8xoq7vgk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/NCE8xoq7vgk/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "",
-        "tag": ""
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13609,
+    "updated_at": "2017-03-17T08:12:43.742Z",
+    "vocal": "N",
+    "artist": "石川さゆり",
+    "tag": "異國風情",
+    "title": "天城越え　（カラオケ）　石川さゆり"
+  },
+  {
+    "created_at": "2017-03-17T08:12:43.904Z",
+    "playlist_id": 5,
+    "source": "youtube",
+    "video_id": "nfUTd9N7qic",
+    "song_id": null,
+    "release_date": "2017-03-17T00:00:00.000Z",
+    "song_title": "恋人よ",
+    "thumbnails": {
+      "high": {
+        "height": 360,
+        "url": "https://i.ytimg.com/vi/nfUTd9N7qic/hqdefault.jpg",
+        "width": 480
+      },
+      "medium": {
+        "height": 180,
+        "url": "https://i.ytimg.com/vi/nfUTd9N7qic/mqdefault.jpg",
+        "width": 320
+      },
+      "default": {
+        "height": 90,
+        "url": "https://i.ytimg.com/vi/nfUTd9N7qic/default.jpg",
+        "width": 120
+      }
     },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "eLPs_w-FepA",
-        "song_title": "supercell - Kimino Shiranai Monogatari",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/eLPs_w-FepA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/eLPs_w-FepA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/eLPs_w-FepA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "supercell",
-        "tag": ""
-    },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "T2XPzIpvW_E",
-        "song_title": "Endless Love",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/T2XPzIpvW_E/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/T2XPzIpvW_E/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/T2XPzIpvW_E/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Diana Ross , Lionel Richie",
-        "tag": ""
-    },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "VirUKH-AZ3s",
-        "song_title": "【フル歌詞付カラオケ】魂のルフラン(高橋洋子)【劇場版｢新世紀エヴァンゲリオン｣主題歌】【野田工房cover】",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/VirUKH-AZ3s/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/VirUKH-AZ3s/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/VirUKH-AZ3s/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "",
-        "tag": ""
-    },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "C_4f0Ga6Aas",
-        "song_title": "張雨生&姚可傑&邰正宵&張啟娜 烈火青春",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/C_4f0Ga6Aas/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/C_4f0Ga6Aas/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/C_4f0Ga6Aas/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "張雨生",
-        "tag": ""
-    },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "VS50eqAqoIs",
-        "song_title": "【カラオケ練習用】雪の華 / 中島美嘉【歌詞付き・フル・offvocal・歌いやすい高音質動画・歌ってみたにもおすすめ！】",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/VS50eqAqoIs/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/VS50eqAqoIs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/VS50eqAqoIs/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "",
-        "tag": ""
-    },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "o71_MatpYV0",
-        "song_title": "Shape Of You",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/o71_MatpYV0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/o71_MatpYV0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/o71_MatpYV0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Ed Sheeran",
-        "tag": ""
-    },
-    {
-        "playlist_id": 5,
-        "source": "youtube",
-        "video_id": "ARJ3lq3NiO8",
-        "song_title": "Bruno Mars -  Just The Way You Are ( Karaoke )",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ARJ3lq3NiO8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ARJ3lq3NiO8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ARJ3lq3NiO8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Bruno Mars",
-        "tag": ""
-    }
+    "status": "1",
+    "song_lang": "J",
+    "description": "",
+    "id": 13610,
+    "updated_at": "2017-03-17T08:12:43.904Z",
+    "vocal": "N",
+    "artist": "五輪真弓",
+    "tag": "異國風情",
+    "title": "恋人よ　（カラオケ）　五輪真弓"
+  }
 ]
