@@ -9,13 +9,146 @@
                 "icon": "ic_chart"
             }
         },
-        "count": 49,
-        "updated_at": "2018-07-19 10:07:41",
+        "count": 26,
+        "updated_at": "2018-07-19 17:23:04",
         "fullname_localize": {
             "default": "OceanKTV Hot Songs",
             "cht": "OceanKTV Hot Songs",
             "eng": "OceanKTV Hot Songs",
             "chs": "OceanKTV Hot Songs"
+        }
+    },
+    {
+        "id": 15,
+        "fullname": "Mix Hits Hot New Singles",
+        "region": "sg",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62132362v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 87,
+        "updated_at": "2018-07-19 17:23:04",
+        "fullname_localize": {
+            "default": "Mix Hits Hot New Singles",
+            "cht": "Mix Hits Hot New Singles",
+            "eng": "Mix Hits Hot New Singles",
+            "chs": "Mix Hits Hot New Singles"
+        }
+    },
+    {
+        "id": 16,
+        "fullname": "International Hot New Singles",
+        "region": "sg",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62132334v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 89,
+        "updated_at": "2018-07-19 17:23:04",
+        "fullname_localize": {
+            "default": "International Hot New Singles",
+            "cht": "International Hot New Singles",
+            "eng": "International Hot New Singles",
+            "chs": "International Hot New Singles"
+        }
+    },
+    {
+        "id": 17,
+        "fullname": "Mandarin Hot New Singles",
+        "region": "sg",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62132327v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 83,
+        "updated_at": "2018-07-19 17:23:04",
+        "fullname_localize": {
+            "default": "Mandarin Hot New Singles",
+            "cht": "Mandarin Hot New Singles",
+            "eng": "Mandarin Hot New Singles",
+            "chs": "Mandarin Hot New Singles"
+        }
+    },
+    {
+        "id": 18,
+        "fullname": "Korean Hot New Singles",
+        "region": "sg",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62132355v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 73,
+        "updated_at": "2018-07-19 17:23:04",
+        "fullname_localize": {
+            "default": "Korean Hot New Singles",
+            "cht": "Korean Hot New Singles",
+            "eng": "Korean Hot New Singles",
+            "chs": "Korean Hot New Singles"
+        }
+    },
+    {
+        "id": 19,
+        "fullname": "Japanese Hot New Singles",
+        "region": "sg",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62132348v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 26,
+        "updated_at": "2018-07-19 17:23:04",
+        "fullname_localize": {
+            "default": "Japanese Hot New Singles",
+            "cht": "Japanese Hot New Singles",
+            "eng": "Japanese Hot New Singles",
+            "chs": "Japanese Hot New Singles"
+        }
+    },
+    {
+        "id": 20,
+        "fullname": "Cantonese Hot New Singles",
+        "region": "sg",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62132341v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 52,
+        "updated_at": "2018-07-19 17:23:04",
+        "fullname_localize": {
+            "default": "Cantonese Hot New Singles",
+            "cht": "Cantonese Hot New Singles",
+            "eng": "Cantonese Hot New Singles",
+            "chs": "Cantonese Hot New Singles"
+        }
+    },
+    {
+        "id": 21,
+        "fullname": "UK/US Chart",
+        "region": "sg",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/23026409v3/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 163,
+        "updated_at": "2018-07-19 17:23:04",
+        "fullname_localize": {
+            "default": "UK/US Chart",
+            "cht": "UK/US Chart",
+            "eng": "UK/US Chart",
+            "chs": "UK/US Chart"
         }
     }
 ]
