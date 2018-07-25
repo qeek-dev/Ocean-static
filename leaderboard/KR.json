@@ -10,12 +10,31 @@
             }
         },
         "count": 45,
-        "updated_at": "2018-07-20 18:43:07",
+        "updated_at": "2018-07-25 12:41:56",
         "fullname_localize": {
             "default": "OceanKTV Hot Songs",
             "cht": "OceanKTV Hot Songs",
             "eng": "OceanKTV Hot Songs",
             "chs": "OceanKTV Hot Songs"
+        }
+    },
+    {
+        "id": 81,
+        "fullname": "THETOPTENS: Top Korean Songs  ",
+        "region": "kr",
+        "thumbnails": {
+            "default": {
+                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
+                "icon": "ic_korea"
+            }
+        },
+        "count": 47,
+        "updated_at": "2018-07-25 12:41:56",
+        "fullname_localize": {
+            "default": "THETOPTENS: Top Korean Songs  ",
+            "cht": "THETOPTENS: Top Korean Songs  ",
+            "eng": "THETOPTENS: Top Korean Songs  ",
+            "chs": "THETOPTENS: Top Korean Songs  "
         }
     }
 ]
