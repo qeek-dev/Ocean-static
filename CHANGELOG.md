@@ -25,6 +25,12 @@ OceanKTV v2 requires:
 - **Not compatiable with current OceanV1 mobile apps, OceanV2 mobile app is coming soon.**
 
 
+### v2.1.2
+---
+##### Server
+- `Fix` [Bug [131385](http://172.17.25.222/bugzilla/show_bug.cgi?id=131385)] 修正 OceanKTV 安裝程序無法停止問題
+
+
 ### v2.1.1
 ---
 ##### Server
