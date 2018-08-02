@@ -35,6 +35,7 @@ OceanKTV v2 requires:
 ---
 ##### Server
 - `Feature` [Spec [15722](http://spec.qnap.com.tw/issues/15722)] OceanKTV system log 導入至 Notification Center
+- `Fix` [Bug [131711](http://172.17.25.222/bugzilla/show_bug.cgi?id=131711)] Console 大量匯入歌曲後，KTV moible fetch photo 會 crush
 
 ##### Web
 - `Fix` [Bug [129696](http://172.17.25.222/bugzilla/show_bug.cgi?id=129696)] 透過分享連結新增Youtube播放清單的功能失效
