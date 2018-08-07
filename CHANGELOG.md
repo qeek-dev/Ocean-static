@@ -30,6 +30,8 @@ OceanKTV v2 requires:
 ##### Server
 - `Fix` [Bug [131385](http://172.17.25.222/bugzilla/show_bug.cgi?id=131385)] 修正 OceanKTV 安裝程序無法停止問題
 
+##### TV
+- `Feature` [Spec [17530](http://spec.qnap.com.tw/issues/17530)] 針對HD Station 版本4.0.0 重新 Porting
 
 ### v2.1.1
 ---
