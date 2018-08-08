@@ -10,7 +10,7 @@
             }
         },
         "count": 48,
-        "updated_at": "2018-07-26 11:35:43",
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "OceanKTV 排行榜",
             "cht": "OceanKTV 排行榜",
@@ -24,12 +24,12 @@
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_4_300_214918545.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_4_300_215308672.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 43,
-        "updated_at": "2018-07-26 11:35:43",
+        "count": 48,
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·流行指数",
             "cht": "巅峰榜·流行指数",
@@ -43,12 +43,12 @@
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_26_300_214360296.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_26_300_215100802.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 50,
-        "updated_at": "2018-07-26 11:35:43",
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·热歌",
             "cht": "巅峰榜·热歌",
@@ -62,12 +62,12 @@
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_27_300_214918545.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_27_300_215308672.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 45,
-        "updated_at": "2018-07-26 11:35:43",
+        "count": 47,
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·新歌",
             "cht": "巅峰榜·新歌",
@@ -81,12 +81,12 @@
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_54_300_214981613.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_54_300_215425189.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 39,
-        "updated_at": "2018-07-26 11:35:43",
+        "count": 48,
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "勇闯天涯·巅峰榜·明日之子",
             "cht": "勇闯天涯·巅峰榜·明日之子",
@@ -96,16 +96,54 @@
     },
     {
         "id": 50,
-        "fullname": "巅峰榜·网络歌曲",
+        "fullname": "江小白YOLO·巅峰榜·中国新说唱",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_28_300_214360296.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_55_300_215191234.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 50,
+        "updated_at": "2018-08-09 01:01:16",
+        "fullname_localize": {
+            "default": "江小白YOLO·巅峰榜·中国新说唱",
+            "cht": "江小白YOLO·巅峰榜·中国新说唱",
+            "eng": "江小白YOLO·巅峰榜·中国新说唱",
+            "chs": "江小白YOLO·巅峰榜·中国新说唱"
+        }
+    },
+    {
+        "id": 51,
+        "fullname": "巅峰榜·2018中国好声音",
+        "region": "cn",
+        "thumbnails": {
+            "default": {
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_56_300_215429333.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 42,
-        "updated_at": "2018-07-26 11:35:43",
+        "updated_at": "2018-08-09 01:01:16",
+        "fullname_localize": {
+            "default": "巅峰榜·2018中国好声音",
+            "cht": "巅峰榜·2018中国好声音",
+            "eng": "巅峰榜·2018中国好声音",
+            "chs": "巅峰榜·2018中国好声音"
+        }
+    },
+    {
+        "id": 52,
+        "fullname": "巅峰榜·网络歌曲",
+        "region": "cn",
+        "thumbnails": {
+            "default": {
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_28_300_215101787.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 40,
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·网络歌曲",
             "cht": "巅峰榜·网络歌曲",
@@ -114,17 +152,17 @@
         }
     },
     {
-        "id": 51,
+        "id": 53,
         "fullname": "巅峰榜·内地",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_5_300_214386093.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_5_300_215100802.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 48,
-        "updated_at": "2018-07-26 11:35:43",
+        "count": 49,
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·内地",
             "cht": "巅峰榜·内地",
@@ -133,17 +171,17 @@
         }
     },
     {
-        "id": 52,
+        "id": 54,
         "fullname": "巅峰榜·港台",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_6_300_214350724.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_6_300_214983503.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 40,
-        "updated_at": "2018-07-26 11:35:43",
+        "count": 47,
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·港台",
             "cht": "巅峰榜·港台",
@@ -152,17 +190,17 @@
         }
     },
     {
-        "id": 53,
+        "id": 55,
         "fullname": "巅峰榜·欧美",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_3_300_214231566.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_3_300_214956931.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 47,
-        "updated_at": "2018-07-26 11:35:43",
+        "count": 50,
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·欧美",
             "cht": "巅峰榜·欧美",
@@ -171,17 +209,17 @@
         }
     },
     {
-        "id": 54,
+        "id": 56,
         "fullname": "巅峰榜·韩国",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_16_300_214745012.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_16_300_215081704.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 45,
-        "updated_at": "2018-07-26 11:35:43",
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·韩国",
             "cht": "巅峰榜·韩国",
@@ -190,17 +228,17 @@
         }
     },
     {
-        "id": 55,
+        "id": 57,
         "fullname": "巅峰榜·影视金曲",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_29_300_214305831.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_29_300_214891118.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 46,
-        "updated_at": "2018-07-26 11:35:43",
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·影视金曲",
             "cht": "巅峰榜·影视金曲",
@@ -209,17 +247,17 @@
         }
     },
     {
-        "id": 56,
+        "id": 58,
         "fullname": "巅峰榜·日本",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_17_300_214777607.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_17_300_214992408.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 13,
-        "updated_at": "2018-07-26 11:35:43",
+        "count": 17,
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·日本",
             "cht": "巅峰榜·日本",
@@ -228,17 +266,17 @@
         }
     },
     {
-        "id": 58,
+        "id": 60,
         "fullname": "巅峰榜·腾讯音乐人原创榜",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_52_300_214285122.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_52_300_215059751.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 24,
-        "updated_at": "2018-07-26 11:35:43",
+        "count": 23,
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·腾讯音乐人原创榜",
             "cht": "巅峰榜·腾讯音乐人原创榜",
@@ -247,17 +285,17 @@
         }
     },
     {
-        "id": 59,
+        "id": 61,
         "fullname": "巅峰榜·K歌金曲",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_36_300_200732009.jpg",
+                "url": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_36_300_201816159.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 13,
-        "updated_at": "2018-07-26 11:35:43",
+        "count": 12,
+        "updated_at": "2018-08-09 01:01:16",
         "fullname_localize": {
             "default": "巅峰榜·K歌金曲",
             "cht": "巅峰榜·K歌金曲",
