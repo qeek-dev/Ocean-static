@@ -25,14 +25,51 @@ OceanKTV v2 requires:
 - **Not compatiable with current OceanV1 mobile apps, OceanV2 mobile app is coming soon.**
 
 
-### v2.1.0 (in dev)
+### v2.1.3
+##### TV
+- `Feature` [Spec [17530](http://spec.qnap.com.tw/issues/17530)] 針對HD Station 版本4.0.0 重新 Porting
+
+
+### v2.1.2
 ---
 ##### Server
-- `Fix` [Bug 108101] some v1's songbooks cannot migration to v2's playlist.
+- `Fix` [Bug [131385](http://172.17.25.222/bugzilla/show_bug.cgi?id=131385)] 修正 OceanKTV 安裝程序無法停止問題
+
+
+### v2.1.1
+---
+##### Server
+- `Feature` [Spec [15722](http://spec.qnap.com.tw/issues/15722)] OceanKTV system log 導入至 Notification Center
+- `Fix` [Bug [131711](http://172.17.25.222/bugzilla/show_bug.cgi?id=131711)] Console 大量匯入歌曲後，KTV moible fetch photo 會 crush
+
 ##### Web
-- `Fix` Import: Cannot click "next" when user select the 'default' value in metadata config.
+- `Fix` [Bug [129696](http://172.17.25.222/bugzilla/show_bug.cgi?id=129696)] 透過分享連結新增Youtube播放清單的功能失效
+
+
+### v2.1.0
+---
+##### Server
+- `Fix` [Bug [117231](http://172.17.25.222/bugzilla/show_bug.cgi?id=117231)] 修正移除 HD Station 後會有 KTVstation 的 APP 殘留在 APPcenter
+- `Fix` [Bug [118715](http://172.17.25.222/bugzilla/show_bug.cgi?id=118715)] Search showing expect result
+- `Fix` [Bug [123340](http://172.17.25.222/bugzilla/show_bug.cgi?id=123340)] 插拔 USB 音效卡設定行為異常
+
+##### Web
+- `Fix` [Bug [126254](http://172.17.25.222/bugzilla/show_bug.cgi?id=126254)] KTV 2.1.0 沒辦法進入console 管理介面
+- `Fix` [Bug [126402](http://172.17.25.222/bugzilla/show_bug.cgi?id=126402)] 多人團體的歌手圖片，常常人臉太小無法辨認
+- `Fix` [Bug [126396](http://172.17.25.222/bugzilla/show_bug.cgi?id=126396)] 少部分歌手不會有歌手圖片
+- `Feature` [Spec [13991](http://spec.qnap.com.tw/issues/13991)] 新增收尋歌曲與依資料夾點歌功能
+- `Feature` [Spec [14812](http://spec.qnap.com.tw/issues/14812)] 歌手頁面顯示歌手照片
+- `Enhancement` [Spec [16875](http://spec.qnap.com.tw/issues/16875)] 支援編輯歌手照片
+
 ##### TV
-- `Fix` cannot navigate song list when in specific "artist type".
+- `Fix` [Bug [126819](http://172.17.25.222/bugzilla/show_bug.cgi?id=126819)] player filter 進入搜尋或是設定，從 filter 結果的資料夾內回到上一層後 filter 會失效
+- `Feature` [Spec [13991](http://spec.qnap.com.tw/issues/13991)] 新增依資料夾點歌與收尋功能
+- `Enhancement` [Bug [126805](http://172.17.25.222/bugzilla/show_bug.cgi?id=126805)] player 首頁翻頁提示不明顯
+
+### v2.0.14
+---
+##### Server
+- `Feature` [Spec [16119](http://spec.qnap.com.tw/issues/16119)] revision google analytics
 
 
 ### v2.0.13
