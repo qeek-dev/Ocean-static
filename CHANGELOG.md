@@ -26,8 +26,14 @@ OceanKTV v2 requires:
 
 
 ### v2.1.3
+---
+##### Server
+- `Feature` [Spec [17920](http://spec.qnap.com.tw/issues/17920)] 移除 Google Analytics 資料蒐集
+- `Fix` [Bug [133993](http://172.17.25.222/bugzilla/show_bug.cgi?id=133993)] 匯入歌曲的視窗一片空白，無法選取來源資料夾
+- `Fix` [Bug [134014](http://172.17.25.222/bugzilla/show_bug.cgi?id=134014)] 資料夾點歌的選擇資料夾，視窗裡空白無法選擇資料夾
+
 ##### TV
-- `Feature` [Spec [17530](http://spec.qnap.com.tw/issues/17530)] 針對HD Station 版本4.0.0 重新 Porting
+- `Feature` [Spec [17530](http://spec.qnap.com.tw/issues/17530)] 針對 HD Station 版本4.0.0 重新 Porting
 
 
 ### v2.1.2
