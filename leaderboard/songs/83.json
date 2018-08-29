@@ -461,21 +461,21 @@
     {
         "playlist_id": 83,
         "source": "youtube",
-        "video_id": "I8vbsfejHYU",
+        "video_id": "3famooZrlGA",
         "song_title": "Alone",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/I8vbsfejHYU/default.jpg",
+                "url": "https://i.ytimg.com/vi/3famooZrlGA/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/I8vbsfejHYU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/3famooZrlGA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/I8vbsfejHYU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/3famooZrlGA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -893,21 +893,21 @@
     {
         "playlist_id": 83,
         "source": "youtube",
-        "video_id": "yxbh7ijspWQ",
+        "video_id": "Rh6LKALKCPY",
         "song_title": "Before the Dawn",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/yxbh7ijspWQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/Rh6LKALKCPY/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/yxbh7ijspWQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Rh6LKALKCPY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/yxbh7ijspWQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Rh6LKALKCPY/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1212,6 +1212,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Kim Hyun Joong",
+        "tag": ""
+    },
+    {
+        "playlist_id": 83,
+        "source": "youtube",
+        "video_id": "1_9SOopWik8",
+        "song_title": "N-Sonic",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1_9SOopWik8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1_9SOopWik8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1_9SOopWik8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Television",
         "tag": ""
     },
     {
