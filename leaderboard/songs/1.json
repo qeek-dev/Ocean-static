@@ -407,33 +407,6 @@
     {
         "playlist_id": 1,
         "source": "youtube",
-        "video_id": "ueECXa8tQC0",
-        "song_title": "酒後的心聲",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ueECXa8tQC0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ueECXa8tQC0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ueECXa8tQC0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "江蕙",
-        "tag": ""
-    },
-    {
-        "playlist_id": 1,
-        "source": "youtube",
         "video_id": "NhUAOPyNZfw",
         "song_title": "天后",
         "thumbnails": {
@@ -456,6 +429,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "陳勢安",
+        "tag": ""
+    },
+    {
+        "playlist_id": 1,
+        "source": "youtube",
+        "video_id": "ueECXa8tQC0",
+        "song_title": "酒後的心聲",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ueECXa8tQC0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ueECXa8tQC0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ueECXa8tQC0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "江蕙",
         "tag": ""
     },
     {
@@ -623,6 +623,33 @@
     {
         "playlist_id": 1,
         "source": "youtube",
+        "video_id": "acBsZstdFHw",
+        "song_title": "卡加布列島",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/acBsZstdFHw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/acBsZstdFHw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/acBsZstdFHw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "YOYO點點名",
+        "tag": ""
+    },
+    {
+        "playlist_id": 1,
+        "source": "youtube",
         "video_id": "X_Kkw0p0tBw",
         "song_title": "小酒窩",
         "thumbnails": {
@@ -645,33 +672,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "蔡卓妍,林俊傑",
-        "tag": ""
-    },
-    {
-        "playlist_id": 1,
-        "source": "youtube",
-        "video_id": "ZkR2JJtcPGc",
-        "song_title": "剛剛好",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ZkR2JJtcPGc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ZkR2JJtcPGc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ZkR2JJtcPGc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "薛之謙",
         "tag": ""
     },
     {
@@ -704,6 +704,60 @@
     {
         "playlist_id": 1,
         "source": "youtube",
+        "video_id": "cNLGs7sjL5o",
+        "song_title": "入陣曲",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cNLGs7sjL5o/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cNLGs7sjL5o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cNLGs7sjL5o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "五月天",
+        "tag": ""
+    },
+    {
+        "playlist_id": 1,
+        "source": "youtube",
+        "video_id": "ZkR2JJtcPGc",
+        "song_title": "剛剛好",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ZkR2JJtcPGc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ZkR2JJtcPGc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ZkR2JJtcPGc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "薛之謙",
+        "tag": ""
+    },
+    {
+        "playlist_id": 1,
+        "source": "youtube",
         "video_id": "xj5Ge7NgA6o",
         "song_title": "All Of Me(我是歌手第三季)",
         "thumbnails": {
@@ -731,6 +785,33 @@
     {
         "playlist_id": 1,
         "source": "youtube",
+        "video_id": "wC0l-jsAgps",
+        "song_title": "你，好不好？",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/wC0l-jsAgps/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/wC0l-jsAgps/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/wC0l-jsAgps/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "周興哲",
+        "tag": ""
+    },
+    {
+        "playlist_id": 1,
+        "source": "youtube",
         "video_id": "6o7GhIfvrqQ",
         "song_title": "夢中的情話",
         "thumbnails": {
@@ -753,87 +834,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "江惠,阿杜",
-        "tag": ""
-    },
-    {
-        "playlist_id": 1,
-        "source": "youtube",
-        "video_id": "acBsZstdFHw",
-        "song_title": "卡加布列島",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/acBsZstdFHw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/acBsZstdFHw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/acBsZstdFHw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "YOYO點點名",
-        "tag": ""
-    },
-    {
-        "playlist_id": 1,
-        "source": "youtube",
-        "video_id": "JB7yJowjOhc",
-        "song_title": "你，好不好？",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/JB7yJowjOhc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/JB7yJowjOhc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/JB7yJowjOhc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "周興哲",
-        "tag": ""
-    },
-    {
-        "playlist_id": 1,
-        "source": "youtube",
-        "video_id": "cNLGs7sjL5o",
-        "song_title": "入陣曲",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/cNLGs7sjL5o/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/cNLGs7sjL5o/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/cNLGs7sjL5o/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "五月天",
         "tag": ""
     },
     {
@@ -1136,21 +1136,21 @@
     {
         "playlist_id": 1,
         "source": "youtube",
-        "video_id": "HWjDRkR5HJU",
+        "video_id": "tjUbnNmq_xQ",
         "song_title": "泡沫",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/HWjDRkR5HJU/default.jpg",
+                "url": "https://i.ytimg.com/vi/tjUbnNmq_xQ/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/HWjDRkR5HJU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/tjUbnNmq_xQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/HWjDRkR5HJU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/tjUbnNmq_xQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1217,21 +1217,21 @@
     {
         "playlist_id": 1,
         "source": "youtube",
-        "video_id": "ffVjoeRlgcg",
+        "video_id": "AyODhEjh1YU",
         "song_title": "光年之外",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/ffVjoeRlgcg/default.jpg",
+                "url": "https://i.ytimg.com/vi/AyODhEjh1YU/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/ffVjoeRlgcg/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/AyODhEjh1YU/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/ffVjoeRlgcg/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/AyODhEjh1YU/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
