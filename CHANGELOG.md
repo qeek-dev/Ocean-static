@@ -34,6 +34,8 @@ OceanKTV v2 requires:
 
 ##### TV
 - `Feature` [Spec [17530](http://spec.qnap.com.tw/issues/17530)] 針對 HD Station 版本4.0.0 重新 Porting
+- `Fix` [Bug [134618](http://172.17.25.222/bugzilla/show_bug.cgi?id=134618)] 修正 KTV TVPlayer 啟動流程錯誤問題
+- `FIX` [BUG [135516](http://172.17.25.222/bugzilla/show_bug.cgi?id=135516)] 修正無法播放部分 YouTube 歌曲問題
 
 
 ### v2.1.2
