@@ -10,12 +10,221 @@
             }
         },
         "count": 50,
-        "updated_at": "2018-10-18 01:01:21",
+        "updated_at": "2018-10-25 01:01:14",
         "fullname_localize": {
             "default": "OceanKTV 排行榜",
             "cht": "OceanKTV 排行榜",
             "eng": "OceanKTV 排行榜",
             "chs": "OceanKTV 排行榜"
+        }
+    },
+    {
+        "id": 9,
+        "fullname": "華語熱門新歌",
+        "region": "tw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62784155v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 92,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "華語熱門新歌",
+            "cht": "華語熱門新歌",
+            "eng": "華語熱門新歌",
+            "chs": "華語熱門新歌"
+        }
+    },
+    {
+        "id": 10,
+        "fullname": "西洋熱門新歌",
+        "region": "tw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62784162v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 92,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "西洋熱門新歌",
+            "cht": "西洋熱門新歌",
+            "eng": "西洋熱門新歌",
+            "chs": "西洋熱門新歌"
+        }
+    },
+    {
+        "id": 11,
+        "fullname": "韓語熱門新歌",
+        "region": "tw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62784183v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 92,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "韓語熱門新歌",
+            "cht": "韓語熱門新歌",
+            "eng": "韓語熱門新歌",
+            "chs": "韓語熱門新歌"
+        }
+    },
+    {
+        "id": 12,
+        "fullname": "日語熱門新歌",
+        "region": "tw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62784176v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 78,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "日語熱門新歌",
+            "cht": "日語熱門新歌",
+            "eng": "日語熱門新歌",
+            "chs": "日語熱門新歌"
+        }
+    },
+    {
+        "id": 13,
+        "fullname": "台語熱門新歌",
+        "region": "tw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62784190v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 86,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "台語熱門新歌",
+            "cht": "台語熱門新歌",
+            "eng": "台語熱門新歌",
+            "chs": "台語熱門新歌"
+        }
+    },
+    {
+        "id": 14,
+        "fullname": "粵語熱門新歌",
+        "region": "tw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62784169v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 71,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "粵語熱門新歌",
+            "cht": "粵語熱門新歌",
+            "eng": "粵語熱門新歌",
+            "chs": "粵語熱門新歌"
+        }
+    },
+    {
+        "id": 15,
+        "fullname": "英美金曲榜",
+        "region": "tw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/23026367v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 150,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "英美金曲榜",
+            "cht": "英美金曲榜",
+            "eng": "英美金曲榜",
+            "chs": "英美金曲榜"
+        }
+    },
+    {
+        "id": 16,
+        "fullname": "錢櫃國語點播榜",
+        "region": "tw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/37577310v4/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 93,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "錢櫃國語點播榜",
+            "cht": "錢櫃國語點播榜",
+            "eng": "錢櫃國語點播榜",
+            "chs": "錢櫃國語點播榜"
+        }
+    },
+    {
+        "id": 17,
+        "fullname": "錢櫃台語點播榜",
+        "region": "tw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/37577317v4/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 80,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "錢櫃台語點播榜",
+            "cht": "錢櫃台語點播榜",
+            "eng": "錢櫃台語點播榜",
+            "chs": "錢櫃台語點播榜"
+        }
+    },
+    {
+        "id": 18,
+        "fullname": "錢櫃國語新歌榜",
+        "region": "tw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/37577324v4/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 46,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "錢櫃國語新歌榜",
+            "cht": "錢櫃國語新歌榜",
+            "eng": "錢櫃國語新歌榜",
+            "chs": "錢櫃國語新歌榜"
+        }
+    },
+    {
+        "id": 19,
+        "fullname": "錢櫃台語新歌榜",
+        "region": "tw",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/37577331v4/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 24,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "錢櫃台語新歌榜",
+            "cht": "錢櫃台語新歌榜",
+            "eng": "錢櫃台語新歌榜",
+            "chs": "錢櫃台語新歌榜"
         }
     }
 ]
