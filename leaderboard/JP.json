@@ -10,12 +10,107 @@
             }
         },
         "count": 42,
-        "updated_at": "2018-10-18 01:01:21",
+        "updated_at": "2018-10-25 01:01:14",
         "fullname_localize": {
             "default": "OceanKTV Hot Songs",
             "cht": "OceanKTV Hot Songs",
             "eng": "OceanKTV Hot Songs",
             "chs": "OceanKTV Hot Songs"
+        }
+    },
+    {
+        "id": 33,
+        "fullname": "総合 話題の新曲",
+        "region": "jp",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62784318v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 90,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "総合 話題の新曲",
+            "cht": "総合 話題の新曲",
+            "eng": "総合 話題の新曲",
+            "chs": "総合 話題の新曲"
+        }
+    },
+    {
+        "id": 34,
+        "fullname": "邦楽 話題の新曲",
+        "region": "jp",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62784311v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 71,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "邦楽 話題の新曲",
+            "cht": "邦楽 話題の新曲",
+            "eng": "邦楽 話題の新曲",
+            "chs": "邦楽 話題の新曲"
+        }
+    },
+    {
+        "id": 35,
+        "fullname": "洋楽 話題の新曲",
+        "region": "jp",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62784304v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 96,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "洋楽 話題の新曲",
+            "cht": "洋楽 話題の新曲",
+            "eng": "洋楽 話題の新曲",
+            "chs": "洋楽 話題の新曲"
+        }
+    },
+    {
+        "id": 36,
+        "fullname": "アジア 話題の新曲",
+        "region": "jp",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62784297v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 87,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "アジア 話題の新曲",
+            "cht": "アジア 話題の新曲",
+            "eng": "アジア 話題の新曲",
+            "chs": "アジア 話題の新曲"
+        }
+    },
+    {
+        "id": 37,
+        "fullname": "UK/USヒットランキング",
+        "region": "jp",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/23026417v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 147,
+        "updated_at": "2018-10-25 01:01:14",
+        "fullname_localize": {
+            "default": "UK/USヒットランキング",
+            "cht": "UK/USヒットランキング",
+            "eng": "UK/USヒットランキング",
+            "chs": "UK/USヒットランキング"
         }
     }
 ]
