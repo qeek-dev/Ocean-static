@@ -10,12 +10,164 @@
             }
         },
         "count": 43,
-        "updated_at": "2018-10-25 01:01:14",
+        "updated_at": "2018-11-01 01:02:32",
         "fullname_localize": {
             "default": "OceanKTV Hot Songs",
             "cht": "OceanKTV Hot Songs",
             "eng": "OceanKTV Hot Songs",
             "chs": "OceanKTV Hot Songs"
+        }
+    },
+    {
+        "id": 33,
+        "fullname": "Mix Hits Hot New Singles",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62813537v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 92,
+        "updated_at": "2018-11-01 01:02:32",
+        "fullname_localize": {
+            "default": "Mix Hits Hot New Singles",
+            "cht": "Mix Hits Hot New Singles",
+            "eng": "Mix Hits Hot New Singles",
+            "chs": "Mix Hits Hot New Singles"
+        }
+    },
+    {
+        "id": 34,
+        "fullname": "Mandarin Hot New Singles",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62813502v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 92,
+        "updated_at": "2018-11-01 01:02:32",
+        "fullname_localize": {
+            "default": "Mandarin Hot New Singles",
+            "cht": "Mandarin Hot New Singles",
+            "eng": "Mandarin Hot New Singles",
+            "chs": "Mandarin Hot New Singles"
+        }
+    },
+    {
+        "id": 35,
+        "fullname": "Malay Hot New Singles",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62813544v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 92,
+        "updated_at": "2018-11-01 01:02:32",
+        "fullname_localize": {
+            "default": "Malay Hot New Singles",
+            "cht": "Malay Hot New Singles",
+            "eng": "Malay Hot New Singles",
+            "chs": "Malay Hot New Singles"
+        }
+    },
+    {
+        "id": 36,
+        "fullname": "International Hot New Singles",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62813509v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 90,
+        "updated_at": "2018-11-01 01:02:32",
+        "fullname_localize": {
+            "default": "International Hot New Singles",
+            "cht": "International Hot New Singles",
+            "eng": "International Hot New Singles",
+            "chs": "International Hot New Singles"
+        }
+    },
+    {
+        "id": 37,
+        "fullname": "Korean Hot New Singles",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62813530v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 87,
+        "updated_at": "2018-11-01 01:02:32",
+        "fullname_localize": {
+            "default": "Korean Hot New Singles",
+            "cht": "Korean Hot New Singles",
+            "eng": "Korean Hot New Singles",
+            "chs": "Korean Hot New Singles"
+        }
+    },
+    {
+        "id": 38,
+        "fullname": "Japanese Hot New Singles",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62813523v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 23,
+        "updated_at": "2018-11-01 01:02:32",
+        "fullname_localize": {
+            "default": "Japanese Hot New Singles",
+            "cht": "Japanese Hot New Singles",
+            "eng": "Japanese Hot New Singles",
+            "chs": "Japanese Hot New Singles"
+        }
+    },
+    {
+        "id": 39,
+        "fullname": "Cantonese Hot New Singles",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/62813516v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 35,
+        "updated_at": "2018-11-01 01:02:32",
+        "fullname_localize": {
+            "default": "Cantonese Hot New Singles",
+            "cht": "Cantonese Hot New Singles",
+            "eng": "Cantonese Hot New Singles",
+            "chs": "Cantonese Hot New Singles"
+        }
+    },
+    {
+        "id": 40,
+        "fullname": "UK/US Chart",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/23026415v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 149,
+        "updated_at": "2018-11-01 01:02:32",
+        "fullname_localize": {
+            "default": "UK/US Chart",
+            "cht": "UK/US Chart",
+            "eng": "UK/US Chart",
+            "chs": "UK/US Chart"
         }
     }
 ]
