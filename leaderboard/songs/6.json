@@ -407,6 +407,33 @@
     {
         "playlist_id": 6,
         "source": "youtube",
+        "video_id": "13N9RvKlJPY",
+        "song_title": "노사연-사랑",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/13N9RvKlJPY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/13N9RvKlJPY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/13N9RvKlJPY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "핑크퐁",
+        "tag": ""
+    },
+    {
+        "playlist_id": 6,
+        "source": "youtube",
         "video_id": "rxckGuUTQts",
         "song_title": "Adele - Rolling In The Deep (Karaoke Version)",
         "thumbnails": {
@@ -569,28 +596,28 @@
     {
         "playlist_id": 6,
         "source": "youtube",
-        "video_id": "bS1Nf0syICc",
+        "video_id": "ARJ3lq3NiO8",
         "song_title": "Bruno Mars - Just The Way You Are (Karaoke Version)",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/bS1Nf0syICc/default.jpg",
+                "url": "https://i.ytimg.com/vi/ARJ3lq3NiO8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/bS1Nf0syICc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ARJ3lq3NiO8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/bS1Nf0syICc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ARJ3lq3NiO8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Gucci Mane, Bruno Mars, Kodak Black",
+        "artist": "Bruno Mars",
         "tag": ""
     },
     {
