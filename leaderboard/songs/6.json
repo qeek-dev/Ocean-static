@@ -326,6 +326,33 @@
     {
         "playlist_id": 6,
         "source": "youtube",
+        "video_id": "Sv3P3V4Q-lw",
+        "song_title": "SWEET MEMORIES 甘い記憶 - (Seiko Matsuda , Olivia Ong) - Cover อูคูเลเล่ (Ukulele) by Magic Color",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Sv3P3V4Q-lw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Sv3P3V4Q-lw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Sv3P3V4Q-lw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "YU-A",
+        "tag": ""
+    },
+    {
+        "playlist_id": 6,
+        "source": "youtube",
         "video_id": "irXOb2mHVXA",
         "song_title": "사랑의배터리",
         "thumbnails": {
@@ -542,21 +569,21 @@
     {
         "playlist_id": 6,
         "source": "youtube",
-        "video_id": "ZyWNUtHXIho",
+        "video_id": "8aRor905cCw",
         "song_title": "Bruno Mars - Just The Way You Are (Karaoke Version)",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/ZyWNUtHXIho/default.jpg",
+                "url": "https://i.ytimg.com/vi/8aRor905cCw/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/ZyWNUtHXIho/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/8aRor905cCw/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/ZyWNUtHXIho/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/8aRor905cCw/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -866,21 +893,21 @@
     {
         "playlist_id": 6,
         "source": "youtube",
-        "video_id": "diuGkDF-qHw",
+        "video_id": "qZ9lHBoacSc",
         "song_title": "Can't Stop the Feeling!",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/diuGkDF-qHw/default.jpg",
+                "url": "https://i.ytimg.com/vi/qZ9lHBoacSc/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/diuGkDF-qHw/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/qZ9lHBoacSc/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/diuGkDF-qHw/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/qZ9lHBoacSc/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1109,28 +1136,28 @@
     {
         "playlist_id": 6,
         "source": "youtube",
-        "video_id": "LUNbJVS6csU",
+        "video_id": "jng_ocu8cfA",
         "song_title": "Bartender Rehab With Lyrics!!!!!!!!!!",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/LUNbJVS6csU/default.jpg",
+                "url": "https://i.ytimg.com/vi/jng_ocu8cfA/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/LUNbJVS6csU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/jng_ocu8cfA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/LUNbJVS6csU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/jng_ocu8cfA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Rehab",
+        "artist": "Booda B",
         "tag": ""
     },
     {
@@ -1212,6 +1239,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Bobby Kim",
+        "tag": ""
+    },
+    {
+        "playlist_id": 6,
+        "source": "youtube",
+        "video_id": "WcYvdt97Ids",
+        "song_title": "고장난벽시계/나훈아(노래강사/박선영)오산시노래교실,가요교실",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WcYvdt97Ids/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WcYvdt97Ids/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WcYvdt97Ids/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "MYNAME",
         "tag": ""
     }
 ]
