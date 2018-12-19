@@ -83,6 +83,33 @@
     {
         "playlist_id": 7,
         "source": "youtube",
+        "video_id": "ifCAfAzOBJM",
+        "song_title": "Frozen - Let It Go (Idina Menzel) (Karaoke Version)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ifCAfAzOBJM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ifCAfAzOBJM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ifCAfAzOBJM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Frozen",
+        "tag": ""
+    },
+    {
+        "playlist_id": 7,
+        "source": "youtube",
         "video_id": "efRmmFQ8QVA",
         "song_title": "Cake By the Ocean",
         "thumbnails": {
@@ -164,28 +191,28 @@
     {
         "playlist_id": 7,
         "source": "youtube",
-        "video_id": "m-PJmmvyP10",
+        "video_id": "xf5rgfur4gw",
         "song_title": "Alan Walker - Faded (Karaoke Version)",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/m-PJmmvyP10/default.jpg",
+                "url": "https://i.ytimg.com/vi/xf5rgfur4gw/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/m-PJmmvyP10/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/xf5rgfur4gw/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/m-PJmmvyP10/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/xf5rgfur4gw/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Alan Walker, K-391, Sofia Carson",
+        "artist": "Alan Walker",
         "tag": ""
     },
     {
@@ -434,21 +461,21 @@
     {
         "playlist_id": 7,
         "source": "youtube",
-        "video_id": "4OzQIPxorEw",
+        "video_id": "H4a-5BdZ5ck",
         "song_title": "John Legend - All of Me (Karaoke Version)",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/4OzQIPxorEw/default.jpg",
+                "url": "https://i.ytimg.com/vi/H4a-5BdZ5ck/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/4OzQIPxorEw/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/H4a-5BdZ5ck/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/4OzQIPxorEw/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/H4a-5BdZ5ck/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -456,33 +483,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "John Legend, WENDY",
-        "tag": ""
-    },
-    {
-        "playlist_id": 7,
-        "source": "youtube",
-        "video_id": "AnQESyZisU0",
-        "song_title": "Humble.",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/AnQESyZisU0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/AnQESyZisU0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/AnQESyZisU0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Kendrick Lamar",
         "tag": ""
     },
     {
@@ -510,6 +510,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Ed Sheeran",
+        "tag": ""
+    },
+    {
+        "playlist_id": 7,
+        "source": "youtube",
+        "video_id": "AnQESyZisU0",
+        "song_title": "Humble.",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/AnQESyZisU0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/AnQESyZisU0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/AnQESyZisU0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kendrick Lamar",
         "tag": ""
     },
     {
@@ -677,6 +704,33 @@
     {
         "playlist_id": 7,
         "source": "youtube",
+        "video_id": "L0MK7qz13bU",
+        "song_title": "FROZEN | Let It Go Sing-along | Official Disney UK",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/L0MK7qz13bU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/L0MK7qz13bU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/L0MK7qz13bU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Frozen",
+        "tag": ""
+    },
+    {
+        "playlist_id": 7,
+        "source": "youtube",
         "video_id": "gf0taQyr0E0",
         "song_title": "Human",
         "thumbnails": {
@@ -731,21 +785,21 @@
     {
         "playlist_id": 7,
         "source": "youtube",
-        "video_id": "qZ9lHBoacSc",
+        "video_id": "diuGkDF-qHw",
         "song_title": "Can't Stop the Feeling!",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/qZ9lHBoacSc/default.jpg",
+                "url": "https://i.ytimg.com/vi/diuGkDF-qHw/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/qZ9lHBoacSc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/diuGkDF-qHw/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/qZ9lHBoacSc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/diuGkDF-qHw/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1190,21 +1244,21 @@
     {
         "playlist_id": 7,
         "source": "youtube",
-        "video_id": "qZ9lHBoacSc",
+        "video_id": "diuGkDF-qHw",
         "song_title": "Can't Stop The Feeling!",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/qZ9lHBoacSc/default.jpg",
+                "url": "https://i.ytimg.com/vi/diuGkDF-qHw/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/qZ9lHBoacSc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/diuGkDF-qHw/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/qZ9lHBoacSc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/diuGkDF-qHw/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1244,21 +1298,21 @@
     {
         "playlist_id": 7,
         "source": "youtube",
-        "video_id": "1gAg_QjANgw",
+        "video_id": "8sQULM8ftw8",
         "song_title": "Calvin Harris & Disciples - How Deep Is Your Love (Karaoke Version)",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/1gAg_QjANgw/default.jpg",
+                "url": "https://i.ytimg.com/vi/8sQULM8ftw8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/1gAg_QjANgw/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/8sQULM8ftw8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/1gAg_QjANgw/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/8sQULM8ftw8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }

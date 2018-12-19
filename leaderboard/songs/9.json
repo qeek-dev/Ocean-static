@@ -29,6 +29,33 @@
     {
         "playlist_id": 9,
         "source": "youtube",
+        "video_id": "gLxIdRIABos",
+        "song_title": "我不是白馬王子",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gLxIdRIABos/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gLxIdRIABos/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gLxIdRIABos/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "謝和弦",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
         "video_id": "eF8wtlyBHic",
         "song_title": "岩石裡的花",
         "thumbnails": {
@@ -56,21 +83,21 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "jgx-q0jYxwg",
+        "video_id": "BpM8cwUy6po",
         "song_title": "讓我逃離平庸的生活",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/jgx-q0jYxwg/default.jpg",
+                "url": "https://i.ytimg.com/vi/BpM8cwUy6po/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/jgx-q0jYxwg/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BpM8cwUy6po/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/jgx-q0jYxwg/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BpM8cwUy6po/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -83,28 +110,55 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "Y8b6BIkPPg0",
-        "song_title": "你懂我說的嗎",
+        "video_id": "cgK8Jmvgxow",
+        "song_title": "有一種悲傷",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/Y8b6BIkPPg0/default.jpg",
+                "url": "https://i.ytimg.com/vi/cgK8Jmvgxow/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/Y8b6BIkPPg0/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/cgK8Jmvgxow/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/Y8b6BIkPPg0/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/cgK8Jmvgxow/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "呂薔 Amuyi",
+        "artist": "Various Artists",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "k1iM_G70aGA",
+        "song_title": "大眠",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/k1iM_G70aGA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/k1iM_G70aGA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/k1iM_G70aGA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "王心凌",
         "tag": ""
     },
     {
@@ -137,6 +191,33 @@
     {
         "playlist_id": 9,
         "source": "youtube",
+        "video_id": "Hp2fehP38lQ",
+        "song_title": "Forever Young",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Hp2fehP38lQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Hp2fehP38lQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Hp2fehP38lQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "艾怡良",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
         "video_id": "z88sFN7GGgE",
         "song_title": "遺書",
         "thumbnails": {
@@ -164,109 +245,28 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "VS1lvYuW3LQ",
-        "song_title": "大眠",
+        "video_id": "Y8b6BIkPPg0",
+        "song_title": "你懂我說的嗎",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/VS1lvYuW3LQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/Y8b6BIkPPg0/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/VS1lvYuW3LQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Y8b6BIkPPg0/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/VS1lvYuW3LQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Y8b6BIkPPg0/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "王心凌",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "xd4iQmBzWLI",
-        "song_title": "It's you",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/xd4iQmBzWLI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/xd4iQmBzWLI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/xd4iQmBzWLI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "謝和弦",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "t-A1eopgxjg",
-        "song_title": "殘缺的彩虹",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/t-A1eopgxjg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/t-A1eopgxjg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/t-A1eopgxjg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "陳綺貞",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "-BI3q7C0qEg",
-        "song_title": "鄉下來的",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/-BI3q7C0qEg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/-BI3q7C0qEg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/-BI3q7C0qEg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "玖壹壹",
+        "artist": "呂薔 Amuyi",
         "tag": ""
     },
     {
@@ -299,60 +299,6 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "D37Q3prfaWQ",
-        "song_title": "每一次想你",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/D37Q3prfaWQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/D37Q3prfaWQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/D37Q3prfaWQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "蔡佩軒",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "U-cIHm7sOQY",
-        "song_title": "回憶的沙漏",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/U-cIHm7sOQY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/U-cIHm7sOQY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/U-cIHm7sOQY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "G.E.M.鄧紫棋",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
         "video_id": "rZdfA9O3VgI",
         "song_title": "哪邊涼快哪邊待",
         "thumbnails": {
@@ -380,21 +326,75 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "5DoGHYF1aa8",
-        "song_title": "像水一樣",
+        "video_id": "QaFL6cdk9_Y",
+        "song_title": "離開後",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/5DoGHYF1aa8/default.jpg",
+                "url": "https://i.ytimg.com/vi/QaFL6cdk9_Y/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/5DoGHYF1aa8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/QaFL6cdk9_Y/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/5DoGHYF1aa8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/QaFL6cdk9_Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "白安",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "D37Q3prfaWQ",
+        "song_title": "每一次想你",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/D37Q3prfaWQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/D37Q3prfaWQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/D37Q3prfaWQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "蔡佩軒",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "xd4iQmBzWLI",
+        "song_title": "It's you",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xd4iQmBzWLI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xd4iQmBzWLI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xd4iQmBzWLI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -402,141 +402,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "謝和弦",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "Vfa7-qwyTTY",
-        "song_title": "小船",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Vfa7-qwyTTY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Vfa7-qwyTTY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Vfa7-qwyTTY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "陳綺貞",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "bU1g5ZkQrLg",
-        "song_title": "傻的為你寫了這麼一首歌",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/bU1g5ZkQrLg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/bU1g5ZkQrLg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/bU1g5ZkQrLg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Hans陳思翰",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "LL44oXAHfxk",
-        "song_title": "沒有回頭路",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/LL44oXAHfxk/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/LL44oXAHfxk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/LL44oXAHfxk/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "李杰明 W.M.L",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "NXId3_EEGKY",
-        "song_title": "未接來電",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/NXId3_EEGKY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/NXId3_EEGKY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/NXId3_EEGKY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Various Artists",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "hwo3oBFmHYA",
-        "song_title": "sweetheart",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/hwo3oBFmHYA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/hwo3oBFmHYA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/hwo3oBFmHYA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "安偉",
         "tag": ""
     },
     {
@@ -569,352 +434,298 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "OtHOH0GQTr4",
-        "song_title": "晚安",
+        "video_id": "-BI3q7C0qEg",
+        "song_title": "鄉下來的",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/OtHOH0GQTr4/default.jpg",
+                "url": "https://i.ytimg.com/vi/-BI3q7C0qEg/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/OtHOH0GQTr4/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-BI3q7C0qEg/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/OtHOH0GQTr4/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-BI3q7C0qEg/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "蕭煌奇",
+        "artist": "玖壹壹",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "cmx1FVMY1xA",
-        "song_title": "觸電",
+        "video_id": "5DoGHYF1aa8",
+        "song_title": "像水一樣",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/cmx1FVMY1xA/default.jpg",
+                "url": "https://i.ytimg.com/vi/5DoGHYF1aa8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/cmx1FVMY1xA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/5DoGHYF1aa8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/cmx1FVMY1xA/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/5DoGHYF1aa8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "徐良,馮提莫",
+        "artist": "謝和弦",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "4qanOwHqltY",
-        "song_title": "家珍",
+        "video_id": "IFWKVjQCeyU",
+        "song_title": "蝸牛",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/4qanOwHqltY/default.jpg",
+                "url": "https://i.ytimg.com/vi/IFWKVjQCeyU/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/4qanOwHqltY/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IFWKVjQCeyU/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/4qanOwHqltY/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IFWKVjQCeyU/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "江美琪",
+        "artist": "呂薔 Amuyi",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "ssdFRk-wY0A",
-        "song_title": "請先說你好",
+        "video_id": "U-cIHm7sOQY",
+        "song_title": "回憶的沙漏",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/ssdFRk-wY0A/default.jpg",
+                "url": "https://i.ytimg.com/vi/U-cIHm7sOQY/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/ssdFRk-wY0A/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/U-cIHm7sOQY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/ssdFRk-wY0A/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/U-cIHm7sOQY/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "賀一航",
+        "artist": "G.E.M.鄧紫棋",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "fQnkHDAGtqs",
-        "song_title": "乎乾 )",
+        "video_id": "8M3Pj2QjE0I",
+        "song_title": "你是真的離開我",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/fQnkHDAGtqs/default.jpg",
+                "url": "https://i.ytimg.com/vi/8M3Pj2QjE0I/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/fQnkHDAGtqs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/8M3Pj2QjE0I/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/fQnkHDAGtqs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/8M3Pj2QjE0I/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "鼓鼓 GBOYSWAG",
+        "artist": "謝和弦",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "3zOre_rWCGQ",
-        "song_title": "愛麗絲",
+        "video_id": "bU1g5ZkQrLg",
+        "song_title": "傻的為你寫了這麼一首歌",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/3zOre_rWCGQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/bU1g5ZkQrLg/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/3zOre_rWCGQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bU1g5ZkQrLg/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/3zOre_rWCGQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bU1g5ZkQrLg/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "謝震廷",
+        "artist": "Hans陳思翰",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "Io3rPXN1bKc",
-        "song_title": "Be Alright",
+        "video_id": "dlIx8hTYY4E",
+        "song_title": "擁抱",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/Io3rPXN1bKc/default.jpg",
+                "url": "https://i.ytimg.com/vi/dlIx8hTYY4E/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/Io3rPXN1bKc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dlIx8hTYY4E/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/Io3rPXN1bKc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dlIx8hTYY4E/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "高爾宣 OSN",
+        "artist": "家家",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "8nSrltLKL0I",
-        "song_title": "真相",
+        "video_id": "NXId3_EEGKY",
+        "song_title": "未接來電",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/8nSrltLKL0I/default.jpg",
+                "url": "https://i.ytimg.com/vi/NXId3_EEGKY/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/8nSrltLKL0I/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NXId3_EEGKY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/8nSrltLKL0I/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NXId3_EEGKY/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "A-Lin",
+        "artist": "Various Artists",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "Rne4oL1NZrU",
-        "song_title": "走到飛",
+        "video_id": "-sU13HjTQs4",
+        "song_title": "情歌",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/Rne4oL1NZrU/default.jpg",
+                "url": "https://i.ytimg.com/vi/-sU13HjTQs4/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/Rne4oL1NZrU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-sU13HjTQs4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/Rne4oL1NZrU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-sU13HjTQs4/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "呂士軒, ØZI, 吳卓源, 熊仔, B.C.W, Barry, 大支",
+        "artist": "潘裕文",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "8JGdNAPiTIU",
-        "song_title": "風箏",
+        "video_id": "xd4iQmBzWLI",
+        "song_title": "It's you",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/8JGdNAPiTIU/default.jpg",
+                "url": "https://i.ytimg.com/vi/xd4iQmBzWLI/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/8JGdNAPiTIU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/xd4iQmBzWLI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/8JGdNAPiTIU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/xd4iQmBzWLI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "關曉彤",
+        "artist": "謝和弦",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "wb8vimuR3L8",
-        "song_title": "喜歡",
+        "video_id": "d5v5WMvJiPc",
+        "song_title": "海裡睡人",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/wb8vimuR3L8/default.jpg",
+                "url": "https://i.ytimg.com/vi/d5v5WMvJiPc/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/wb8vimuR3L8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/d5v5WMvJiPc/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/wb8vimuR3L8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/d5v5WMvJiPc/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "李友廷",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "AsOgbM2qnfU",
-        "song_title": "接著",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/AsOgbM2qnfU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/AsOgbM2qnfU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/AsOgbM2qnfU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "麋先生",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "E1VMbRrf96Q",
-        "song_title": "一秒",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/E1VMbRrf96Q/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/E1VMbRrf96Q/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/E1VMbRrf96Q/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "岑寧兒",
+        "artist": "陳奕迅",
         "tag": ""
     },
     {
@@ -947,28 +758,163 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "NEossGyN8Rs",
-        "song_title": "Nobody But Me  )",
+        "video_id": "Vfa7-qwyTTY",
+        "song_title": "小船",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/NEossGyN8Rs/default.jpg",
+                "url": "https://i.ytimg.com/vi/Vfa7-qwyTTY/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/NEossGyN8Rs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Vfa7-qwyTTY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/NEossGyN8Rs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Vfa7-qwyTTY/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Eric 周興哲",
+        "artist": "陳綺貞",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "yuhXrYNggjY",
+        "song_title": "那不是雪中紅",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/yuhXrYNggjY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/yuhXrYNggjY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/yuhXrYNggjY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "謝和弦",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "XB0koLPt4JU",
+        "song_title": "備胎",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XB0koLPt4JU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XB0koLPt4JU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XB0koLPt4JU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "謝和弦",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "LL44oXAHfxk",
+        "song_title": "沒有回頭路",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LL44oXAHfxk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LL44oXAHfxk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LL44oXAHfxk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "李杰明 W.M.L",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "s_CIiqWGxuw",
+        "song_title": "安怎講",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/s_CIiqWGxuw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/s_CIiqWGxuw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/s_CIiqWGxuw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "謝和弦",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "8nSrltLKL0I",
+        "song_title": "真相",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8nSrltLKL0I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8nSrltLKL0I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8nSrltLKL0I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "A-Lin",
         "tag": ""
     },
     {
@@ -1028,892 +974,55 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "s11S2g_qYcE",
-        "song_title": "真的嗎",
+        "video_id": "3zOre_rWCGQ",
+        "song_title": "愛麗絲",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/s11S2g_qYcE/default.jpg",
+                "url": "https://i.ytimg.com/vi/3zOre_rWCGQ/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/s11S2g_qYcE/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/3zOre_rWCGQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/s11S2g_qYcE/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/3zOre_rWCGQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "潘裕文",
+        "artist": "謝震廷",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "HkNqURUieZQ",
-        "song_title": "星辰",
+        "video_id": "5DoGHYF1aa8",
+        "song_title": "像水一樣",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/HkNqURUieZQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/5DoGHYF1aa8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/HkNqURUieZQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/5DoGHYF1aa8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/HkNqURUieZQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/5DoGHYF1aa8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "河仁傑",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "YCLBtKZQ55o",
-        "song_title": "戀愛泡泡糖",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/YCLBtKZQ55o/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/YCLBtKZQ55o/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/YCLBtKZQ55o/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "愷樂",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "zefbyoROcMc",
-        "song_title": "男子漢的浪漫",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/zefbyoROcMc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/zefbyoROcMc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/zefbyoROcMc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "玖壹壹",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "g2dDxy9ct70",
-        "song_title": "日寸小偷",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/g2dDxy9ct70/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/g2dDxy9ct70/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/g2dDxy9ct70/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "FS",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "YG3aZnctNIU",
-        "song_title": "BINGBIAN病變",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/YG3aZnctNIU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/YG3aZnctNIU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/YG3aZnctNIU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "鞠文嫻",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "COFIXOranV0",
-        "song_title": "愛的重量",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/COFIXOranV0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/COFIXOranV0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/COFIXOranV0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "王心凌",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "8C7oNwe20vQ",
-        "song_title": "告白",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/8C7oNwe20vQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/8C7oNwe20vQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/8C7oNwe20vQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "嚴正嵐",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "QF9etp3JblU",
-        "song_title": "Good Things",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/QF9etp3JblU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/QF9etp3JblU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/QF9etp3JblU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "NINE PERCENT",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "JU3ycZTynp0",
-        "song_title": "生命中的美好缺憾",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/JU3ycZTynp0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/JU3ycZTynp0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/JU3ycZTynp0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "王心凌",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "alGf_zlkz98",
-        "song_title": "恐怖情人",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/alGf_zlkz98/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/alGf_zlkz98/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/alGf_zlkz98/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "玖壹壹",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "QntSMcadc5k",
-        "song_title": "到處不存在的我",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/QntSMcadc5k/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/QntSMcadc5k/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/QntSMcadc5k/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "王心凌",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "fWzmKHElUqY",
-        "song_title": "傷害",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/fWzmKHElUqY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/fWzmKHElUqY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/fWzmKHElUqY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "陳綺貞",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "BIem9JMlwEU",
-        "song_title": "你的故事",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/BIem9JMlwEU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/BIem9JMlwEU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/BIem9JMlwEU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Luji",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "P-n4iir3nDg",
-        "song_title": "19 39",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/P-n4iir3nDg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/P-n4iir3nDg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/P-n4iir3nDg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "吳柏蒼",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "iiINufvz54k",
-        "song_title": "披著狼皮的羊",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/iiINufvz54k/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/iiINufvz54k/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/iiINufvz54k/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "王心凌",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "kGhyUseuyMk",
-        "song_title": "感謝",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/kGhyUseuyMk/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/kGhyUseuyMk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/kGhyUseuyMk/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "李紫婷",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "5PinTXQxa3Q",
-        "song_title": "富末代",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/5PinTXQxa3Q/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/5PinTXQxa3Q/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/5PinTXQxa3Q/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "玖壹壹",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "4zqdTHyWGVQ",
-        "song_title": "黑歌",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/4zqdTHyWGVQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/4zqdTHyWGVQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/4zqdTHyWGVQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "孫尤安",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "-WMUIAePfaM",
-        "song_title": "劈你的雷正在路上",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/-WMUIAePfaM/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/-WMUIAePfaM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/-WMUIAePfaM/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "王心凌",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "UHvliTVwgSc",
-        "song_title": "天使",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/UHvliTVwgSc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/UHvliTVwgSc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/UHvliTVwgSc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "劉明湘",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "vxJhlaN_Bnw",
-        "song_title": "這個世界",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/vxJhlaN_Bnw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/vxJhlaN_Bnw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/vxJhlaN_Bnw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "安溥",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "GLm1QhjcNLw",
-        "song_title": "Stars",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/GLm1QhjcNLw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/GLm1QhjcNLw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/GLm1QhjcNLw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "郭美美",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "xXvo1VsHS6o",
-        "song_title": "教海鷗飛行的貓",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/xXvo1VsHS6o/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/xXvo1VsHS6o/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/xXvo1VsHS6o/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "王心凌",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "MqYca1tmX2Q",
-        "song_title": "討債情歌",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/MqYca1tmX2Q/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/MqYca1tmX2Q/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/MqYca1tmX2Q/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "玖壹壹",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "rVtgkqXmAsQ",
-        "song_title": "Tonight )",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/rVtgkqXmAsQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/rVtgkqXmAsQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/rVtgkqXmAsQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Various Artists",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "dowOCsEsoVk",
-        "song_title": "起來",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/dowOCsEsoVk/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/dowOCsEsoVk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/dowOCsEsoVk/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "杜德偉",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "cgK8Jmvgxow",
-        "song_title": "有一種悲傷",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/cgK8Jmvgxow/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/cgK8Jmvgxow/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/cgK8Jmvgxow/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Various Artists",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "IA8_83CG5_4",
-        "song_title": "Silly Silly",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/IA8_83CG5_4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/IA8_83CG5_4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/IA8_83CG5_4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "嚴正嵐",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "ZI-NcMB7hL0",
-        "song_title": "沈睡的森林",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ZI-NcMB7hL0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ZI-NcMB7hL0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ZI-NcMB7hL0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "王心凌",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "vO6GA7kPg8c",
-        "song_title": "房客",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/vO6GA7kPg8c/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/vO6GA7kPg8c/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/vO6GA7kPg8c/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "王心凌",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "_VUccHeZ0wk",
-        "song_title": "琥珀",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/_VUccHeZ0wk/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/_VUccHeZ0wk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/_VUccHeZ0wk/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "陳昇",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "o0QjoXOXcDU",
-        "song_title": "帶你回家",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/o0QjoXOXcDU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/o0QjoXOXcDU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/o0QjoXOXcDU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "丁世光",
+        "artist": "謝和弦",
         "tag": ""
     },
     {
@@ -1946,190 +1055,325 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "f5UhDczefas",
-        "song_title": "一百萬個可能",
+        "video_id": "sF5PW0nhhec",
+        "song_title": "天使",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/f5UhDczefas/default.jpg",
+                "url": "https://i.ytimg.com/vi/sF5PW0nhhec/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/f5UhDczefas/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/sF5PW0nhhec/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/f5UhDczefas/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/sF5PW0nhhec/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "季彦霖",
+        "artist": "劉明湘",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "lFvh0XE9UjE",
-        "song_title": "我跟你卡好",
+        "video_id": "4qanOwHqltY",
+        "song_title": "家珍",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/lFvh0XE9UjE/default.jpg",
+                "url": "https://i.ytimg.com/vi/4qanOwHqltY/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/lFvh0XE9UjE/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/4qanOwHqltY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/lFvh0XE9UjE/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/4qanOwHqltY/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "玖壹壹",
+        "artist": "江美琪",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "_finonsYyXo",
-        "song_title": "壞習慣",
+        "video_id": "hdig3dB26to",
+        "song_title": "酷",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/_finonsYyXo/default.jpg",
+                "url": "https://i.ytimg.com/vi/hdig3dB26to/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/_finonsYyXo/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/hdig3dB26to/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/_finonsYyXo/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/hdig3dB26to/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Far East Movement",
+        "artist": "謝和弦",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "PQgHdB86KJs",
-        "song_title": "你說呢",
+        "video_id": "AsOgbM2qnfU",
+        "song_title": "接著",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/PQgHdB86KJs/default.jpg",
+                "url": "https://i.ytimg.com/vi/AsOgbM2qnfU/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/PQgHdB86KJs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/AsOgbM2qnfU/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/PQgHdB86KJs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/AsOgbM2qnfU/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "六哲",
+        "artist": "麋先生",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "QF9etp3JblU",
-        "song_title": "Good Things",
+        "video_id": "GaHuXF9BqBI",
+        "song_title": "就讓它漸漸死吧",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/QF9etp3JblU/default.jpg",
+                "url": "https://i.ytimg.com/vi/GaHuXF9BqBI/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/QF9etp3JblU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GaHuXF9BqBI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/QF9etp3JblU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GaHuXF9BqBI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "NINE PERCENT",
+        "artist": "許書豪",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "nIyzPIioBPE",
-        "song_title": "魚",
+        "video_id": "A_wdnx6b6Jc",
+        "song_title": "依賴",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/nIyzPIioBPE/default.jpg",
+                "url": "https://i.ytimg.com/vi/A_wdnx6b6Jc/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/nIyzPIioBPE/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A_wdnx6b6Jc/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/nIyzPIioBPE/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A_wdnx6b6Jc/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Various Artists",
+        "artist": "謝和弦",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "87H8fVq5Gaw",
-        "song_title": "美幹拎",
+        "video_id": "_MlwUgYvpnc",
+        "song_title": "幸福不上鎖",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/87H8fVq5Gaw/default.jpg",
+                "url": "https://i.ytimg.com/vi/_MlwUgYvpnc/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/87H8fVq5Gaw/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_MlwUgYvpnc/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/87H8fVq5Gaw/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_MlwUgYvpnc/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "玖壹壹",
+        "artist": "謝和弦",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "jZyIfrM0bhg",
+        "song_title": "就是在講你喔",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jZyIfrM0bhg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jZyIfrM0bhg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jZyIfrM0bhg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "謝和弦",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "hwo3oBFmHYA",
+        "song_title": "sweetheart",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/hwo3oBFmHYA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/hwo3oBFmHYA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/hwo3oBFmHYA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "安偉",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "wgMlZSPmdvg",
+        "song_title": "虛擬世界",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/wgMlZSPmdvg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/wgMlZSPmdvg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/wgMlZSPmdvg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "有感覺",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "qQhi1x9kXYc",
+        "song_title": "綺夢",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qQhi1x9kXYc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qQhi1x9kXYc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qQhi1x9kXYc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "吳卓源",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "cmx1FVMY1xA",
+        "song_title": "觸電",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cmx1FVMY1xA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cmx1FVMY1xA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cmx1FVMY1xA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "徐良,馮提莫",
         "tag": ""
     },
     {
@@ -2162,21 +1406,75 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "BEqXl8r6McI",
-        "song_title": "Working Holiday",
+        "video_id": "4SBSSgopOwA",
+        "song_title": "Nobody But Me  )",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/BEqXl8r6McI/default.jpg",
+                "url": "https://i.ytimg.com/vi/4SBSSgopOwA/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/BEqXl8r6McI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/4SBSSgopOwA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/BEqXl8r6McI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/4SBSSgopOwA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Eric 周興哲",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "7nW4kOWJrZM",
+        "song_title": "笑著笑著就過了",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/7nW4kOWJrZM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/7nW4kOWJrZM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/7nW4kOWJrZM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "邱詩凌",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "ijhjj5QnMGc",
+        "song_title": "男子漢的浪漫",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ijhjj5QnMGc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ijhjj5QnMGc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ijhjj5QnMGc/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -2189,21 +1487,399 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "FVsW9pinGxU",
-        "song_title": "G CAR Remix",
+        "video_id": "wb8vimuR3L8",
+        "song_title": "喜歡",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/FVsW9pinGxU/default.jpg",
+                "url": "https://i.ytimg.com/vi/wb8vimuR3L8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/FVsW9pinGxU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/wb8vimuR3L8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/FVsW9pinGxU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/wb8vimuR3L8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "李友廷",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "ir9DWodQV1s",
+        "song_title": "溫柔地，暴烈地",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ir9DWodQV1s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ir9DWodQV1s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ir9DWodQV1s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "楊永聰",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "8JGdNAPiTIU",
+        "song_title": "風箏",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8JGdNAPiTIU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8JGdNAPiTIU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8JGdNAPiTIU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "關曉彤",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "fQnkHDAGtqs",
+        "song_title": "乎乾 )",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fQnkHDAGtqs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fQnkHDAGtqs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fQnkHDAGtqs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "鼓鼓 GBOYSWAG",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "xH40YJmbWCI",
+        "song_title": "去年聖誕節",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/xH40YJmbWCI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/xH40YJmbWCI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/xH40YJmbWCI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "楊仁沛",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "0kxJ843gnfo",
+        "song_title": "愛的重量",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/0kxJ843gnfo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/0kxJ843gnfo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/0kxJ843gnfo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "王心凌",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "LyC1sCRGqL8",
+        "song_title": "My Man",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LyC1sCRGqL8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LyC1sCRGqL8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LyC1sCRGqL8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Jony J",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "vw6Jc0Wo-5w",
+        "song_title": "致未來的戀人啊",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/vw6Jc0Wo-5w/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/vw6Jc0Wo-5w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/vw6Jc0Wo-5w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "愷樂",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "o0QjoXOXcDU",
+        "song_title": "帶你回家",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/o0QjoXOXcDU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/o0QjoXOXcDU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/o0QjoXOXcDU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "丁世光",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "l8Z-uIhuBbQ",
+        "song_title": "我們的時代",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/l8Z-uIhuBbQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/l8Z-uIhuBbQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/l8Z-uIhuBbQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "白安",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "V3n1X7bzKVQ",
+        "song_title": "生命中的美好缺憾",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/V3n1X7bzKVQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/V3n1X7bzKVQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/V3n1X7bzKVQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "王心凌",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "YmSBc5P9Mlg",
+        "song_title": "The Promise",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/YmSBc5P9Mlg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/YmSBc5P9Mlg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/YmSBc5P9Mlg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "插班生",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "FPz9vjAJ2RY",
+        "song_title": "自導自演",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FPz9vjAJ2RY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FPz9vjAJ2RY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FPz9vjAJ2RY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "慢慢說樂團",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "E3wHEmNJN08",
+        "song_title": "傻眼了",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/E3wHEmNJN08/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/E3wHEmNJN08/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/E3wHEmNJN08/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Karencici",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "alGf_zlkz98",
+        "song_title": "恐怖情人",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/alGf_zlkz98/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/alGf_zlkz98/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/alGf_zlkz98/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -2216,136 +1892,82 @@
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "ZKE70wBZk4A",
-        "song_title": "Mojito",
+        "video_id": "HkNqURUieZQ",
+        "song_title": "星辰",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/ZKE70wBZk4A/default.jpg",
+                "url": "https://i.ytimg.com/vi/HkNqURUieZQ/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/ZKE70wBZk4A/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/HkNqURUieZQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/ZKE70wBZk4A/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/HkNqURUieZQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "玖壹壹",
+        "artist": "河仁傑",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "Xsi1O4_ehpA",
-        "song_title": "健康伯",
+        "video_id": "tnjh4U-Dnao",
+        "song_title": "劈你的雷正在路上",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/Xsi1O4_ehpA/default.jpg",
+                "url": "https://i.ytimg.com/vi/tnjh4U-Dnao/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/Xsi1O4_ehpA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/tnjh4U-Dnao/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/Xsi1O4_ehpA/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/tnjh4U-Dnao/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "玖壹壹",
+        "artist": "王心凌",
         "tag": ""
     },
     {
         "playlist_id": 9,
         "source": "youtube",
-        "video_id": "EP-y7tXpWjQ",
-        "song_title": "東西",
+        "video_id": "R-2DxJcWTxA",
+        "song_title": "九世戀人",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/EP-y7tXpWjQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/R-2DxJcWTxA/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/EP-y7tXpWjQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/R-2DxJcWTxA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/EP-y7tXpWjQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/R-2DxJcWTxA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "V-Girls 李俊",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "OHXL2RszOAU",
-        "song_title": "願你幸福到底",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/OHXL2RszOAU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/OHXL2RszOAU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/OHXL2RszOAU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "曾詠欣",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "YQeVNg1wE4c",
-        "song_title": "I Need A Doctor",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/YQeVNg1wE4c/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/YQeVNg1wE4c/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/YQeVNg1wE4c/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "NINE PERCENT",
+        "artist": "魏嘉瑩",
         "tag": ""
     },
     {
@@ -2373,6 +1995,519 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Erika 劉艾立",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "_Hz3NR5CeWM",
+        "song_title": "鑽石",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_Hz3NR5CeWM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_Hz3NR5CeWM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_Hz3NR5CeWM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "白安",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "uug4-ugy9yQ",
+        "song_title": "Christmas有你",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/uug4-ugy9yQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/uug4-ugy9yQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/uug4-ugy9yQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "尤長靖",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "mu1IygbysRQ",
+        "song_title": "光之街",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mu1IygbysRQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mu1IygbysRQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mu1IygbysRQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "白安",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "ehvFJZQK4VM",
+        "song_title": "到處不存在的我",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ehvFJZQK4VM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ehvFJZQK4VM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ehvFJZQK4VM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "王心凌",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "4SBSSgopOwA",
+        "song_title": "Nobody But Me",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4SBSSgopOwA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4SBSSgopOwA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4SBSSgopOwA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Eric 周興哲",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "GaJdrE_pyQE",
+        "song_title": "生活倒影",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GaJdrE_pyQE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GaJdrE_pyQE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GaJdrE_pyQE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "蘇運瑩",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "skVyu1aIQLM",
+        "song_title": "你愛我愛你",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/skVyu1aIQLM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/skVyu1aIQLM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/skVyu1aIQLM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "白安",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "fWzmKHElUqY",
+        "song_title": "傷害",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fWzmKHElUqY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fWzmKHElUqY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fWzmKHElUqY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "陳綺貞",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "-lhAGgozSF8",
+        "song_title": "媽媽",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-lhAGgozSF8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-lhAGgozSF8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-lhAGgozSF8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "白安",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "DoUlOi1OiYY",
+        "song_title": "一日一生",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/DoUlOi1OiYY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/DoUlOi1OiYY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/DoUlOi1OiYY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "白安",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "P-n4iir3nDg",
+        "song_title": "19 39",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/P-n4iir3nDg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/P-n4iir3nDg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/P-n4iir3nDg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "吳柏蒼",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "8C7oNwe20vQ",
+        "song_title": "告白",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8C7oNwe20vQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8C7oNwe20vQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8C7oNwe20vQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "嚴正嵐",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "PQgHdB86KJs",
+        "song_title": "你說呢",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/PQgHdB86KJs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/PQgHdB86KJs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/PQgHdB86KJs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "六哲",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "dowOCsEsoVk",
+        "song_title": "起來",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/dowOCsEsoVk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/dowOCsEsoVk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/dowOCsEsoVk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "杜德偉",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "x2_abskmK3E",
+        "song_title": "富末代",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/x2_abskmK3E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/x2_abskmK3E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/x2_abskmK3E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "玖壹壹",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "wlqJele6HHc",
+        "song_title": "撥接",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/wlqJele6HHc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/wlqJele6HHc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/wlqJele6HHc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "吳卓源",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "1vKES1Du27I",
+        "song_title": "奇怪的帽子",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1vKES1Du27I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1vKES1Du27I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1vKES1Du27I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "關喆",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "GLm1QhjcNLw",
+        "song_title": "Stars",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GLm1QhjcNLw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GLm1QhjcNLw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GLm1QhjcNLw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "郭美美",
+        "tag": ""
+    },
+    {
+        "playlist_id": 9,
+        "source": "youtube",
+        "video_id": "MqYca1tmX2Q",
+        "song_title": "討債情歌",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/MqYca1tmX2Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/MqYca1tmX2Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/MqYca1tmX2Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "玖壹壹",
         "tag": ""
     },
     {
@@ -2400,168 +2535,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "安溥",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "dxNt5cMOZxE",
-        "song_title": "九張機",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/dxNt5cMOZxE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/dxNt5cMOZxE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/dxNt5cMOZxE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "小釗",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "8WIhXPLilC4",
-        "song_title": "離不開",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/8WIhXPLilC4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/8WIhXPLilC4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/8WIhXPLilC4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "NINE PERCENT",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "ebCyuJcgnjE",
-        "song_title": "斑馬線",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ebCyuJcgnjE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ebCyuJcgnjE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ebCyuJcgnjE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "嚴正嵐",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "TCmTaGLKruc",
-        "song_title": "天鵝說",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/TCmTaGLKruc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/TCmTaGLKruc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/TCmTaGLKruc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Erika 劉艾立",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "oqlxT-uycnA",
-        "song_title": "胡鬧",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/oqlxT-uycnA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/oqlxT-uycnA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/oqlxT-uycnA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "孫子涵",
-        "tag": ""
-    },
-    {
-        "playlist_id": 9,
-        "source": "youtube",
-        "video_id": "IFWKVjQCeyU",
-        "song_title": "蝸牛",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/IFWKVjQCeyU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/IFWKVjQCeyU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/IFWKVjQCeyU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "呂薔 Amuyi",
         "tag": ""
     }
 ]
