@@ -110,21 +110,21 @@
     {
         "playlist_id": 80,
         "source": "youtube",
-        "video_id": "__n6H88NkJI",
+        "video_id": "_imF3zP1C7I",
         "song_title": "Like That",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/__n6H88NkJI/default.jpg",
+                "url": "https://i.ytimg.com/vi/_imF3zP1C7I/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/__n6H88NkJI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_imF3zP1C7I/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/__n6H88NkJI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_imF3zP1C7I/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -353,33 +353,6 @@
     {
         "playlist_id": 80,
         "source": "youtube",
-        "video_id": "z2AK150b70E",
-        "song_title": "It's Okay",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/z2AK150b70E/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/z2AK150b70E/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/z2AK150b70E/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Kisum, Heize",
-        "tag": ""
-    },
-    {
-        "playlist_id": 80,
-        "source": "youtube",
         "video_id": "L3vKGkbIIN0",
         "song_title": "Wake",
         "thumbnails": {
@@ -402,6 +375,33 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "K.Will",
+        "tag": ""
+    },
+    {
+        "playlist_id": 80,
+        "source": "youtube",
+        "video_id": "U1KbLlZdZ-Q",
+        "song_title": "It's Okay",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/U1KbLlZdZ-Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/U1KbLlZdZ-Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/U1KbLlZdZ-Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kisum, Heize",
         "tag": ""
     },
     {
