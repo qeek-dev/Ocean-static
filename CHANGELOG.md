@@ -25,6 +25,12 @@ OceanKTV v2 requires:
 - **Not compatiable with current OceanV1 mobile apps, OceanV2 mobile app is coming soon.**
 
 
+### v2.1.4
+---
+##### Server
+- `Fix` [Bug [136511](http://172.17.25.222/bugzilla/show_bug.cgi?id=136511)] 針對新版 QTS 版本調整 OceanKTV 啟動/關閉 流程
+
+
 ### v2.1.3
 ---
 ##### Server
