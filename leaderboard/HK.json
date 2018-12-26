@@ -10,7 +10,7 @@
             }
         },
         "count": 49,
-        "updated_at": "2018-12-20 01:01:04",
+        "updated_at": "2018-12-27 01:01:03",
         "fullname_localize": {
             "default": "OceanKTV Hot Songs",
             "cht": "OceanKTV Hot Songs",
@@ -19,102 +19,7 @@
         }
     },
     {
-        "id": 20,
-        "fullname": "本地熱門新歌",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.kfs.io/playlist/global/63333315v1/cropresize/300x300.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 77,
-        "updated_at": "2018-12-20 01:01:04",
-        "fullname_localize": {
-            "default": "本地熱門新歌",
-            "cht": "本地熱門新歌",
-            "eng": "本地熱門新歌",
-            "chs": "本地熱門新歌"
-        }
-    },
-    {
-        "id": 21,
-        "fullname": "華語熱門新歌",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.kfs.io/playlist/global/63333301v1/cropresize/300x300.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 85,
-        "updated_at": "2018-12-20 01:01:04",
-        "fullname_localize": {
-            "default": "華語熱門新歌",
-            "cht": "華語熱門新歌",
-            "eng": "華語熱門新歌",
-            "chs": "華語熱門新歌"
-        }
-    },
-    {
-        "id": 22,
-        "fullname": "歐美熱門新歌",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.kfs.io/playlist/global/63333308v1/cropresize/300x300.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 97,
-        "updated_at": "2018-12-20 01:01:04",
-        "fullname_localize": {
-            "default": "歐美熱門新歌",
-            "cht": "歐美熱門新歌",
-            "eng": "歐美熱門新歌",
-            "chs": "歐美熱門新歌"
-        }
-    },
-    {
-        "id": 23,
-        "fullname": "韓語熱門新歌",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.kfs.io/playlist/global/63333329v1/cropresize/300x300.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 96,
-        "updated_at": "2018-12-20 01:01:04",
-        "fullname_localize": {
-            "default": "韓語熱門新歌",
-            "cht": "韓語熱門新歌",
-            "eng": "韓語熱門新歌",
-            "chs": "韓語熱門新歌"
-        }
-    },
-    {
-        "id": 24,
-        "fullname": "日語熱門新歌",
-        "region": "hk",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.kfs.io/playlist/global/63333322v1/cropresize/300x300.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 81,
-        "updated_at": "2018-12-20 01:01:04",
-        "fullname_localize": {
-            "default": "日語熱門新歌",
-            "cht": "日語熱門新歌",
-            "eng": "日語熱門新歌",
-            "chs": "日語熱門新歌"
-        }
-    },
-    {
-        "id": 25,
+        "id": 14,
         "fullname": "英美金曲榜",
         "region": "hk",
         "thumbnails": {
@@ -123,8 +28,8 @@
                 "icon": "ic_chart"
             }
         },
-        "count": 167,
-        "updated_at": "2018-12-20 01:01:04",
+        "count": 160,
+        "updated_at": "2018-12-27 01:01:03",
         "fullname_localize": {
             "default": "英美金曲榜",
             "cht": "英美金曲榜",
