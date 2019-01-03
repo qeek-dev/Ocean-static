@@ -28,7 +28,7 @@ OceanKTV v2 requires:
 ### v2.1.4
 ---
 ##### Server
-- `Fix` [Bug [136511](http://172.17.25.222/bugzilla/show_bug.cgi?id=136511)] 針對新版 QTS 版本調整 OceanKTV 啟動/關閉 流程
+- `Fix` [Bug [136511](http://172.17.25.222/bugzilla/show_bug.cgi?id=136511)][Bug [136570](http://172.17.25.222/bugzilla/show_bug.cgi?id=136570)] 針對新版 QTS 版本調整 OceanKTV 啟動/關閉 流程
 
 
 ### v2.1.3
