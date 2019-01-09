@@ -245,6 +245,33 @@
     {
         "playlist_id": 47,
         "source": "youtube",
+        "video_id": "cPLctS4kqk8",
+        "song_title": "Good Girl",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cPLctS4kqk8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cPLctS4kqk8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cPLctS4kqk8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Dustin Lynch",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
         "video_id": "fEXu3eICQ9w",
         "song_title": "Beautiful Crazy",
         "thumbnails": {
@@ -294,33 +321,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Jason Aldean",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "cPLctS4kqk8",
-        "song_title": "Good Girl",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/cPLctS4kqk8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/cPLctS4kqk8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/cPLctS4kqk8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Dustin Lynch",
         "tag": ""
     },
     {
@@ -515,6 +515,33 @@
     {
         "playlist_id": 47,
         "source": "youtube",
+        "video_id": "gEKfoMZ3kv8",
+        "song_title": "Here Tonight",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gEKfoMZ3kv8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gEKfoMZ3kv8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gEKfoMZ3kv8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Brett Young",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
         "video_id": "hbRyXEeqSjE",
         "song_title": "Burn Out",
         "thumbnails": {
@@ -537,33 +564,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Midland",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "R6oBHrjUmcs",
-        "song_title": "Here Tonight",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/R6oBHrjUmcs/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/R6oBHrjUmcs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/R6oBHrjUmcs/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Brett Young",
         "tag": ""
     },
     {
@@ -596,21 +596,75 @@
     {
         "playlist_id": 47,
         "source": "youtube",
-        "video_id": "RKUENGsDXBA",
-        "song_title": "On My Way To You",
+        "video_id": "gB6USanTo4o",
+        "song_title": "Miss Me More",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/RKUENGsDXBA/default.jpg",
+                "url": "https://i.ytimg.com/vi/gB6USanTo4o/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/RKUENGsDXBA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/gB6USanTo4o/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/RKUENGsDXBA/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/gB6USanTo4o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kelsea Ballerini",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
+        "video_id": "OAl7Ajne1fI",
+        "song_title": "There Was This Girl",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/OAl7Ajne1fI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/OAl7Ajne1fI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/OAl7Ajne1fI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Riley Green",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
+        "video_id": "uinURqqQQQg",
+        "song_title": "On My Way To You",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/uinURqqQQQg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/uinURqqQQQg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/uinURqqQQQg/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -650,55 +704,28 @@
     {
         "playlist_id": 47,
         "source": "youtube",
-        "video_id": "OAl7Ajne1fI",
-        "song_title": "There Was This Girl",
+        "video_id": "lyyfWV27X8w",
+        "song_title": "One That Got Away",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/OAl7Ajne1fI/default.jpg",
+                "url": "https://i.ytimg.com/vi/lyyfWV27X8w/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/OAl7Ajne1fI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/lyyfWV27X8w/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/OAl7Ajne1fI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/lyyfWV27X8w/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Riley Green",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "gB6USanTo4o",
-        "song_title": "Miss Me More",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/gB6USanTo4o/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/gB6USanTo4o/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/gB6USanTo4o/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Kelsea Ballerini",
+        "artist": "Michael Ray",
         "tag": ""
     },
     {
@@ -731,60 +758,6 @@
     {
         "playlist_id": 47,
         "source": "youtube",
-        "video_id": "FjBp30kjzTc",
-        "song_title": "Whiskey Glasses",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/FjBp30kjzTc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/FjBp30kjzTc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/FjBp30kjzTc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Morgan Wallen",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "lyyfWV27X8w",
-        "song_title": "One That Got Away",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/lyyfWV27X8w/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/lyyfWV27X8w/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/lyyfWV27X8w/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Michael Ray",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
         "video_id": "AJ7b_JY8uQQ",
         "song_title": "Talk You Out Of It",
         "thumbnails": {
@@ -807,60 +780,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Florida Georgia Line",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "Ajx7CjBJiUY",
-        "song_title": "Neon Church",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Ajx7CjBJiUY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Ajx7CjBJiUY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Ajx7CjBJiUY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Tim McGraw",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "YZdYxVkuJr4",
-        "song_title": "Turnin' Me On",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/YZdYxVkuJr4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/YZdYxVkuJr4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/YZdYxVkuJr4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Blake Shelton",
         "tag": ""
     },
     {
@@ -893,6 +812,60 @@
     {
         "playlist_id": 47,
         "source": "youtube",
+        "video_id": "FjBp30kjzTc",
+        "song_title": "Whiskey Glasses",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FjBp30kjzTc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FjBp30kjzTc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FjBp30kjzTc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Morgan Wallen",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
+        "video_id": "Ajx7CjBJiUY",
+        "song_title": "Neon Church",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Ajx7CjBJiUY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Ajx7CjBJiUY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Ajx7CjBJiUY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Tim McGraw",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
         "video_id": "VkloKZmQ3o4",
         "song_title": "Eyes On You",
         "thumbnails": {
@@ -915,33 +888,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Chase Rice",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "zaM7e0uhYjw",
-        "song_title": "I Don't Know About You",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/zaM7e0uhYjw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/zaM7e0uhYjw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/zaM7e0uhYjw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Chris Lane",
         "tag": ""
     },
     {
@@ -974,28 +920,28 @@
     {
         "playlist_id": 47,
         "source": "youtube",
-        "video_id": "zQS3okHZabY",
-        "song_title": "Caught Up In The Country",
+        "video_id": "zaM7e0uhYjw",
+        "song_title": "I Don't Know About You",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/zQS3okHZabY/default.jpg",
+                "url": "https://i.ytimg.com/vi/zaM7e0uhYjw/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/zQS3okHZabY/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/zaM7e0uhYjw/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/zQS3okHZabY/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/zaM7e0uhYjw/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Rodney Atkins  The Fisk Jubilee Singers",
+        "artist": "Chris Lane",
         "tag": ""
     },
     {
@@ -1028,60 +974,6 @@
     {
         "playlist_id": 47,
         "source": "youtube",
-        "video_id": "S0fMzeo34sA",
-        "song_title": "Love Ain't",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/S0fMzeo34sA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/S0fMzeo34sA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/S0fMzeo34sA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Eli Young Band",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "rzVW21xDjX0",
-        "song_title": "People Are Different",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/rzVW21xDjX0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/rzVW21xDjX0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/rzVW21xDjX0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Florida Georgia Line",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
         "video_id": "WEJs_Bqx8_o",
         "song_title": "Prayed For You",
         "thumbnails": {
@@ -1109,28 +1001,55 @@
     {
         "playlist_id": 47,
         "source": "youtube",
-        "video_id": "BSNBWR8qvoA",
-        "song_title": "Good As You",
+        "video_id": "S0fMzeo34sA",
+        "song_title": "Love Ain't",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/BSNBWR8qvoA/default.jpg",
+                "url": "https://i.ytimg.com/vi/S0fMzeo34sA/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/BSNBWR8qvoA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/S0fMzeo34sA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/BSNBWR8qvoA/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/S0fMzeo34sA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Kane Brown",
+        "artist": "Eli Young Band",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
+        "video_id": "zQS3okHZabY",
+        "song_title": "Caught Up In The Country",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zQS3okHZabY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zQS3okHZabY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zQS3okHZabY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Rodney Atkins  The Fisk Jubilee Singers",
         "tag": ""
     },
     {
@@ -1163,21 +1082,48 @@
     {
         "playlist_id": 47,
         "source": "youtube",
-        "video_id": "junOpbM6AkI",
-        "song_title": "Homesick",
+        "video_id": "YZdYxVkuJr4",
+        "song_title": "Turnin' Me On",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/junOpbM6AkI/default.jpg",
+                "url": "https://i.ytimg.com/vi/YZdYxVkuJr4/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/junOpbM6AkI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/YZdYxVkuJr4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/junOpbM6AkI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/YZdYxVkuJr4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Blake Shelton",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
+        "video_id": "BSNBWR8qvoA",
+        "song_title": "Good As You",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/BSNBWR8qvoA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/BSNBWR8qvoA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/BSNBWR8qvoA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1185,60 +1131,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Kane Brown",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "bDGS1MLbxU4",
-        "song_title": "What Happens In A Small Town",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/bDGS1MLbxU4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/bDGS1MLbxU4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/bDGS1MLbxU4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Brantley Gilbert , Lindsay Ell",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "pb7BrqMaqdg",
-        "song_title": "You're In It",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/pb7BrqMaqdg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/pb7BrqMaqdg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/pb7BrqMaqdg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Granger Smith",
         "tag": ""
     },
     {
@@ -1271,6 +1163,168 @@
     {
         "playlist_id": 47,
         "source": "youtube",
+        "video_id": "bDGS1MLbxU4",
+        "song_title": "What Happens In A Small Town",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/bDGS1MLbxU4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/bDGS1MLbxU4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/bDGS1MLbxU4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Brantley Gilbert , Lindsay Ell",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
+        "video_id": "junOpbM6AkI",
+        "song_title": "Homesick",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/junOpbM6AkI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/junOpbM6AkI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/junOpbM6AkI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kane Brown",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
+        "video_id": "rzVW21xDjX0",
+        "song_title": "People Are Different",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rzVW21xDjX0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rzVW21xDjX0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rzVW21xDjX0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Florida Georgia Line",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
+        "video_id": "fTvomsttAjQ",
+        "song_title": "Bring It On Over",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fTvomsttAjQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fTvomsttAjQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fTvomsttAjQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Billy Currington",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
+        "video_id": "pb7BrqMaqdg",
+        "song_title": "You're In It",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/pb7BrqMaqdg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/pb7BrqMaqdg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/pb7BrqMaqdg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Granger Smith",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
+        "video_id": "aQiAqhJs59c",
+        "song_title": "Friends Don't",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/aQiAqhJs59c/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/aQiAqhJs59c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/aQiAqhJs59c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Maddie , Tae",
+        "tag": ""
+    },
+    {
+        "playlist_id": 47,
+        "source": "youtube",
         "video_id": "wxjaqTPtMS8",
         "song_title": "Back To Life",
         "thumbnails": {
@@ -1293,60 +1347,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Rascal Flatts",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "C1JVESHybSg",
-        "song_title": "Glow",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/C1JVESHybSg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/C1JVESHybSg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/C1JVESHybSg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Brett Eldredge",
-        "tag": ""
-    },
-    {
-        "playlist_id": 47,
-        "source": "youtube",
-        "video_id": "h3s6e3CXjU4",
-        "song_title": "Better Boat",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/h3s6e3CXjU4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/h3s6e3CXjU4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/h3s6e3CXjU4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Kenny Chesney  Mindy Smith",
         "tag": ""
     }
 ]
