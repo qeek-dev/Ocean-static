@@ -2,33 +2,6 @@
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "L6uxTp6cJkg",
-        "song_title": "U.S.A.",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/L6uxTp6cJkg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/L6uxTp6cJkg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/L6uxTp6cJkg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "DA PUMP",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
         "video_id": "0xSiBpUdW4E",
         "song_title": "マリーゴールド",
         "thumbnails": {
@@ -83,55 +56,28 @@
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "IX87le_EokM",
-        "song_title": "Ainokatachi feat.HIDE",
+        "video_id": "L6uxTp6cJkg",
+        "song_title": "U.S.A.",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/IX87le_EokM/default.jpg",
+                "url": "https://i.ytimg.com/vi/L6uxTp6cJkg/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/IX87le_EokM/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/L6uxTp6cJkg/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/IX87le_EokM/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/L6uxTp6cJkg/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "MISIA",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "z_M_Of9poME",
-        "song_title": "打上花火",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/z_M_Of9poME/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/z_M_Of9poME/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/z_M_Of9poME/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "DAOKO",
+        "artist": "DA PUMP",
         "tag": ""
     },
     {
@@ -164,28 +110,82 @@
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "_2LgwCPc06Y",
-        "song_title": "syncronicity",
+        "video_id": "z_M_Of9poME",
+        "song_title": "打上花火",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/_2LgwCPc06Y/default.jpg",
+                "url": "https://i.ytimg.com/vi/z_M_Of9poME/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/_2LgwCPc06Y/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/z_M_Of9poME/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/_2LgwCPc06Y/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/z_M_Of9poME/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Nogizaka46",
+        "artist": "DAOKO",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "IX87le_EokM",
+        "song_title": "Ainokatachi feat.HIDE",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/IX87le_EokM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/IX87le_EokM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/IX87le_EokM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "MISIA",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "cDu5fNRlfgo",
+        "song_title": "G-ENERGY",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cDu5fNRlfgo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cDu5fNRlfgo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cDu5fNRlfgo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "GENERATIONS from EXILE TRIBE",
         "tag": ""
     },
     {
@@ -245,114 +245,6 @@
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "eaJHiX8z8Og",
-        "song_title": "Sekai ha anatani Waraikaketeiru",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/eaJHiX8z8Og/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/eaJHiX8z8Og/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/eaJHiX8z8Og/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Little Glee Monster",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "eMD8kLAaaSg",
-        "song_title": "Marigold",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/eMD8kLAaaSg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/eMD8kLAaaSg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/eMD8kLAaaSg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Aimyon",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "v45bUWNgeJI",
-        "song_title": "ambivalent",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/v45bUWNgeJI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/v45bUWNgeJI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/v45bUWNgeJI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Keyakizaka46",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "cDu5fNRlfgo",
-        "song_title": "G-ENERGY",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/cDu5fNRlfgo/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/cDu5fNRlfgo/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/cDu5fNRlfgo/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "GENERATIONS from EXILE TRIBE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
         "video_id": "liyKIzh2SZQ",
         "song_title": "Stand Out Fit In",
         "thumbnails": {
@@ -375,33 +267,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "ONE OK ROCK",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "SEYU2PBAG78",
-        "song_title": "蕾",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/SEYU2PBAG78/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/SEYU2PBAG78/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/SEYU2PBAG78/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "KOBUKURO",
         "tag": ""
     },
     {
@@ -461,60 +326,6 @@
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "VF2nSitbit4",
-        "song_title": "garasu wo ware",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/VF2nSitbit4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/VF2nSitbit4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/VF2nSitbit4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Keyakizaka46",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "A_1t2Dkd2Io",
-        "song_title": "恋音と雨空",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/A_1t2Dkd2Io/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/A_1t2Dkd2Io/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/A_1t2Dkd2Io/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "AAA",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
         "video_id": "GnYpmOHXO2s",
         "song_title": "Ikiteitandayona",
         "thumbnails": {
@@ -542,136 +353,82 @@
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "aa8iVP-9M5w",
-        "song_title": "ここにしか咲かない花",
+        "video_id": "HesQaxxFOt8",
+        "song_title": "Silent Majority",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/aa8iVP-9M5w/default.jpg",
+                "url": "https://i.ytimg.com/vi/HesQaxxFOt8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/aa8iVP-9M5w/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/HesQaxxFOt8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/aa8iVP-9M5w/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/HesQaxxFOt8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "KOBUKURO",
+        "artist": "Keyakizaka46",
         "tag": ""
     },
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "bZgZeHyYQWc",
-        "song_title": "笑顔のループ",
+        "video_id": "eaJHiX8z8Og",
+        "song_title": "Sekai ha anatani Waraikaketeiru",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/bZgZeHyYQWc/default.jpg",
+                "url": "https://i.ytimg.com/vi/eaJHiX8z8Og/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/bZgZeHyYQWc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/eaJHiX8z8Og/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/bZgZeHyYQWc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/eaJHiX8z8Og/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "AAA",
+        "artist": "Little Glee Monster",
         "tag": ""
     },
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "gXpHGTM_NeY",
-        "song_title": "First Love",
+        "video_id": "v45bUWNgeJI",
+        "song_title": "ambivalent",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/gXpHGTM_NeY/default.jpg",
+                "url": "https://i.ytimg.com/vi/v45bUWNgeJI/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/gXpHGTM_NeY/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/v45bUWNgeJI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/gXpHGTM_NeY/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/v45bUWNgeJI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Hikaru Utada",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "GyNSiwaJ30Q",
-        "song_title": "366日",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/GyNSiwaJ30Q/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/GyNSiwaJ30Q/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/GyNSiwaJ30Q/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "HY",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "SwOpPFoehps",
-        "song_title": "My Boo",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/SwOpPFoehps/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/SwOpPFoehps/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/SwOpPFoehps/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Shota Shimizu",
+        "artist": "Keyakizaka46",
         "tag": ""
     },
     {
@@ -704,217 +461,55 @@
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "TOv0_634ogE",
-        "song_title": "if...",
+        "video_id": "gXpHGTM_NeY",
+        "song_title": "First Love",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/TOv0_634ogE/default.jpg",
+                "url": "https://i.ytimg.com/vi/gXpHGTM_NeY/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/TOv0_634ogE/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/gXpHGTM_NeY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/TOv0_634ogE/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/gXpHGTM_NeY/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "DA PUMP",
+        "artist": "Hikaru Utada",
         "tag": ""
     },
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "t2qnU50ae98",
-        "song_title": "TT",
+        "video_id": "ApQgDIzfTlM",
+        "song_title": "ワタリドリ",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/t2qnU50ae98/default.jpg",
+                "url": "https://i.ytimg.com/vi/ApQgDIzfTlM/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/t2qnU50ae98/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ApQgDIzfTlM/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/t2qnU50ae98/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ApQgDIzfTlM/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "TWICE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "HKBdCvjmN9I",
-        "song_title": "Aitakute Ima",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/HKBdCvjmN9I/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/HKBdCvjmN9I/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/HKBdCvjmN9I/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "MISIA",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "k0eyBGmQpnI",
-        "song_title": "Change",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/k0eyBGmQpnI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/k0eyBGmQpnI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/k0eyBGmQpnI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "ONE OK ROCK",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "249YdrcCL0Y",
-        "song_title": "サザンカ",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/249YdrcCL0Y/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/249YdrcCL0Y/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/249YdrcCL0Y/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "SEKAI NO OWARI",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "_jtUll4ZrOw",
-        "song_title": "Torisetsu",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/_jtUll4ZrOw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/_jtUll4ZrOw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/_jtUll4ZrOw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Kana Nishino",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "FNokAJR8fas",
-        "song_title": "EG-ENERGY",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/FNokAJR8fas/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/FNokAJR8fas/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/FNokAJR8fas/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "E-girls",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "EvCO72wsdpE",
-        "song_title": "The Beginning",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/EvCO72wsdpE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/EvCO72wsdpE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/EvCO72wsdpE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "ONE OK ROCK",
+        "artist": "",
         "tag": ""
     },
     {
@@ -947,6 +542,195 @@
     {
         "playlist_id": 17,
         "source": "youtube",
+        "video_id": "EvCO72wsdpE",
+        "song_title": "The Beginning",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/EvCO72wsdpE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/EvCO72wsdpE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/EvCO72wsdpE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "ONE OK ROCK",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "SwOpPFoehps",
+        "song_title": "My Boo",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/SwOpPFoehps/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/SwOpPFoehps/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/SwOpPFoehps/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Shota Shimizu",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "5ZtOEESQaoc",
+        "song_title": "Love of History",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5ZtOEESQaoc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5ZtOEESQaoc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5ZtOEESQaoc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "EXILE",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "tLH83AtPWQQ",
+        "song_title": "Blizzard",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/tLH83AtPWQQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/tLH83AtPWQQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/tLH83AtPWQQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Miura Daichi",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "VF2nSitbit4",
+        "song_title": "garasu wo ware",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/VF2nSitbit4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/VF2nSitbit4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/VF2nSitbit4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Keyakizaka46",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "WKUqc2CbN-4",
+        "song_title": "syncronicity",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WKUqc2CbN-4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WKUqc2CbN-4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WKUqc2CbN-4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Nogizaka46",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "GyNSiwaJ30Q",
+        "song_title": "366日",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GyNSiwaJ30Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GyNSiwaJ30Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GyNSiwaJ30Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "HY",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
         "video_id": "E-DAUGDEeRA",
         "song_title": "大阪LOVER",
         "thumbnails": {
@@ -974,48 +758,777 @@
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "oQB69kTfK2E",
-        "song_title": "The Narrow Way",
+        "video_id": "A_1t2Dkd2Io",
+        "song_title": "恋音と雨空",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/oQB69kTfK2E/default.jpg",
+                "url": "https://i.ytimg.com/vi/A_1t2Dkd2Io/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/oQB69kTfK2E/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A_1t2Dkd2Io/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/oQB69kTfK2E/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A_1t2Dkd2Io/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Sheena Ringo, Hiroji Miyamoto",
+        "artist": "AAA",
         "tag": ""
     },
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "bcOKOpWx3VQ",
-        "song_title": "桜",
+        "video_id": "FNokAJR8fas",
+        "song_title": "EG-ENERGY",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/bcOKOpWx3VQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/FNokAJR8fas/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/bcOKOpWx3VQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/FNokAJR8fas/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/bcOKOpWx3VQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/FNokAJR8fas/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "E-girls",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "4Of4TjhAbgE",
+        "song_title": "完全感覚Dreamer",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4Of4TjhAbgE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4Of4TjhAbgE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4Of4TjhAbgE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "ONE OK ROCK",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "FX2WSHooVt8",
+        "song_title": "Marigold",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FX2WSHooVt8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FX2WSHooVt8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FX2WSHooVt8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Aimyon",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "BZ8M2Cc9pak",
+        "song_title": "THROW YA FIST",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/BZ8M2Cc9pak/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/BZ8M2Cc9pak/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/BZ8M2Cc9pak/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "THE RAMPAGE from EXILE TRIBE",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "SEYU2PBAG78",
+        "song_title": "蕾",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/SEYU2PBAG78/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/SEYU2PBAG78/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/SEYU2PBAG78/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "KOBUKURO",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "t2qnU50ae98",
+        "song_title": "TT",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/t2qnU50ae98/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/t2qnU50ae98/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/t2qnU50ae98/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "TWICE",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "oTkVGOns6-Q",
+        "song_title": "Kanade",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/oTkVGOns6-Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/oTkVGOns6-Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/oTkVGOns6-Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Sukima Switch",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "_jtUll4ZrOw",
+        "song_title": "Torisetsu",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_jtUll4ZrOw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_jtUll4ZrOw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_jtUll4ZrOw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kana Nishino",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "Hka9x1QNyAo",
+        "song_title": "楓",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Hka9x1QNyAo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Hka9x1QNyAo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Hka9x1QNyAo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Spitz",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "HITAAqJCfJs",
+        "song_title": "Tomorrow never knows",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HITAAqJCfJs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HITAAqJCfJs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HITAAqJCfJs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Mr.Children",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "HKBdCvjmN9I",
+        "song_title": "Aitakute Ima",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HKBdCvjmN9I/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HKBdCvjmN9I/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HKBdCvjmN9I/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "MISIA",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "bZgZeHyYQWc",
+        "song_title": "笑顔のループ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/bZgZeHyYQWc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/bZgZeHyYQWc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/bZgZeHyYQWc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "AAA",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "e_I90mFeFX4",
+        "song_title": "Bedtime Story",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/e_I90mFeFX4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/e_I90mFeFX4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/e_I90mFeFX4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kana Nishino",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "WsEOnichYgI",
+        "song_title": "ふたりの世界",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/WsEOnichYgI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/WsEOnichYgI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/WsEOnichYgI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Aimyon",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "AbwQZA09eO8",
+        "song_title": "if...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/AbwQZA09eO8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/AbwQZA09eO8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/AbwQZA09eO8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "DA PUMP",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "22mOCjkwQjM",
+        "song_title": "Stand By You",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/22mOCjkwQjM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/22mOCjkwQjM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/22mOCjkwQjM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Official髭男dism",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "yCZFof7Y0tQ",
+        "song_title": "花束を君に",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/yCZFof7Y0tQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/yCZFof7Y0tQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/yCZFof7Y0tQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Hikaru Utada",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "AbwQZA09eO8",
+        "song_title": "if...",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/AbwQZA09eO8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/AbwQZA09eO8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/AbwQZA09eO8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "DA PUMP",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "zalexC0ZjWc",
+        "song_title": "Happiness",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zalexC0ZjWc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zalexC0ZjWc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zalexC0ZjWc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Che'Nelle",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "frPQVzibiuc",
+        "song_title": "シーソーゲーム～勇敢な恋の歌～",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/frPQVzibiuc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/frPQVzibiuc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/frPQVzibiuc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Mr.Children",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "aPzedjkXnWg",
+        "song_title": "祈り花",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/aPzedjkXnWg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/aPzedjkXnWg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/aPzedjkXnWg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "HIRAI DAI",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "mH6LoI63buY",
+        "song_title": "今夜このまま",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mH6LoI63buY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mH6LoI63buY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mH6LoI63buY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Aimyon",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "gXv-IiZsHec",
+        "song_title": "Chikai",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gXv-IiZsHec/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gXv-IiZsHec/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gXv-IiZsHec/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Hikaru Utada",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "T6cBlyP6ixA",
+        "song_title": "We Do",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/T6cBlyP6ixA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/T6cBlyP6ixA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/T6cBlyP6ixA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Ikimonogakari",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "6sX-hWEyyIE",
+        "song_title": "kataomoi",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/6sX-hWEyyIE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/6sX-hWEyyIE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/6sX-hWEyyIE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Aimer",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "k0eyBGmQpnI",
+        "song_title": "Change",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/k0eyBGmQpnI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/k0eyBGmQpnI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/k0eyBGmQpnI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "ONE OK ROCK",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "9aeq4y3qMdM",
+        "song_title": "No Doubt",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9aeq4y3qMdM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9aeq4y3qMdM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9aeq4y3qMdM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Official髭男dism",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "aa8iVP-9M5w",
+        "song_title": "ここにしか咲かない花",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/aa8iVP-9M5w/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/aa8iVP-9M5w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/aa8iVP-9M5w/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1055,595 +1568,28 @@
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "AbwQZA09eO8",
-        "song_title": "if...",
+        "video_id": "uMMazVa8nvE",
+        "song_title": "チェリー",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/AbwQZA09eO8/default.jpg",
+                "url": "https://i.ytimg.com/vi/uMMazVa8nvE/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/AbwQZA09eO8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/uMMazVa8nvE/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/AbwQZA09eO8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/uMMazVa8nvE/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "DA PUMP",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "mH6LoI63buY",
-        "song_title": "今夜このまま",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/mH6LoI63buY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/mH6LoI63buY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/mH6LoI63buY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Aimyon",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "-XFp03G4z68",
-        "song_title": "みかんハート",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/-XFp03G4z68/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/-XFp03G4z68/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/-XFp03G4z68/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "C,K",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "yB4xdw-K8ss",
-        "song_title": "やさしさに包まれたなら",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/yB4xdw-K8ss/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/yB4xdw-K8ss/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/yB4xdw-K8ss/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Yumi Matsutoya",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "aB4D61MYlLc",
-        "song_title": "Darling",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/aB4D61MYlLc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/aB4D61MYlLc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/aB4D61MYlLc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Kana Nishino",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "ApQgDIzfTlM",
-        "song_title": "ワタリドリ",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ApQgDIzfTlM/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ApQgDIzfTlM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ApQgDIzfTlM/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "4Of4TjhAbgE",
-        "song_title": "完全感覚Dreamer",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/4Of4TjhAbgE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/4Of4TjhAbgE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/4Of4TjhAbgE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "ONE OK ROCK",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "HesQaxxFOt8",
-        "song_title": "Silent Majority",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/HesQaxxFOt8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/HesQaxxFOt8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/HesQaxxFOt8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Keyakizaka46",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "WsEOnichYgI",
-        "song_title": "ふたりの世界",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/WsEOnichYgI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/WsEOnichYgI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/WsEOnichYgI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Aimyon",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "6sX-hWEyyIE",
-        "song_title": "kataomoi",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/6sX-hWEyyIE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/6sX-hWEyyIE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/6sX-hWEyyIE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Aimer",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "zu3IxdfDp08",
-        "song_title": "Everything",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/zu3IxdfDp08/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/zu3IxdfDp08/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/zu3IxdfDp08/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "MISIA",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "gsJn7USHyrw",
-        "song_title": "Sign",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/gsJn7USHyrw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/gsJn7USHyrw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/gsJn7USHyrw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Mr.Children",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "zalexC0ZjWc",
-        "song_title": "Happiness",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/zalexC0ZjWc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/zalexC0ZjWc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/zalexC0ZjWc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Che'Nelle",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "X5xjZe3F6Dw",
-        "song_title": "Yuki No Hana",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/X5xjZe3F6Dw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/X5xjZe3F6Dw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/X5xjZe3F6Dw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Mika Nakashima",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "vvP6t6OZMko",
-        "song_title": "君が好き",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/vvP6t6OZMko/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/vvP6t6OZMko/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/vvP6t6OZMko/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Shota Shimizu",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "oTkVGOns6-Q",
-        "song_title": "Kanade",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/oTkVGOns6-Q/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/oTkVGOns6-Q/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/oTkVGOns6-Q/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Sukima Switch",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "e_I90mFeFX4",
-        "song_title": "Bedtime Story",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/e_I90mFeFX4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/e_I90mFeFX4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/e_I90mFeFX4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Kana Nishino",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "22mOCjkwQjM",
-        "song_title": "Stand By You",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/22mOCjkwQjM/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/22mOCjkwQjM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/22mOCjkwQjM/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Official髭男dism",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "L6uxTp6cJkg",
-        "song_title": "U.S.A.",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/L6uxTp6cJkg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/L6uxTp6cJkg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/L6uxTp6cJkg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "DA PUMP",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "mE_jH0J0ClA",
-        "song_title": "WINDING ROAD",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/mE_jH0J0ClA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/mE_jH0J0ClA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/mE_jH0J0ClA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "KOBUKURO",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "FkOhx6JjJmA",
-        "song_title": "Fukyouwaon",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/FkOhx6JjJmA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/FkOhx6JjJmA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/FkOhx6JjJmA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Keyakizaka46",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "tcBBNB5JTOQ",
-        "song_title": "Deeper Deeper",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/tcBBNB5JTOQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/tcBBNB5JTOQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/tcBBNB5JTOQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "ONE OK ROCK",
+        "artist": "Spitz",
         "tag": ""
     },
     {
@@ -1676,28 +1622,757 @@
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "9aeq4y3qMdM",
-        "song_title": "No Doubt",
+        "video_id": "tF7b-vaGZBk",
+        "song_title": "Cho Yabai",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/9aeq4y3qMdM/default.jpg",
+                "url": "https://i.ytimg.com/vi/tF7b-vaGZBk/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/9aeq4y3qMdM/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/tF7b-vaGZBk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/9aeq4y3qMdM/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/tF7b-vaGZBk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Official髭男dism",
+        "artist": "t-Ace",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "FkOhx6JjJmA",
+        "song_title": "Fukyouwaon",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/FkOhx6JjJmA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/FkOhx6JjJmA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/FkOhx6JjJmA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Keyakizaka46",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "jzQvrfBO9QE",
+        "song_title": "WanteD! WanteD!",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jzQvrfBO9QE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jzQvrfBO9QE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jzQvrfBO9QE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Mrs. GREEN APPLE",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "gsJn7USHyrw",
+        "song_title": "Sign",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/gsJn7USHyrw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/gsJn7USHyrw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/gsJn7USHyrw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Mr.Children",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "qAo5-m5DOxE",
+        "song_title": "愛してるのに､愛せない",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qAo5-m5DOxE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qAo5-m5DOxE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qAo5-m5DOxE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "AAA",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "lN-BX6g-xAc",
+        "song_title": "プラネタリウム",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/lN-BX6g-xAc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/lN-BX6g-xAc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/lN-BX6g-xAc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Ai Otsuka",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "vvP6t6OZMko",
+        "song_title": "君が好き",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/vvP6t6OZMko/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/vvP6t6OZMko/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/vvP6t6OZMko/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Shota Shimizu",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "LIlZCmETvsY",
+        "song_title": "新宝島",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LIlZCmETvsY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LIlZCmETvsY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LIlZCmETvsY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "sakanaction",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "JCu2Tw8k0ZE",
+        "song_title": "Uroko",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/JCu2Tw8k0ZE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/JCu2Tw8k0ZE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/JCu2Tw8k0ZE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Motohiro Hata",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "nSHa1v_0jPQ",
+        "song_title": "Re:make",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/nSHa1v_0jPQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/nSHa1v_0jPQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/nSHa1v_0jPQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "ONE OK ROCK",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "zgLAWm68XVg",
+        "song_title": "何度でも",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zgLAWm68XVg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zgLAWm68XVg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zgLAWm68XVg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "DREAMS COME TRUE",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "Wscl9ofcako",
+        "song_title": "Can You Keep A Secret?",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Wscl9ofcako/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Wscl9ofcako/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Wscl9ofcako/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Hikaru Utada",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "j6-4TQxxtpI",
+        "song_title": "OVER DRIVE",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/j6-4TQxxtpI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/j6-4TQxxtpI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/j6-4TQxxtpI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "FANTASTICS from EXILE TRIBE",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "249YdrcCL0Y",
+        "song_title": "サザンカ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/249YdrcCL0Y/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/249YdrcCL0Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/249YdrcCL0Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "SEKAI NO OWARI",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "8EYHxyVKin4",
+        "song_title": "I LOVE YOU",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8EYHxyVKin4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8EYHxyVKin4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8EYHxyVKin4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Chris Hart",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "Mj5jKlb9HyQ",
+        "song_title": "BDZ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Mj5jKlb9HyQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Mj5jKlb9HyQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Mj5jKlb9HyQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "TWICE",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "oQB69kTfK2E",
+        "song_title": "The Narrow Way",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/oQB69kTfK2E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/oQB69kTfK2E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/oQB69kTfK2E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Sheena Ringo, Hiroji Miyamoto",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "ymsFRFyvkL4",
+        "song_title": "ヨルソラ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ymsFRFyvkL4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ymsFRFyvkL4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ymsFRFyvkL4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "宇野実彩子",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "zu3IxdfDp08",
+        "song_title": "Everything",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zu3IxdfDp08/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zu3IxdfDp08/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zu3IxdfDp08/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "MISIA",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "9JZMHmrSqrE",
+        "song_title": "Nandemo Naiya",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9JZMHmrSqrE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9JZMHmrSqrE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9JZMHmrSqrE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Mone Kamishiraishi",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "X5xjZe3F6Dw",
+        "song_title": "Yuki No Hana",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/X5xjZe3F6Dw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/X5xjZe3F6Dw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/X5xjZe3F6Dw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Mika Nakashima",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "oQjcJBGIFsA",
+        "song_title": "声をきかせて",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/oQjcJBGIFsA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/oQjcJBGIFsA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/oQjcJBGIFsA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "BIGBANG",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "aB4D61MYlLc",
+        "song_title": "Darling",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/aB4D61MYlLc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/aB4D61MYlLc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/aB4D61MYlLc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kana Nishino",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "SVU03V0PIOs",
+        "song_title": "名もなき詩",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/SVU03V0PIOs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/SVU03V0PIOs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/SVU03V0PIOs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Mr.Children",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "-XFp03G4z68",
+        "song_title": "みかんハート",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-XFp03G4z68/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-XFp03G4z68/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-XFp03G4z68/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "C,K",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "vno6c4isNes",
+        "song_title": "365日の紙飛行機",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/vno6c4isNes/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/vno6c4isNes/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/vno6c4isNes/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "AKB48",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "-9DxpPiE458",
+        "song_title": "Automatic",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-9DxpPiE458/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-9DxpPiE458/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-9DxpPiE458/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Hikaru Utada",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "Ud6SPtx3peY",
+        "song_title": "Candy Pop",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Ud6SPtx3peY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Ud6SPtx3peY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Ud6SPtx3peY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "TWICE",
         "tag": ""
     },
     {
@@ -1757,669 +2432,21 @@
     {
         "playlist_id": 17,
         "source": "youtube",
-        "video_id": "oQjcJBGIFsA",
-        "song_title": "声をきかせて",
+        "video_id": "Y_tUf_-Xz44",
+        "song_title": "じぶんROCK",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/oQjcJBGIFsA/default.jpg",
+                "url": "https://i.ytimg.com/vi/Y_tUf_-Xz44/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/oQjcJBGIFsA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Y_tUf_-Xz44/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/oQjcJBGIFsA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "BIGBANG",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "zKYXeKJe0IA",
-        "song_title": "まっしろ",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/zKYXeKJe0IA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/zKYXeKJe0IA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/zKYXeKJe0IA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Vicke Blanka",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "aPzedjkXnWg",
-        "song_title": "祈り花",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/aPzedjkXnWg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/aPzedjkXnWg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/aPzedjkXnWg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "HIRAI DAI",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "HITAAqJCfJs",
-        "song_title": "Tomorrow never knows",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/HITAAqJCfJs/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/HITAAqJCfJs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/HITAAqJCfJs/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Mr.Children",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "j6-4TQxxtpI",
-        "song_title": "OVER DRIVE",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/j6-4TQxxtpI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/j6-4TQxxtpI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/j6-4TQxxtpI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "FANTASTICS from EXILE TRIBE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "jAPPXzmHHuE",
-        "song_title": "あいことば",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/jAPPXzmHHuE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/jAPPXzmHHuE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/jAPPXzmHHuE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Ayaka",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "mtlmMvyyH34",
-        "song_title": "キセキ",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/mtlmMvyyH34/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/mtlmMvyyH34/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/mtlmMvyyH34/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "GReeeeN",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "uMMazVa8nvE",
-        "song_title": "チェリー",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/uMMazVa8nvE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/uMMazVa8nvE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/uMMazVa8nvE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Spitz",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "izJAXwuMbi0",
-        "song_title": "愛唄",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/izJAXwuMbi0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/izJAXwuMbi0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/izJAXwuMbi0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "GReeeeN",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "YqllOJ7ut10",
-        "song_title": "Blizzard",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/YqllOJ7ut10/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/YqllOJ7ut10/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/YqllOJ7ut10/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Miura Daichi",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "SVU03V0PIOs",
-        "song_title": "名もなき詩",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/SVU03V0PIOs/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/SVU03V0PIOs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/SVU03V0PIOs/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Mr.Children",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "iK7CMWahaXI",
-        "song_title": "ロマンスの神様",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/iK7CMWahaXI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/iK7CMWahaXI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/iK7CMWahaXI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Hirose Kohmi",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "OXYxa7UM4_g",
-        "song_title": "○○ちゃん",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/OXYxa7UM4_g/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/OXYxa7UM4_g/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/OXYxa7UM4_g/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Aimyon",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "gXkpDePP-rw",
-        "song_title": "AM11:00",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/gXkpDePP-rw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/gXkpDePP-rw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/gXkpDePP-rw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "HY",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "vlfNxeRn-PI",
-        "song_title": "Don't Leave Me",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/vlfNxeRn-PI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/vlfNxeRn-PI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/vlfNxeRn-PI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "BANGTAN BOYS",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "lN-BX6g-xAc",
-        "song_title": "プラネタリウム",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/lN-BX6g-xAc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/lN-BX6g-xAc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/lN-BX6g-xAc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Ai Otsuka",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "yY3HpNNj5vM",
-        "song_title": "Heads or Tails",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/yY3HpNNj5vM/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/yY3HpNNj5vM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/yY3HpNNj5vM/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "EXILE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "Q7YBopVZyao",
-        "song_title": "Perfect World",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Q7YBopVZyao/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Q7YBopVZyao/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Q7YBopVZyao/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "E-girls",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "wlsVh65WVds",
-        "song_title": "BANG BANG BANG",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/wlsVh65WVds/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/wlsVh65WVds/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/wlsVh65WVds/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "BIGBANG",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "Q4NmV4ifups",
-        "song_title": "零 -ZERO-",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Q4NmV4ifups/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Q4NmV4ifups/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Q4NmV4ifups/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Masaharu Fukuyama",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "Ud6SPtx3peY",
-        "song_title": "Candy Pop",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Ud6SPtx3peY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Ud6SPtx3peY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Ud6SPtx3peY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "TWICE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "Hka9x1QNyAo",
-        "song_title": "楓",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Hka9x1QNyAo/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Hka9x1QNyAo/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Hka9x1QNyAo/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Spitz",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "JeYJnSuYgrs",
-        "song_title": "Tsutsumi Komu Youni...",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/JeYJnSuYgrs/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/JeYJnSuYgrs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/JeYJnSuYgrs/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "MISIA",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "LIlZCmETvsY",
-        "song_title": "新宝島",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/LIlZCmETvsY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/LIlZCmETvsY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/LIlZCmETvsY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "sakanaction",
-        "tag": ""
-    },
-    {
-        "playlist_id": 17,
-        "source": "youtube",
-        "video_id": "nSHa1v_0jPQ",
-        "song_title": "Re:make",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/nSHa1v_0jPQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/nSHa1v_0jPQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/nSHa1v_0jPQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Y_tUf_-Xz44/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -2427,6 +2454,87 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "ONE OK ROCK",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "kBWQmYRGfMQ",
+        "song_title": "友よ ～ この先もずっと・・・",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/kBWQmYRGfMQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/kBWQmYRGfMQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/kBWQmYRGfMQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Ketsumeishi",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "Bi1i3NGzZkg",
+        "song_title": "丸ノ内サディスティック",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Bi1i3NGzZkg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Bi1i3NGzZkg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Bi1i3NGzZkg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Sheena Ringo",
+        "tag": ""
+    },
+    {
+        "playlist_id": 17,
+        "source": "youtube",
+        "video_id": "OTUtF7ZxRN8",
+        "song_title": "Start",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/OTUtF7ZxRN8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/OTUtF7ZxRN8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/OTUtF7ZxRN8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Mrs. GREEN APPLE",
         "tag": ""
     }
 ]
