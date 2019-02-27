@@ -542,6 +542,33 @@
     {
         "playlist_id": 2,
         "source": "youtube",
+        "video_id": "khdSaikqZxY",
+        "song_title": "去吧(演)",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/khdSaikqZxY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/khdSaikqZxY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/khdSaikqZxY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "陳慧嫻",
+        "tag": ""
+    },
+    {
+        "playlist_id": 2,
+        "source": "youtube",
         "video_id": "OU5KvPxB8hA",
         "song_title": "追",
         "thumbnails": {
@@ -591,33 +618,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "BEYOND",
-        "tag": ""
-    },
-    {
-        "playlist_id": 2,
-        "source": "youtube",
-        "video_id": "Q3zsodrjsjY",
-        "song_title": "去吧(演)",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Q3zsodrjsjY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Q3zsodrjsjY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Q3zsodrjsjY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "陳慧嫻",
         "tag": ""
     },
     {
@@ -1190,21 +1190,21 @@
     {
         "playlist_id": 2,
         "source": "youtube",
-        "video_id": "WoqN6AOrDh8",
+        "video_id": "Gar9iEzW0FQ",
         "song_title": "倦(演)",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/WoqN6AOrDh8/default.jpg",
+                "url": "https://i.ytimg.com/vi/Gar9iEzW0FQ/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/WoqN6AOrDh8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Gar9iEzW0FQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/WoqN6AOrDh8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Gar9iEzW0FQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
