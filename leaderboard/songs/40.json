@@ -56,6 +56,33 @@
     {
         "playlist_id": 40,
         "source": "youtube",
+        "video_id": "4NKw3TfaKCw",
+        "song_title": "最後一次",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4NKw3TfaKCw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4NKw3TfaKCw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4NKw3TfaKCw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "高爾宣 OSN",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
         "video_id": "RuMtNbMVpeM",
         "song_title": "Please Me",
         "thumbnails": {
@@ -110,28 +137,28 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "4NKw3TfaKCw",
-        "song_title": "最後一次",
+        "video_id": "BBVLj_PSsZ8",
+        "song_title": "Papillon",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/4NKw3TfaKCw/default.jpg",
+                "url": "https://i.ytimg.com/vi/BBVLj_PSsZ8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/4NKw3TfaKCw/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BBVLj_PSsZ8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/4NKw3TfaKCw/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BBVLj_PSsZ8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "高爾宣 OSN",
+        "artist": "王嘉爾",
         "tag": ""
     },
     {
@@ -164,21 +191,48 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "LuewQFrk8u0",
-        "song_title": "Why You Gonna Lie?",
+        "video_id": "Oa3pJNZi4qo",
+        "song_title": "R&B Girl",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/LuewQFrk8u0/default.jpg",
+                "url": "https://i.ytimg.com/vi/Oa3pJNZi4qo/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/LuewQFrk8u0/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Oa3pJNZi4qo/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/LuewQFrk8u0/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Oa3pJNZi4qo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "頑童MJ116",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "4cEpuGRMspE",
+        "song_title": "Why You Gonna Lie?",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4cEpuGRMspE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4cEpuGRMspE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4cEpuGRMspE/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -186,60 +240,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "高爾宣 OSN",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "BBVLj_PSsZ8",
-        "song_title": "Papillon",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/BBVLj_PSsZ8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/BBVLj_PSsZ8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/BBVLj_PSsZ8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "王嘉爾",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "5VpI5D5WMpY",
-        "song_title": "陷阱妹",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/5VpI5D5WMpY/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/5VpI5D5WMpY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/5VpI5D5WMpY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "屁孩 Ryan",
         "tag": ""
     },
     {
@@ -299,114 +299,6 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "Q4fYtFmoWDk",
-        "song_title": "Different Game",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Q4fYtFmoWDk/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Q4fYtFmoWDk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Q4fYtFmoWDk/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "王嘉爾",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "I8t5fXdbewc",
-        "song_title": "Make It Happen",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/I8t5fXdbewc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/I8t5fXdbewc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/I8t5fXdbewc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Various Artists",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "zJx6v_APhWA",
-        "song_title": "辣台妹 HOT CHICK",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/zJx6v_APhWA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/zJx6v_APhWA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/zJx6v_APhWA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "頑童MJ116",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "QDWetbBV6cc",
-        "song_title": "I'm the One",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/QDWetbBV6cc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/QDWetbBV6cc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/QDWetbBV6cc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "DJ Khaled",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
         "video_id": "tRa3fOlnN7k",
         "song_title": "別問很可怕",
         "thumbnails": {
@@ -434,82 +326,28 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "lNQMOAzRywg",
-        "song_title": "矮 Feel Good",
+        "video_id": "Q4fYtFmoWDk",
+        "song_title": "Different Game",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/lNQMOAzRywg/default.jpg",
+                "url": "https://i.ytimg.com/vi/Q4fYtFmoWDk/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/lNQMOAzRywg/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Q4fYtFmoWDk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/lNQMOAzRywg/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Q4fYtFmoWDk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Various Artists",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "f7B2FNltRXg",
-        "song_title": "幹大事 BIG THING",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/f7B2FNltRXg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/f7B2FNltRXg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/f7B2FNltRXg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "頑童MJ116",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "4ujnAzBkdDc",
-        "song_title": "Apologize",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/4ujnAzBkdDc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/4ujnAzBkdDc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/4ujnAzBkdDc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "OneRepublic",
+        "artist": "王嘉爾",
         "tag": ""
     },
     {
@@ -542,136 +380,28 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "N4_tpI18un4",
-        "song_title": "Bad Things",
+        "video_id": "iPTCut20ZIM",
+        "song_title": "...夢中夢中夢中夢中…",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/N4_tpI18un4/default.jpg",
+                "url": "https://i.ytimg.com/vi/iPTCut20ZIM/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/N4_tpI18un4/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/iPTCut20ZIM/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/N4_tpI18un4/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/iPTCut20ZIM/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Machine Gun Kelly",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "S0tJ2Scp994",
-        "song_title": "Psycho",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/S0tJ2Scp994/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/S0tJ2Scp994/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/S0tJ2Scp994/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Post Malone",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "IhMFi14uQGg",
-        "song_title": "Red",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/IhMFi14uQGg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/IhMFi14uQGg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/IhMFi14uQGg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Jackson Wang, Ice",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "InhjZVYKneg",
-        "song_title": "Better Now",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/InhjZVYKneg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/InhjZVYKneg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/InhjZVYKneg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Post Malone",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "ecd4MmrUKrw",
-        "song_title": "See You Again",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ecd4MmrUKrw/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ecd4MmrUKrw/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ecd4MmrUKrw/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Wiz Khalifa",
+        "artist": "熊仔,豹子膽",
         "tag": ""
     },
     {
@@ -704,21 +434,372 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "i00uE3CpzFg",
-        "song_title": "Good Life",
+        "video_id": "zJx6v_APhWA",
+        "song_title": "辣台妹 HOT CHICK",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/i00uE3CpzFg/default.jpg",
+                "url": "https://i.ytimg.com/vi/zJx6v_APhWA/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/i00uE3CpzFg/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/zJx6v_APhWA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/i00uE3CpzFg/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/zJx6v_APhWA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "頑童MJ116",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "DtTFu9qgX38",
+        "song_title": "Better Now",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/DtTFu9qgX38/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/DtTFu9qgX38/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/DtTFu9qgX38/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Post Malone",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "B3-yaDCSZ_s",
+        "song_title": "Venom",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/B3-yaDCSZ_s/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/B3-yaDCSZ_s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/B3-yaDCSZ_s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Eminem",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "fSVUvFxu0r0",
+        "song_title": "SICKO MODE",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/fSVUvFxu0r0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/fSVUvFxu0r0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/fSVUvFxu0r0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Travis Scott",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "4ujnAzBkdDc",
+        "song_title": "Apologize",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4ujnAzBkdDc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4ujnAzBkdDc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4ujnAzBkdDc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "OneRepublic",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "N4_tpI18un4",
+        "song_title": "Bad Things",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/N4_tpI18un4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/N4_tpI18un4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/N4_tpI18un4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Machine Gun Kelly",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "f7B2FNltRXg",
+        "song_title": "幹大事 BIG THING",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/f7B2FNltRXg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/f7B2FNltRXg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/f7B2FNltRXg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "頑童MJ116",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "N8Egfy6RijU",
+        "song_title": "打鐵",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/N8Egfy6RijU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/N8Egfy6RijU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/N8Egfy6RijU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "玖壹壹",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "S0tJ2Scp994",
+        "song_title": "Psycho",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/S0tJ2Scp994/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/S0tJ2Scp994/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/S0tJ2Scp994/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Post Malone",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "6TtL05e-aFQ",
+        "song_title": "I Like It",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/6TtL05e-aFQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/6TtL05e-aFQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/6TtL05e-aFQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Cardi B",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "Io3rPXN1bKc",
+        "song_title": "Be Alright",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Io3rPXN1bKc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Io3rPXN1bKc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Io3rPXN1bKc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "高爾宣 OSN",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "MniuTSNGnMQ",
+        "song_title": "I'm the One",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/MniuTSNGnMQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/MniuTSNGnMQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/MniuTSNGnMQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "DJ Khaled",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "dh60KTLQ14g",
+        "song_title": "SPOTLIGHT",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/dh60KTLQ14g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/dh60KTLQ14g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/dh60KTLQ14g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "頑童MJ116",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "H03sKp1ZYyA",
+        "song_title": "買榜",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/H03sKp1ZYyA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/H03sKp1ZYyA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/H03sKp1ZYyA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -758,28 +839,271 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "0wghbOJufro",
-        "song_title": "Rule The World",
+        "video_id": "i00uE3CpzFg",
+        "song_title": "Good Life",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/0wghbOJufro/default.jpg",
+                "url": "https://i.ytimg.com/vi/i00uE3CpzFg/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/0wghbOJufro/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/i00uE3CpzFg/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/0wghbOJufro/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/i00uE3CpzFg/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "2 Chainz",
+        "artist": "Various Artists",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "Z1a8kRIz44E",
+        "song_title": "River",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Z1a8kRIz44E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Z1a8kRIz44E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Z1a8kRIz44E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Eminem",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "MFrD3bkQz00",
+        "song_title": "Boom Bap With Conscious",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/MFrD3bkQz00/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/MFrD3bkQz00/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/MFrD3bkQz00/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "老莫",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "9Os0AZUCD7k",
+        "song_title": "華語",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9Os0AZUCD7k/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9Os0AZUCD7k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9Os0AZUCD7k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Dough-Boy",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "ecd4MmrUKrw",
+        "song_title": "See You Again",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ecd4MmrUKrw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ecd4MmrUKrw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ecd4MmrUKrw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Wiz Khalifa",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "4ACm5a9n9_Q",
+        "song_title": "你不愛我",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/4ACm5a9n9_Q/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/4ACm5a9n9_Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/4ACm5a9n9_Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "玖壹壹",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "R75u3Of096c",
+        "song_title": "I Know",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/R75u3Of096c/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/R75u3Of096c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/R75u3Of096c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "BAKERIE",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "Ou4wM2uXLV4",
+        "song_title": "Rap God",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Ou4wM2uXLV4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Ou4wM2uXLV4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Ou4wM2uXLV4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Eminem",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "mrqKvu-rqIc",
+        "song_title": "差不多先生",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/mrqKvu-rqIc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/mrqKvu-rqIc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/mrqKvu-rqIc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "熱狗",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "PaCggUYfYCE",
+        "song_title": "愛的總鋪師",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/PaCggUYfYCE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/PaCggUYfYCE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/PaCggUYfYCE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "玖壹壹",
         "tag": ""
     },
     {
@@ -812,136 +1136,28 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "0itQgbdZZHs",
-        "song_title": "ENGINE",
+        "video_id": "LxwpKKK3P4s",
+        "song_title": "Old Town Road",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/0itQgbdZZHs/default.jpg",
+                "url": "https://i.ytimg.com/vi/LxwpKKK3P4s/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/0itQgbdZZHs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/LxwpKKK3P4s/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/0itQgbdZZHs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/LxwpKKK3P4s/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Jay Park, Woo",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "N8Egfy6RijU",
-        "song_title": "打鐵",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/N8Egfy6RijU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/N8Egfy6RijU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/N8Egfy6RijU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "玖壹壹",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "aM1WvVQ6B3s",
-        "song_title": "Venom",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/aM1WvVQ6B3s/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/aM1WvVQ6B3s/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/aM1WvVQ6B3s/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Eminem",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "VEHz8WfGTus",
-        "song_title": "Robbery",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/VEHz8WfGTus/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/VEHz8WfGTus/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/VEHz8WfGTus/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Juice WRLD",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "6TtL05e-aFQ",
-        "song_title": "I Like It",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/6TtL05e-aFQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/6TtL05e-aFQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/6TtL05e-aFQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Cardi B",
+        "artist": "Lil Nas X",
         "tag": ""
     },
     {
@@ -974,28 +1190,217 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "1g8S-enLQ60",
-        "song_title": "Bodak Yellow",
+        "video_id": "fIXTRr22_II",
+        "song_title": "少年董",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/1g8S-enLQ60/default.jpg",
+                "url": "https://i.ytimg.com/vi/fIXTRr22_II/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/1g8S-enLQ60/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/fIXTRr22_II/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/1g8S-enLQ60/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/fIXTRr22_II/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Cardi B",
+        "artist": "頑童MJ116",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "5VpI5D5WMpY",
+        "song_title": "陷阱妹",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/5VpI5D5WMpY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/5VpI5D5WMpY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/5VpI5D5WMpY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "屁孩 Ryan",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "lHG4UZ-vD3U",
+        "song_title": "Sally Walker",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/lHG4UZ-vD3U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/lHG4UZ-vD3U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/lHG4UZ-vD3U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Iggy Azalea",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "XiNGDkzcYRo",
+        "song_title": "她說她想要",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XiNGDkzcYRo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XiNGDkzcYRo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XiNGDkzcYRo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "chocoLAte巧克力",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "JQbjS0_ZfJ0",
+        "song_title": "All The Stars",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/JQbjS0_ZfJ0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/JQbjS0_ZfJ0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/JQbjS0_ZfJ0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kendrick Lamar, The Weeknd, SZA",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "IhMFi14uQGg",
+        "song_title": "Red",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/IhMFi14uQGg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/IhMFi14uQGg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/IhMFi14uQGg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Jackson Wang, Ice",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "I8t5fXdbewc",
+        "song_title": "Make It Happen",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/I8t5fXdbewc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/I8t5fXdbewc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/I8t5fXdbewc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Various Artists",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "TBhKHzhU1BM",
+        "song_title": "台南情歌",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/TBhKHzhU1BM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/TBhKHzhU1BM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/TBhKHzhU1BM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "大支",
         "tag": ""
     },
     {
@@ -1028,109 +1433,28 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "fSVUvFxu0r0",
-        "song_title": "SICKO MODE",
+        "video_id": "pP62fq8vj34",
+        "song_title": "Not Afraid",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/fSVUvFxu0r0/default.jpg",
+                "url": "https://i.ytimg.com/vi/pP62fq8vj34/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/fSVUvFxu0r0/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/pP62fq8vj34/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/fSVUvFxu0r0/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/pP62fq8vj34/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Travis Scott",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "xMOolFsscaA",
-        "song_title": "Baby Don't Go",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/xMOolFsscaA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/xMOolFsscaA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/xMOolFsscaA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "輝子",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "-ccw9NbLEBI",
-        "song_title": "THE BENEFITS OF HEARTBREAK",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/-ccw9NbLEBI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/-ccw9NbLEBI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/-ccw9NbLEBI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "EPIK HIGH",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "E6Rd7UE8jQc",
-        "song_title": "離開",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/E6Rd7UE8jQc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/E6Rd7UE8jQc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/E6Rd7UE8jQc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "熱狗",
+        "artist": "Eminem",
         "tag": ""
     },
     {
@@ -1151,33 +1475,6 @@
             },
             "high": {
                 "url": "https://i.ytimg.com/vi/4MNk3WsufJ0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Eminem",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "Z1a8kRIz44E",
-        "song_title": "River",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Z1a8kRIz44E/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Z1a8kRIz44E/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Z1a8kRIz44E/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1217,573 +1514,6 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "dh60KTLQ14g",
-        "song_title": "SPOTLIGHT",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/dh60KTLQ14g/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/dh60KTLQ14g/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/dh60KTLQ14g/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "頑童MJ116",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "mrqKvu-rqIc",
-        "song_title": "差不多先生",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/mrqKvu-rqIc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/mrqKvu-rqIc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/mrqKvu-rqIc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "熱狗",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "4ACm5a9n9_Q",
-        "song_title": "你不愛我",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/4ACm5a9n9_Q/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/4ACm5a9n9_Q/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/4ACm5a9n9_Q/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "玖壹壹",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "pP62fq8vj34",
-        "song_title": "Not Afraid",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/pP62fq8vj34/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/pP62fq8vj34/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/pP62fq8vj34/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Eminem",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "H03sKp1ZYyA",
-        "song_title": "買榜",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/H03sKp1ZYyA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/H03sKp1ZYyA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/H03sKp1ZYyA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Various Artists",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "pj-WJS4ojSI",
-        "song_title": "Backin' It Up",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/pj-WJS4ojSI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/pj-WJS4ojSI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/pj-WJS4ojSI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Pardison Fontaine",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "PtOpvKgNx3s",
-        "song_title": "Maze",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/PtOpvKgNx3s/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/PtOpvKgNx3s/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/PtOpvKgNx3s/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Juice WRLD",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "ailp9OhiKbc",
-        "song_title": "Jocelyn Flores",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ailp9OhiKbc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ailp9OhiKbc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ailp9OhiKbc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Xxxtentacion",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "yAGBcciW6gs",
-        "song_title": "In My Feelings",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/yAGBcciW6gs/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/yAGBcciW6gs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/yAGBcciW6gs/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Drake",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "9Os0AZUCD7k",
-        "song_title": "華語",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/9Os0AZUCD7k/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/9Os0AZUCD7k/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/9Os0AZUCD7k/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Dough-Boy",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "JQbjS0_ZfJ0",
-        "song_title": "All The Stars",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/JQbjS0_ZfJ0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/JQbjS0_ZfJ0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/JQbjS0_ZfJ0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Kendrick Lamar, The Weeknd, SZA",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "VEHz8WfGTus",
-        "song_title": "Robbery",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/VEHz8WfGTus/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/VEHz8WfGTus/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/VEHz8WfGTus/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Juice WRLD",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "Ou4wM2uXLV4",
-        "song_title": "Rap God",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Ou4wM2uXLV4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Ou4wM2uXLV4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Ou4wM2uXLV4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Eminem",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "Cf9tNbG0JyI",
-        "song_title": "See You Again",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/Cf9tNbG0JyI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/Cf9tNbG0JyI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/Cf9tNbG0JyI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Various Artists",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "fIXTRr22_II",
-        "song_title": "少年董",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/fIXTRr22_II/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/fIXTRr22_II/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/fIXTRr22_II/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "頑童MJ116",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "dd1iDs8lzcE",
-        "song_title": "Mockingbird",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/dd1iDs8lzcE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/dd1iDs8lzcE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/dd1iDs8lzcE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Eminem",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "QXxhKUy_7C4",
-        "song_title": "高興就好",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/QXxhKUy_7C4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/QXxhKUy_7C4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/QXxhKUy_7C4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "李爾新,王以太",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "alxkr2YMceU",
-        "song_title": "Big",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/alxkr2YMceU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/alxkr2YMceU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/alxkr2YMceU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Juice WRLD",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "zp1KkQMiPt0",
-        "song_title": "Let You Down",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/zp1KkQMiPt0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/zp1KkQMiPt0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/zp1KkQMiPt0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "NF",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "T7Jc_2RAvH4",
-        "song_title": "See You Again",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/T7Jc_2RAvH4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/T7Jc_2RAvH4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/T7Jc_2RAvH4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "CHARLIE PUTH",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "XfrFA-qOS5M",
-        "song_title": "Low",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/XfrFA-qOS5M/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/XfrFA-qOS5M/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/XfrFA-qOS5M/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Flo Rida",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
         "video_id": "wf68uK9D82o",
         "song_title": "Let Go",
         "thumbnails": {
@@ -1811,217 +1541,55 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "01P0qKogB5E",
-        "song_title": "Lean Wit Me",
+        "video_id": "VqPOOmzBnsE",
+        "song_title": "Taste",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/01P0qKogB5E/default.jpg",
+                "url": "https://i.ytimg.com/vi/VqPOOmzBnsE/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/01P0qKogB5E/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/VqPOOmzBnsE/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/01P0qKogB5E/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/VqPOOmzBnsE/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Juice WRLD",
+        "artist": "Woo",
         "tag": ""
     },
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "Io3rPXN1bKc",
-        "song_title": "Be Alright",
+        "video_id": "5nziYy_f6Xo",
+        "song_title": "Airplanes",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/Io3rPXN1bKc/default.jpg",
+                "url": "https://i.ytimg.com/vi/5nziYy_f6Xo/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/Io3rPXN1bKc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/5nziYy_f6Xo/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/Io3rPXN1bKc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/5nziYy_f6Xo/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "高爾宣 OSN",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "zfTM9mq7nrk",
-        "song_title": "Dangerous",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/zfTM9mq7nrk/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/zfTM9mq7nrk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/zfTM9mq7nrk/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Kardinal Offishall",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "_QYCvQhSDgo",
-        "song_title": "No Limit",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/_QYCvQhSDgo/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/_QYCvQhSDgo/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/_QYCvQhSDgo/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "G-Eazy",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "ZQ8mn5fS5_M",
-        "song_title": "我愛台妹",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ZQ8mn5fS5_M/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ZQ8mn5fS5_M/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ZQ8mn5fS5_M/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "熱狗",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "XR7Ev14vUh8",
-        "song_title": "Pray For Me",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/XR7Ev14vUh8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/XR7Ev14vUh8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/XR7Ev14vUh8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Kendrick Lamar, The Weeknd, SZA",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "R75u3Of096c",
-        "song_title": "I Know",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/R75u3Of096c/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/R75u3Of096c/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/R75u3Of096c/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "BAKERIE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "TP7JVS4YPpA",
-        "song_title": "rockstar",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/TP7JVS4YPpA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/TP7JVS4YPpA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/TP7JVS4YPpA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Post Malone",
+        "artist": "B.o.B",
         "tag": ""
     },
     {
@@ -2054,379 +1622,82 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "TgW2uRpwipU",
-        "song_title": "Game Time",
+        "video_id": "rkY1Ay6XQ38",
+        "song_title": "헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/TgW2uRpwipU/default.jpg",
+                "url": "https://i.ytimg.com/vi/rkY1Ay6XQ38/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/TgW2uRpwipU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/rkY1Ay6XQ38/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/TgW2uRpwipU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/rkY1Ay6XQ38/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Flo Rida",
+        "artist": "LeeSSang",
         "tag": ""
     },
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "RmI_2bS-yEw",
-        "song_title": "HERO",
+        "video_id": "r4fJ6TUXOTk",
+        "song_title": "騙吃騙吃",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/RmI_2bS-yEw/default.jpg",
+                "url": "https://i.ytimg.com/vi/r4fJ6TUXOTk/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/RmI_2bS-yEw/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/r4fJ6TUXOTk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/RmI_2bS-yEw/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/r4fJ6TUXOTk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "MONSTA X",
+        "artist": "頑童MJ116",
         "tag": ""
     },
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "zBc8gMq85vI",
-        "song_title": "Beat The Odds",
+        "video_id": "E6Rd7UE8jQc",
+        "song_title": "離開",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/zBc8gMq85vI/default.jpg",
+                "url": "https://i.ytimg.com/vi/E6Rd7UE8jQc/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/zBc8gMq85vI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/E6Rd7UE8jQc/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/zBc8gMq85vI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/E6Rd7UE8jQc/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Derez De'Shon",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "mkN3BWNte8M",
-        "song_title": "Dirty Dawg \"Insane\"",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/mkN3BWNte8M/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/mkN3BWNte8M/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/mkN3BWNte8M/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Skooly",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "6rbDHbN2IOs",
-        "song_title": "Right Or Wrong",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/6rbDHbN2IOs/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/6rbDHbN2IOs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/6rbDHbN2IOs/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Youngboy Never Broke Again",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "LL44oXAHfxk",
-        "song_title": "沒有回頭路",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/LL44oXAHfxk/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/LL44oXAHfxk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/LL44oXAHfxk/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "李杰明 W.M.L",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "zT-99xg-6BE",
-        "song_title": "RUSH",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/zT-99xg-6BE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/zT-99xg-6BE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/zT-99xg-6BE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "MONSTA X",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "ljhaG1q69bk",
-        "song_title": "Starships",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ljhaG1q69bk/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ljhaG1q69bk/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ljhaG1q69bk/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Nicki Minaj",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "D6ytqHubn2c",
-        "song_title": "La La Land",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/D6ytqHubn2c/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/D6ytqHubn2c/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/D6ytqHubn2c/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Bryce Vine",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "1TUeuyo7nME",
-        "song_title": "a lot",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/1TUeuyo7nME/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/1TUeuyo7nME/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/1TUeuyo7nME/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "21 Savage",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "fnPt2GVx0Bc",
-        "song_title": "In Da Club",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/fnPt2GVx0Bc/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/fnPt2GVx0Bc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/fnPt2GVx0Bc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "50 Cent",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "YczP_wtXB0w",
-        "song_title": "Without Me",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/YczP_wtXB0w/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/YczP_wtXB0w/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/YczP_wtXB0w/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Eminem",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "_kee5uHfe24",
-        "song_title": "Not For The Radio",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/_kee5uHfe24/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/_kee5uHfe24/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/_kee5uHfe24/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Tinie Tempah",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "n-jjC9SvqWg",
-        "song_title": "Baby",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/n-jjC9SvqWg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/n-jjC9SvqWg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/n-jjC9SvqWg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Yogi, Maleek Berry, RAY BLK",
+        "artist": "熱狗",
         "tag": ""
     },
     {
@@ -2459,75 +1730,21 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "XDwWdQiFiVc",
-        "song_title": "All Girls Are The Same",
+        "video_id": "ZQ8mn5fS5_M",
+        "song_title": "我愛台妹",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/XDwWdQiFiVc/default.jpg",
+                "url": "https://i.ytimg.com/vi/ZQ8mn5fS5_M/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/XDwWdQiFiVc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ZQ8mn5fS5_M/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/XDwWdQiFiVc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Juice WRLD",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "PaCggUYfYCE",
-        "song_title": "愛的總鋪師",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/PaCggUYfYCE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/PaCggUYfYCE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/PaCggUYfYCE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "玖壹壹",
-        "tag": ""
-    },
-    {
-        "playlist_id": 40,
-        "source": "youtube",
-        "video_id": "HTJWyiV3r1g",
-        "song_title": "海洋",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/HTJWyiV3r1g/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/HTJWyiV3r1g/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/HTJWyiV3r1g/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ZQ8mn5fS5_M/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -2540,75 +1757,102 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "XaOVJRhu0R8",
-        "song_title": "Drip Too Hard",
+        "video_id": "Rne4oL1NZrU",
+        "song_title": "走到飛",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/XaOVJRhu0R8/default.jpg",
+                "url": "https://i.ytimg.com/vi/Rne4oL1NZrU/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/XaOVJRhu0R8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Rne4oL1NZrU/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/XaOVJRhu0R8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Rne4oL1NZrU/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Lil Baby, Gunna",
+        "artist": "呂士軒, ØZI, 吳卓源, 熊仔, B.C.W, Barry, 大支",
         "tag": ""
     },
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "RRl_C73vFtQ",
-        "song_title": "Black & White",
+        "video_id": "pj-WJS4ojSI",
+        "song_title": "Backin' It Up",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/RRl_C73vFtQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/pj-WJS4ojSI/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/RRl_C73vFtQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/pj-WJS4ojSI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/RRl_C73vFtQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/pj-WJS4ojSI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Juice WRLD",
+        "artist": "Pardison Fontaine",
         "tag": ""
     },
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "uHbclTUFQ-0",
-        "song_title": "God's Plan",
+        "video_id": "gv-WO_O9uTg",
+        "song_title": "The Monster",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/uHbclTUFQ-0/default.jpg",
+                "url": "https://i.ytimg.com/vi/gv-WO_O9uTg/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/uHbclTUFQ-0/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/gv-WO_O9uTg/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/uHbclTUFQ-0/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/gv-WO_O9uTg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Eminem",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "TJ4qY0YwOS8",
+        "song_title": "Best I Ever Had",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/TJ4qY0YwOS8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/TJ4qY0YwOS8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/TJ4qY0YwOS8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -2621,28 +1865,784 @@
     {
         "playlist_id": 40,
         "source": "youtube",
-        "video_id": "r4fJ6TUXOTk",
-        "song_title": "騙吃騙吃",
+        "video_id": "yAGBcciW6gs",
+        "song_title": "In My Feelings",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/r4fJ6TUXOTk/default.jpg",
+                "url": "https://i.ytimg.com/vi/yAGBcciW6gs/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/r4fJ6TUXOTk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/yAGBcciW6gs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/r4fJ6TUXOTk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/yAGBcciW6gs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "頑童MJ116",
+        "artist": "Drake",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "trU-S53fK04",
+        "song_title": "Valentino",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/trU-S53fK04/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/trU-S53fK04/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/trU-S53fK04/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "24kgoldn",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "blGvnXEjBhM",
+        "song_title": "Pure Water",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/blGvnXEjBhM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/blGvnXEjBhM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/blGvnXEjBhM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Mustard, Migos",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "bnT5UaSvYwo",
+        "song_title": "So Good",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/bnT5UaSvYwo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/bnT5UaSvYwo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/bnT5UaSvYwo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "B.o.B",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "Rne4oL1NZrU",
+        "song_title": "走到飛",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Rne4oL1NZrU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Rne4oL1NZrU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Rne4oL1NZrU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "熊仔, 大支, 呂士軒, ØZI, 吳卓源, Barry",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "XfrFA-qOS5M",
+        "song_title": "Low",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XfrFA-qOS5M/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XfrFA-qOS5M/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XfrFA-qOS5M/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Flo Rida",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "Hqs-q7yeFck",
+        "song_title": "Maze",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Hqs-q7yeFck/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Hqs-q7yeFck/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Hqs-q7yeFck/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Juice WRLD",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "ljhaG1q69bk",
+        "song_title": "Starships",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ljhaG1q69bk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ljhaG1q69bk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ljhaG1q69bk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Nicki Minaj",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "MKPXRQKpdZc",
+        "song_title": "Going Bad",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/MKPXRQKpdZc/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/MKPXRQKpdZc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/MKPXRQKpdZc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Meek Mill",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "9LSyWM2CL-U",
+        "song_title": "Empty",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/9LSyWM2CL-U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/9LSyWM2CL-U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/9LSyWM2CL-U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Juice WRLD",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "RmI_2bS-yEw",
+        "song_title": "HERO",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/RmI_2bS-yEw/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/RmI_2bS-yEw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/RmI_2bS-yEw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "MONSTA X",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "-jv7SHtyIqI",
+        "song_title": "FIANCÉ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/-jv7SHtyIqI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/-jv7SHtyIqI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/-jv7SHtyIqI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "MINO",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "ijSzl_swGjo",
+        "song_title": "Clout",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ijSzl_swGjo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ijSzl_swGjo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ijSzl_swGjo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Offset",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "XR7Ev14vUh8",
+        "song_title": "Pray For Me",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/XR7Ev14vUh8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/XR7Ev14vUh8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/XR7Ev14vUh8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kendrick Lamar, The Weeknd, SZA",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "TP7JVS4YPpA",
+        "song_title": "rockstar",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/TP7JVS4YPpA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/TP7JVS4YPpA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/TP7JVS4YPpA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Post Malone",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "GcGrqV6e5jI",
+        "song_title": "Coconut Tree",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GcGrqV6e5jI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GcGrqV6e5jI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GcGrqV6e5jI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "CHING G SQUAD",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "o2V3qUhkX3E",
+        "song_title": "Taste",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/o2V3qUhkX3E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/o2V3qUhkX3E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/o2V3qUhkX3E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Tyga",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "rQ3O2J-ccew",
+        "song_title": "#WCF",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/rQ3O2J-ccew/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/rQ3O2J-ccew/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/rQ3O2J-ccew/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "67",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "L5gdD7d6IDo",
+        "song_title": "Hear Me Calling",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/L5gdD7d6IDo/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/L5gdD7d6IDo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/L5gdD7d6IDo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Juice WRLD",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "AJcz7PRb7cU",
+        "song_title": "Good Form",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/AJcz7PRb7cU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/AJcz7PRb7cU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/AJcz7PRb7cU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Nicki Minaj",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "1g8S-enLQ60",
+        "song_title": "Bodak Yellow",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1g8S-enLQ60/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1g8S-enLQ60/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1g8S-enLQ60/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Cardi B",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "hKfWNZy_C5g",
+        "song_title": "心內的話",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/hKfWNZy_C5g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/hKfWNZy_C5g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/hKfWNZy_C5g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "玖壹壹",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "OpPDKnn7VkM",
+        "song_title": "Glorious",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/OpPDKnn7VkM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/OpPDKnn7VkM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/OpPDKnn7VkM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Macklemore",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "YiPzMJp5Al0",
+        "song_title": "Friends",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/YiPzMJp5Al0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/YiPzMJp5Al0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/YiPzMJp5Al0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Ayo , Teo",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "8IDmv0MoxR8",
+        "song_title": "King James",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/8IDmv0MoxR8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/8IDmv0MoxR8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/8IDmv0MoxR8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Anderson .Paak",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "yCYin3gFFCE",
+        "song_title": "GDFR",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/yCYin3gFFCE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/yCYin3gFFCE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/yCYin3gFFCE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Flo Rida",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "Z51iEGMPQ9o",
+        "song_title": "Quarter Milli",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/Z51iEGMPQ9o/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/Z51iEGMPQ9o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/Z51iEGMPQ9o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Offset",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "cwioRNHDgmA",
+        "song_title": "Bitch Lasagna",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/cwioRNHDgmA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/cwioRNHDgmA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/cwioRNHDgmA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "NK",
+        "tag": ""
+    },
+    {
+        "playlist_id": 40,
+        "source": "youtube",
+        "video_id": "zp1KkQMiPt0",
+        "song_title": "Let You Down",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/zp1KkQMiPt0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/zp1KkQMiPt0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/zp1KkQMiPt0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "NF",
         "tag": ""
     }
 ]
