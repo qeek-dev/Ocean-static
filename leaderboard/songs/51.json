@@ -2,6 +2,33 @@
     {
         "playlist_id": 51,
         "source": "youtube",
+        "video_id": "pfGI91CFtRg",
+        "song_title": "ハルノヒ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/pfGI91CFtRg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/pfGI91CFtRg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/pfGI91CFtRg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Aimyon",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
         "video_id": "BYReH01GqV8",
         "song_title": "Yes we are",
         "thumbnails": {
@@ -56,55 +83,28 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "u4eBY016Qtw",
-        "song_title": "桜",
+        "video_id": "n3B3BVh39uw",
+        "song_title": "Reiwa",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/u4eBY016Qtw/default.jpg",
+                "url": "https://i.ytimg.com/vi/n3B3BVh39uw/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/u4eBY016Qtw/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/n3B3BVh39uw/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/u4eBY016Qtw/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/n3B3BVh39uw/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "DA PUMP",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "XgAgz2SE4jA",
-        "song_title": "わっしょいジャパン!",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/XgAgz2SE4jA/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/XgAgz2SE4jA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/XgAgz2SE4jA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Nicholas Edwards",
+        "artist": "Golden Bomber",
         "tag": ""
     },
     {
@@ -137,21 +137,21 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "q1FeP0SEFwc",
-        "song_title": "世界が終るまでは・・・",
+        "video_id": "XgAgz2SE4jA",
+        "song_title": "わっしょいジャパン!",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/q1FeP0SEFwc/default.jpg",
+                "url": "https://i.ytimg.com/vi/XgAgz2SE4jA/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/q1FeP0SEFwc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/XgAgz2SE4jA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/q1FeP0SEFwc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/XgAgz2SE4jA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -159,6 +159,60 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "Nicholas Edwards",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "qEOGWhFU1IY",
+        "song_title": "世界が終るまでは・・・",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qEOGWhFU1IY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qEOGWhFU1IY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qEOGWhFU1IY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Nicholas Edwards",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "RiDCIqF0-6Y",
+        "song_title": "ロマンチシズム",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/RiDCIqF0-6Y/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/RiDCIqF0-6Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/RiDCIqF0-6Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Mrs. GREEN APPLE",
         "tag": ""
     },
     {
@@ -191,28 +245,28 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "LVlj59HTRDs",
-        "song_title": "YES or YES",
+        "video_id": "D2FFscA0FVc",
+        "song_title": "Flying Fish",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/LVlj59HTRDs/default.jpg",
+                "url": "https://i.ytimg.com/vi/D2FFscA0FVc/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/LVlj59HTRDs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/D2FFscA0FVc/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/LVlj59HTRDs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/D2FFscA0FVc/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "TWICE",
+        "artist": "FANTASTICS from EXILE TRIBE",
         "tag": ""
     },
     {
@@ -245,33 +299,6 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "DRbAznYqjh8",
-        "song_title": "Red Dress",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/DRbAznYqjh8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/DRbAznYqjh8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/DRbAznYqjh8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Flower",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
         "video_id": "aimBejqsgPY",
         "song_title": "Joyful Love",
         "thumbnails": {
@@ -299,21 +326,48 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "bOwFEEzFUIM",
-        "song_title": "蜜の月 -for the film-",
+        "video_id": "pxDtT4An8Us",
+        "song_title": "ハッピーエンド",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/bOwFEEzFUIM/default.jpg",
+                "url": "https://i.ytimg.com/vi/pxDtT4An8Us/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/bOwFEEzFUIM/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/pxDtT4An8Us/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/bOwFEEzFUIM/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/pxDtT4An8Us/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "上白石萌音×内澤崇仁",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "GSpdPn14lno",
+        "song_title": "蜜の月 -for the film-",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GSpdPn14lno/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GSpdPn14lno/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GSpdPn14lno/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -321,168 +375,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "SEKAI NO OWARI",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "eNdki1GziRE",
-        "song_title": "What is Love?",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/eNdki1GziRE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/eNdki1GziRE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/eNdki1GziRE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "TWICE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "MHXtKKajfUI",
-        "song_title": "ロマンチシズム",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/MHXtKKajfUI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/MHXtKKajfUI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/MHXtKKajfUI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Mrs. GREEN APPLE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "5wtNrNDwjH8",
-        "song_title": "Heart Shaker",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/5wtNrNDwjH8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/5wtNrNDwjH8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/5wtNrNDwjH8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "TWICE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "pbhtW4rLaS0",
-        "song_title": "仰げば青空",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/pbhtW4rLaS0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/pbhtW4rLaS0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/pbhtW4rLaS0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Motohiro Hata",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "gzzf9tD0De4",
-        "song_title": "Dance The Night Away",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/gzzf9tD0De4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/gzzf9tD0De4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/gzzf9tD0De4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "TWICE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "0F29jzON9QI",
-        "song_title": "LIKEY",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/0F29jzON9QI/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/0F29jzON9QI/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/0F29jzON9QI/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "TWICE",
         "tag": ""
     },
     {
@@ -515,21 +407,21 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "LOE15EKhF4A",
-        "song_title": "Colorful",
+        "video_id": "DRbAznYqjh8",
+        "song_title": "Red Dress",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/LOE15EKhF4A/default.jpg",
+                "url": "https://i.ytimg.com/vi/DRbAznYqjh8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/LOE15EKhF4A/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DRbAznYqjh8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/LOE15EKhF4A/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DRbAznYqjh8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -542,210 +434,21 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "WgB81ytLs6E",
-        "song_title": "TRIGGER",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/WgB81ytLs6E/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/WgB81ytLs6E/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/WgB81ytLs6E/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Represent chikyu",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "UBdjMLSQVq4",
-        "song_title": "Moon Jellyfish",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/UBdjMLSQVq4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/UBdjMLSQVq4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/UBdjMLSQVq4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Flower",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "DiaCFQ9UtC8",
-        "song_title": "Footsteps",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/DiaCFQ9UtC8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/DiaCFQ9UtC8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/DiaCFQ9UtC8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Hinatazaka46",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "1nReIzc5wQE",
-        "song_title": "Monokuro",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/1nReIzc5wQE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/1nReIzc5wQE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/1nReIzc5wQE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Flower",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "DB0r0EU7uXQ",
-        "song_title": "君に会うために僕は生まれてきたんだ",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/DB0r0EU7uXQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/DB0r0EU7uXQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/DB0r0EU7uXQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "EXILE SHOKICHI",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "X-QiSJqFP0g",
-        "song_title": "Totemo Fukai Green",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/X-QiSJqFP0g/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/X-QiSJqFP0g/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/X-QiSJqFP0g/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Flower",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "ZvNViwHjSa8",
-        "song_title": "ジワるDAYS",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/ZvNViwHjSa8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/ZvNViwHjSa8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/ZvNViwHjSa8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "AKB48",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "MHXtKKajfUI",
+        "video_id": "RiDCIqF0-6Y",
         "song_title": "ロマンチシズム",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/MHXtKKajfUI/default.jpg",
+                "url": "https://i.ytimg.com/vi/RiDCIqF0-6Y/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/MHXtKKajfUI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/RiDCIqF0-6Y/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/MHXtKKajfUI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/RiDCIqF0-6Y/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -758,136 +461,28 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "qBGnni6Cz94",
-        "song_title": "Water",
+        "video_id": "pbhtW4rLaS0",
+        "song_title": "仰げば青空",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/qBGnni6Cz94/default.jpg",
+                "url": "https://i.ytimg.com/vi/pbhtW4rLaS0/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/qBGnni6Cz94/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/pbhtW4rLaS0/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/qBGnni6Cz94/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/pbhtW4rLaS0/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Suchmos",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "PTkzI58g7T0",
-        "song_title": "月とアネモネ",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/PTkzI58g7T0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/PTkzI58g7T0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/PTkzI58g7T0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Mrs. GREEN APPLE",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "lvEVP7NPklU",
-        "song_title": "留学生",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/lvEVP7NPklU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/lvEVP7NPklU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/lvEVP7NPklU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "MONKEY MAJIK",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "aaxYmhSL_8U",
-        "song_title": "Stranger",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/aaxYmhSL_8U/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/aaxYmhSL_8U/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/aaxYmhSL_8U/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Flower",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "97XcO6cXH48",
-        "song_title": "F",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/97XcO6cXH48/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/97XcO6cXH48/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/97XcO6cXH48/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Flower",
+        "artist": "Motohiro Hata",
         "tag": ""
     },
     {
@@ -920,102 +515,75 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "B4lmFdkxeIE",
-        "song_title": "In the Zoo",
+        "video_id": "DiaCFQ9UtC8",
+        "song_title": "Footsteps",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/B4lmFdkxeIE/default.jpg",
+                "url": "https://i.ytimg.com/vi/DiaCFQ9UtC8/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/B4lmFdkxeIE/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DiaCFQ9UtC8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/B4lmFdkxeIE/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DiaCFQ9UtC8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Suchmos",
+        "artist": "Hinatazaka46",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "U6o4zrcae5s",
-        "song_title": "ベイビー・マイン",
+        "video_id": "PTkzI58g7T0",
+        "song_title": "月とアネモネ",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/U6o4zrcae5s/default.jpg",
+                "url": "https://i.ytimg.com/vi/PTkzI58g7T0/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/U6o4zrcae5s/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/PTkzI58g7T0/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/U6o4zrcae5s/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/PTkzI58g7T0/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Mariya Takeuchi",
+        "artist": "Mrs. GREEN APPLE",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "IGA8OJJ76hE",
-        "song_title": "Hello",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/IGA8OJJ76hE/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/IGA8OJJ76hE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/IGA8OJJ76hE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "恋ステバンド｢Lilac｣",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "Zgus6WQ6Fao",
+        "video_id": "Re-omMra-bk",
         "song_title": "青春",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/Zgus6WQ6Fao/default.jpg",
+                "url": "https://i.ytimg.com/vi/Re-omMra-bk/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/Zgus6WQ6Fao/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Re-omMra-bk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/Zgus6WQ6Fao/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Re-omMra-bk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1028,28 +596,136 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "3WlOZTy072k",
-        "song_title": "Wonderland",
+        "video_id": "N3oIUdFZPW0",
+        "song_title": "Sing!",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/3WlOZTy072k/default.jpg",
+                "url": "https://i.ytimg.com/vi/N3oIUdFZPW0/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/3WlOZTy072k/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/N3oIUdFZPW0/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/3WlOZTy072k/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/N3oIUdFZPW0/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "iri",
+        "artist": "Ikimonogakari",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "qUAxdauUYb4",
+        "song_title": "Can't Give You Up",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qUAxdauUYb4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qUAxdauUYb4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qUAxdauUYb4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "FANTASTICS from EXILE TRIBE",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "DB0r0EU7uXQ",
+        "song_title": "君に会うために僕は生まれてきたんだ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/DB0r0EU7uXQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/DB0r0EU7uXQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/DB0r0EU7uXQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "EXILE SHOKICHI",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "KLJA1pH1MD0",
+        "song_title": "Believe in Love",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/KLJA1pH1MD0/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/KLJA1pH1MD0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/KLJA1pH1MD0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "FANTASTICS from EXILE TRIBE",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "doEWto9Rdo8",
+        "song_title": "お調子者で行こう",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/doEWto9Rdo8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/doEWto9Rdo8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/doEWto9Rdo8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Ketsumeishi",
         "tag": ""
     },
     {
@@ -1082,6 +758,330 @@
     {
         "playlist_id": 51,
         "source": "youtube",
+        "video_id": "ZvNViwHjSa8",
+        "song_title": "ジワるDAYS",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ZvNViwHjSa8/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ZvNViwHjSa8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ZvNViwHjSa8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "AKB48",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "HSfUw1Rn5Ww",
+        "song_title": "ＴＲＯＵＢＬＥ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HSfUw1Rn5Ww/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HSfUw1Rn5Ww/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HSfUw1Rn5Ww/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "EXID",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "UBdjMLSQVq4",
+        "song_title": "Moon Jellyfish",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/UBdjMLSQVq4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/UBdjMLSQVq4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/UBdjMLSQVq4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Flower",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "X-QiSJqFP0g",
+        "song_title": "Totemo Fukai Green",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/X-QiSJqFP0g/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/X-QiSJqFP0g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/X-QiSJqFP0g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Flower",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "aaxYmhSL_8U",
+        "song_title": "Stranger",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/aaxYmhSL_8U/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/aaxYmhSL_8U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/aaxYmhSL_8U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Flower",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "1nReIzc5wQE",
+        "song_title": "Monokuro",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1nReIzc5wQE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1nReIzc5wQE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1nReIzc5wQE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Flower",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "qQ4OjqALNFQ",
+        "song_title": "ゴーストバスター",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/qQ4OjqALNFQ/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/qQ4OjqALNFQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/qQ4OjqALNFQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Saucy Dog",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "HUBBE3aJJ1w",
+        "song_title": "ＨＯＴ　ＰＩＮＫ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/HUBBE3aJJ1w/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/HUBBE3aJJ1w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/HUBBE3aJJ1w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "EXID",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "JEDRP8Wb-JI",
+        "song_title": "Ｔｈｅ　Ｂｅａｕｔｙ　ｉｓ　Ｇｕｉｌｔｙ！？",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/JEDRP8Wb-JI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/JEDRP8Wb-JI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/JEDRP8Wb-JI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "EXID",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "lnH8QiCD5jI",
+        "song_title": "FLOWER",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/lnH8QiCD5jI/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/lnH8QiCD5jI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/lnH8QiCD5jI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "GFRIEND",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "97XcO6cXH48",
+        "song_title": "F",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/97XcO6cXH48/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/97XcO6cXH48/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/97XcO6cXH48/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Flower",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "wO4Caj4xsEM",
+        "song_title": "Ｅｖｅｒｙ　Ｎｉｇｈｔ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/wO4Caj4xsEM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/wO4Caj4xsEM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/wO4Caj4xsEM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "EXID",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
         "video_id": "NszvNJe0a84",
         "song_title": "ドラマ",
         "thumbnails": {
@@ -1104,222 +1104,6 @@
         "song_lang": "",
         "vocal": "U",
         "artist": "C,K",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "-ppE9fZRNU4",
-        "song_title": "Taiyo",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/-ppE9fZRNU4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/-ppE9fZRNU4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/-ppE9fZRNU4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Ikimonogakari",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "yEEa_09NRdQ",
-        "song_title": "# Enjoy Your Life",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/yEEa_09NRdQ/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/yEEa_09NRdQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/yEEa_09NRdQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "ブルゾンちえみ",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "cfngjES2kV4",
-        "song_title": "スパイラル",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/cfngjES2kV4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/cfngjES2kV4/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/cfngjES2kV4/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "STRAIGHTENER",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "jLWA5rML6XU",
-        "song_title": "Bound",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/jLWA5rML6XU/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/jLWA5rML6XU/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/jLWA5rML6XU/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Suchmos",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "fCGjaaAYJT8",
-        "song_title": "まばたき",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/fCGjaaAYJT8/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/fCGjaaAYJT8/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/fCGjaaAYJT8/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "SCANDAL",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "UbzL0T7dKEM",
-        "song_title": "MICHI with 九州男",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/UbzL0T7dKEM/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/UbzL0T7dKEM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/UbzL0T7dKEM/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "C,K",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "A9HIVNK6X8o",
-        "song_title": "Tomoshibi",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/A9HIVNK6X8o/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/A9HIVNK6X8o/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/A9HIVNK6X8o/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "FLOWER FLOWER",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "KUSgM69TAIo",
-        "song_title": "好き",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/KUSgM69TAIo/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/KUSgM69TAIo/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/KUSgM69TAIo/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Sonar Pocket",
         "tag": ""
     },
     {
@@ -1352,102 +1136,210 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "KZOnzUmrtCI",
-        "song_title": "空気",
+        "video_id": "gKOH79Qb_c4",
+        "song_title": "SUPER CANDY BOY",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/KZOnzUmrtCI/default.jpg",
+                "url": "https://i.ytimg.com/vi/gKOH79Qb_c4/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/KZOnzUmrtCI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/gKOH79Qb_c4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/KZOnzUmrtCI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/gKOH79Qb_c4/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "C,K",
+        "artist": "RYUCHELL",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "I-D4qjbOweU",
-        "song_title": "C&K X",
+        "video_id": "mMjcYOgmbPo",
+        "song_title": "粉雪",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/I-D4qjbOweU/default.jpg",
+                "url": "https://i.ytimg.com/vi/mMjcYOgmbPo/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/I-D4qjbOweU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/mMjcYOgmbPo/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/I-D4qjbOweU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/mMjcYOgmbPo/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "C,K",
+        "artist": "Ryota Fujimaki",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "KZOnzUmrtCI",
-        "song_title": "空気",
+        "video_id": "Fy0VYxuedys",
+        "song_title": "REIWA",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/KZOnzUmrtCI/default.jpg",
+                "url": "https://i.ytimg.com/vi/Fy0VYxuedys/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/KZOnzUmrtCI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Fy0VYxuedys/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/KZOnzUmrtCI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Fy0VYxuedys/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "C,K",
+        "artist": "Represent chikyu",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "guxbuBJV2LU",
-        "song_title": "Roma",
+        "video_id": "LOE15EKhF4A",
+        "song_title": "Colorful",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/guxbuBJV2LU/default.jpg",
+                "url": "https://i.ytimg.com/vi/LOE15EKhF4A/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/guxbuBJV2LU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/LOE15EKhF4A/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/guxbuBJV2LU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/LOE15EKhF4A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Flower",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "ow3IRVPJvuA",
+        "song_title": "U.S.A. Eurobeat Remix",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ow3IRVPJvuA/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ow3IRVPJvuA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ow3IRVPJvuA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "DA PUMP",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "ry3Tupx4BL4",
+        "song_title": "パレード",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/ry3Tupx4BL4/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/ry3Tupx4BL4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/ry3Tupx4BL4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "ヨルシカ",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "vCsXZoWKqMk",
+        "song_title": "Ｔｏｏ　Ｇｏｏｄ　ｔｏ　Ｍｅ",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/vCsXZoWKqMk/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/vCsXZoWKqMk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/vCsXZoWKqMk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "EXID",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "B4lmFdkxeIE",
+        "song_title": "In the Zoo",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/B4lmFdkxeIE/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/B4lmFdkxeIE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/B4lmFdkxeIE/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1460,318 +1352,264 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "EItnl7wcQZk",
-        "song_title": "恋のエスパー",
+        "video_id": "q9oVcCKntOo",
+        "song_title": "Shoot Out",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/EItnl7wcQZk/default.jpg",
+                "url": "https://i.ytimg.com/vi/q9oVcCKntOo/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/EItnl7wcQZk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/q9oVcCKntOo/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/EItnl7wcQZk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/q9oVcCKntOo/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Silent Siren",
+        "artist": "MONSTA X",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "cHfbJeDDFq4",
-        "song_title": "Sing!",
+        "video_id": "gaXUI64K73Q",
+        "song_title": "りんご麗し 実りの季節",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/cHfbJeDDFq4/default.jpg",
+                "url": "https://i.ytimg.com/vi/gaXUI64K73Q/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/cHfbJeDDFq4/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/gaXUI64K73Q/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/cHfbJeDDFq4/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/gaXUI64K73Q/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Ikimonogakari",
+        "artist": "Watanabe Miyuki",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "oM19csvcr4c",
-        "song_title": "YOU&ME",
+        "video_id": "G85Sjeebn7g",
+        "song_title": "夕暮れセンチメンタル",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/oM19csvcr4c/default.jpg",
+                "url": "https://i.ytimg.com/vi/G85Sjeebn7g/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/oM19csvcr4c/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/G85Sjeebn7g/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/oM19csvcr4c/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/G85Sjeebn7g/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "FTISLAND",
+        "artist": "Watanabe Miyuki",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "WjckcAkLV-4",
-        "song_title": "サヨナラの季節",
+        "video_id": "IGA8OJJ76hE",
+        "song_title": "Hello",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/WjckcAkLV-4/default.jpg",
+                "url": "https://i.ytimg.com/vi/IGA8OJJ76hE/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/WjckcAkLV-4/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IGA8OJJ76hE/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/WjckcAkLV-4/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IGA8OJJ76hE/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "lol",
+        "artist": "恋ステバンド｢Lilac｣",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "ESGu10M49Zo",
-        "song_title": "クローバーとダイヤモンド",
+        "video_id": "zNCGkPR7NU4",
+        "song_title": "ＵＰ＆ＤＯＷＮ",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/ESGu10M49Zo/default.jpg",
+                "url": "https://i.ytimg.com/vi/zNCGkPR7NU4/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/ESGu10M49Zo/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/zNCGkPR7NU4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/ESGu10M49Zo/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/zNCGkPR7NU4/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "C,K",
+        "artist": "EXID",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "lyRuuuZmQZo",
-        "song_title": "JIMOTO with カサリンチュ",
+        "video_id": "Ba57vXATp-s",
+        "song_title": "Paradise Has No Border -SKY-HI Remix-",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/lyRuuuZmQZo/default.jpg",
+                "url": "https://i.ytimg.com/vi/Ba57vXATp-s/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/lyRuuuZmQZo/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Ba57vXATp-s/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/lyRuuuZmQZo/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Ba57vXATp-s/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "C,K",
+        "artist": "Various Artists",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "_86zxJbRT_8",
-        "song_title": "GORIN with RADIO FISH",
+        "video_id": "rTtG9eSidT0",
+        "song_title": "Kill Me feat. 般若",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/_86zxJbRT_8/default.jpg",
+                "url": "https://i.ytimg.com/vi/rTtG9eSidT0/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/_86zxJbRT_8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/rTtG9eSidT0/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/_86zxJbRT_8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/rTtG9eSidT0/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "C,K",
+        "artist": "ANARCHY",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "tTJxOamTkQg",
-        "song_title": "MAD QUALIA",
+        "video_id": "BXCM3jgBhHk",
+        "song_title": "Unlimited",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/tTJxOamTkQg/default.jpg",
+                "url": "https://i.ytimg.com/vi/BXCM3jgBhHk/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/tTJxOamTkQg/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BXCM3jgBhHk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/tTJxOamTkQg/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BXCM3jgBhHk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "Hyde",
+        "artist": "SF9",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "HtyRr0jRo6Q",
-        "song_title": "MATSURI",
+        "video_id": "pOAVMF0NSFo",
+        "song_title": "真っ赤な情熱",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/HtyRr0jRo6Q/default.jpg",
+                "url": "https://i.ytimg.com/vi/pOAVMF0NSFo/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/HtyRr0jRo6Q/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/pOAVMF0NSFo/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/HtyRr0jRo6Q/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/pOAVMF0NSFo/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "C,K",
+        "artist": "Ketsumeishi",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "t-qVp94jB1o",
-        "song_title": "マスターピース",
+        "video_id": "qBGnni6Cz94",
+        "song_title": "Water",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/t-qVp94jB1o/default.jpg",
+                "url": "https://i.ytimg.com/vi/qBGnni6Cz94/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/t-qVp94jB1o/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/qBGnni6Cz94/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/t-qVp94jB1o/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "SCANDAL",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "tTJxOamTkQg",
-        "song_title": "MAD QUALIA",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/tTJxOamTkQg/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/tTJxOamTkQg/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/tTJxOamTkQg/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-            }
-        },
-        "song_lang": "",
-        "vocal": "U",
-        "artist": "Hyde",
-        "tag": ""
-    },
-    {
-        "playlist_id": 51,
-        "source": "youtube",
-        "video_id": "g6LeVGLyEHM",
-        "song_title": "Bubble",
-        "thumbnails": {
-            "default": {
-                "url": "https://i.ytimg.com/vi/g6LeVGLyEHM/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "medium": {
-                "url": "https://i.ytimg.com/vi/g6LeVGLyEHM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            "high": {
-                "url": "https://i.ytimg.com/vi/g6LeVGLyEHM/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/qBGnni6Cz94/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
@@ -1784,55 +1622,244 @@
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "1qHlbuwMNqc",
-        "song_title": "Luv Luv feat. Junoflo",
+        "video_id": "lMkyY4GPPJE",
+        "song_title": "Ｗｉｔｈｏｕｔ　Ｕ",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/1qHlbuwMNqc/default.jpg",
+                "url": "https://i.ytimg.com/vi/lMkyY4GPPJE/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/1qHlbuwMNqc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/lMkyY4GPPJE/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/1qHlbuwMNqc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/lMkyY4GPPJE/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "RIRI",
+        "artist": "EXID",
         "tag": ""
     },
     {
         "playlist_id": 51,
         "source": "youtube",
-        "video_id": "BCLKLNhH3bo",
-        "song_title": "Remember",
+        "video_id": "zCQ0Q2VUgJ4",
+        "song_title": "Mendoza",
         "thumbnails": {
             "default": {
-                "url": "https://i.ytimg.com/vi/BCLKLNhH3bo/default.jpg",
+                "url": "https://i.ytimg.com/vi/zCQ0Q2VUgJ4/default.jpg",
                 "width": 120,
                 "height": 90
             },
             "medium": {
-                "url": "https://i.ytimg.com/vi/BCLKLNhH3bo/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/zCQ0Q2VUgJ4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
             },
             "high": {
-                "url": "https://i.ytimg.com/vi/BCLKLNhH3bo/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/zCQ0Q2VUgJ4/hqdefault.jpg",
                 "width": 480,
                 "height": 360
             }
         },
         "song_lang": "",
         "vocal": "U",
-        "artist": "FTISLAND",
+        "artist": "Paskal",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "k0NCT9NV2tU",
+        "song_title": "愛があるかい？",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/k0NCT9NV2tU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/k0NCT9NV2tU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/k0NCT9NV2tU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Various Artists",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "jLWA5rML6XU",
+        "song_title": "Bound",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/jLWA5rML6XU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/jLWA5rML6XU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/jLWA5rML6XU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Suchmos",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "7nD2-rJcb9E",
+        "song_title": "Planted in Problem",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/7nD2-rJcb9E/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/7nD2-rJcb9E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/7nD2-rJcb9E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kvi Baba",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "GzvzLQiFcFY",
+        "song_title": "A Bright",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/GzvzLQiFcFY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/GzvzLQiFcFY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/GzvzLQiFcFY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Kvi Baba",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "LmcciZ50nPs",
+        "song_title": "Love Dramatic feat. Rikka Ihara",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/LmcciZ50nPs/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/LmcciZ50nPs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/LmcciZ50nPs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Masayuki Suzuki",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "1-uDJdUWdIU",
+        "song_title": "SEP",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/1-uDJdUWdIU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/1-uDJdUWdIU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/1-uDJdUWdIU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "Paskal",
+        "tag": ""
+    },
+    {
+        "playlist_id": 51,
+        "source": "youtube",
+        "video_id": "_gBi-h1dNto",
+        "song_title": "ソウルセラー",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/_gBi-h1dNto/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/_gBi-h1dNto/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/_gBi-h1dNto/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            }
+        },
+        "song_lang": "",
+        "vocal": "U",
+        "artist": "長澤知之",
         "tag": ""
     }
 ]
