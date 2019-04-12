@@ -24,6 +24,14 @@ OceanKTV v2 requires:
 - **Request songs by folder is not supported.**
 - **Not compatiable with current OceanV1 mobile apps, OceanV2 mobile app is coming soon.**
 
+### v2.2.0
+---
+##### Server
+- `Feature` [Spec [20665](http://spec.qnap.com.tw/issues/20665)] OceanKTV 支援Code Signing & Anti-tampering機制
+
+##### Web
+- `Feature` [Spec [20826](http://spec.qnap.com.tw/issues/20826)]「問題回報」內導引使用者至 Helpdesk 回報問題
+
 
 ### v2.1.4
 ---
