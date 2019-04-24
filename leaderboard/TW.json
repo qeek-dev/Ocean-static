@@ -1,25 +1,6 @@
 [
     {
         "id": 1,
-        "fullname": "OceanKTV 排行榜",
-        "region": "tw",
-        "thumbnails": {
-            "default": {
-                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
-                "icon": "ic_taiwaness"
-            }
-        },
-        "count": 50,
-        "updated_at": "2019-04-18 01:02:00",
-        "fullname_localize": {
-            "default": "OceanKTV 排行榜",
-            "cht": "OceanKTV 排行榜",
-            "eng": "OceanKTV 排行榜",
-            "chs": "OceanKTV 排行榜"
-        }
-    },
-    {
-        "id": 9,
         "fullname": "綜合新歌即時榜",
         "region": "tw",
         "thumbnails": {
@@ -28,8 +9,8 @@
                 "icon": "ic_chart"
             }
         },
-        "count": 98,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 99,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "綜合新歌即時榜",
             "cht": "綜合新歌即時榜",
@@ -38,17 +19,17 @@
         }
     },
     {
-        "id": 10,
+        "id": 2,
         "fullname": "電子單曲週榜",
         "region": "tw",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64236213v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64267568v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 100,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 99,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "電子單曲週榜",
             "cht": "電子單曲週榜",
@@ -57,17 +38,17 @@
         }
     },
     {
-        "id": 11,
+        "id": 3,
         "fullname": "嘻哈單曲週榜",
         "region": "tw",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64236206v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64267561v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 100,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "嘻哈單曲週榜",
             "cht": "嘻哈單曲週榜",
@@ -76,17 +57,17 @@
         }
     },
     {
-        "id": 12,
+        "id": 4,
         "fullname": "R＆B單曲週榜",
         "region": "tw",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64236227v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64267582v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 98,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 97,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "R＆B單曲週榜",
             "cht": "R＆B單曲週榜",
@@ -95,17 +76,17 @@
         }
     },
     {
-        "id": 13,
+        "id": 5,
         "fullname": "爵士單曲週榜",
         "region": "tw",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64236157v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64267512v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 86,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 70,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "爵士單曲週榜",
             "cht": "爵士單曲週榜",
@@ -114,17 +95,17 @@
         }
     },
     {
-        "id": 14,
+        "id": 6,
         "fullname": "搖滾單曲週榜",
         "region": "tw",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64236150v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64267505v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 99,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 100,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "搖滾單曲週榜",
             "cht": "搖滾單曲週榜",
@@ -133,17 +114,17 @@
         }
     },
     {
-        "id": 15,
+        "id": 7,
         "fullname": "獨立/另類單曲週榜",
         "region": "tw",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64236220v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64267575v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 100,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "獨立/另類單曲週榜",
             "cht": "獨立/另類單曲週榜",
@@ -152,17 +133,17 @@
         }
     },
     {
-        "id": 16,
+        "id": 8,
         "fullname": "原聲帶單曲週榜",
         "region": "tw",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64236241v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64267596v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 99,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 98,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "原聲帶單曲週榜",
             "cht": "原聲帶單曲週榜",
@@ -171,17 +152,17 @@
         }
     },
     {
-        "id": 17,
+        "id": 9,
         "fullname": "靈魂樂單曲週榜",
         "region": "tw",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64236234v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64267589v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 90,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 87,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "靈魂樂單曲週榜",
             "cht": "靈魂樂單曲週榜",
@@ -190,17 +171,17 @@
         }
     },
     {
-        "id": 18,
+        "id": 10,
         "fullname": "鄉村單曲週榜",
         "region": "tw",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64236269v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64267624v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 100,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "鄉村單曲週榜",
             "cht": "鄉村單曲週榜",
@@ -209,17 +190,17 @@
         }
     },
     {
-        "id": 19,
+        "id": 11,
         "fullname": "雷鬼單曲週榜",
         "region": "tw",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64236255v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64267610v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 55,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "雷鬼單曲週榜",
             "cht": "雷鬼單曲週榜",
@@ -228,17 +209,17 @@
         }
     },
     {
-        "id": 20,
+        "id": 12,
         "fullname": "有聲書 / 相聲單曲週榜",
         "region": "tw",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64236283v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64267638v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 31,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 34,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "有聲書 / 相聲單曲週榜",
             "cht": "有聲書 / 相聲單曲週榜",
@@ -247,7 +228,7 @@
         }
     },
     {
-        "id": 21,
+        "id": 13,
         "fullname": "英美金曲榜",
         "region": "tw",
         "thumbnails": {
@@ -256,8 +237,8 @@
                 "icon": "ic_chart"
             }
         },
-        "count": 158,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 160,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "英美金曲榜",
             "cht": "英美金曲榜",
@@ -266,7 +247,7 @@
         }
     },
     {
-        "id": 22,
+        "id": 14,
         "fullname": "錢櫃國語點播榜",
         "region": "tw",
         "thumbnails": {
@@ -275,8 +256,8 @@
                 "icon": "ic_chart"
             }
         },
-        "count": 91,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 90,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "錢櫃國語點播榜",
             "cht": "錢櫃國語點播榜",
@@ -285,7 +266,7 @@
         }
     },
     {
-        "id": 23,
+        "id": 15,
         "fullname": "錢櫃台語點播榜",
         "region": "tw",
         "thumbnails": {
@@ -294,8 +275,8 @@
                 "icon": "ic_chart"
             }
         },
-        "count": 80,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 82,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "錢櫃台語點播榜",
             "cht": "錢櫃台語點播榜",
@@ -304,7 +285,7 @@
         }
     },
     {
-        "id": 24,
+        "id": 16,
         "fullname": "錢櫃國語新歌榜",
         "region": "tw",
         "thumbnails": {
@@ -313,8 +294,8 @@
                 "icon": "ic_chart"
             }
         },
-        "count": 49,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 65,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "錢櫃國語新歌榜",
             "cht": "錢櫃國語新歌榜",
@@ -323,7 +304,7 @@
         }
     },
     {
-        "id": 25,
+        "id": 17,
         "fullname": "錢櫃台語新歌榜",
         "region": "tw",
         "thumbnails": {
@@ -332,8 +313,8 @@
                 "icon": "ic_chart"
             }
         },
-        "count": 18,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 19,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "錢櫃台語新歌榜",
             "cht": "錢櫃台語新歌榜",
