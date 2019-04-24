@@ -1,35 +1,16 @@
 [
     {
-        "id": 8,
-        "fullname": "OceanKTV 排行榜",
-        "region": "cn",
-        "thumbnails": {
-            "default": {
-                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
-                "icon": "ic_chinese_songs"
-            }
-        },
-        "count": 47,
-        "updated_at": "2019-04-18 01:02:00",
-        "fullname_localize": {
-            "default": "OceanKTV 排行榜",
-            "cht": "OceanKTV 排行榜",
-            "eng": "OceanKTV 排行榜",
-            "chs": "OceanKTV 排行榜"
-        }
-    },
-    {
-        "id": 64,
+        "id": 56,
         "fullname": "巅峰榜·流行指数",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002zIokl2hVVpv.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004e3p5l2Qi1FD.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 50,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 49,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "巅峰榜·流行指数",
             "cht": "巅峰榜·流行指数",
@@ -38,17 +19,17 @@
         }
     },
     {
-        "id": 65,
+        "id": 57,
         "fullname": "巅峰榜·热歌",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002suIku3wjAc9.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002iLlfP4OadlO.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 50,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "巅峰榜·热歌",
             "cht": "巅峰榜·热歌",
@@ -57,17 +38,17 @@
         }
     },
     {
-        "id": 66,
+        "id": 58,
         "fullname": "巅峰榜·新歌",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000014NA5T1KgcO7.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004ZWOvy1jnKxI.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 47,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 46,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "巅峰榜·新歌",
             "cht": "巅峰榜·新歌",
@@ -76,17 +57,17 @@
         }
     },
     {
-        "id": 67,
+        "id": 59,
         "fullname": "说唱榜",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001MD2H21zmX7j.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004PaYCi3Ujyff.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 46,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 45,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "说唱榜",
             "cht": "说唱榜",
@@ -95,17 +76,17 @@
         }
     },
     {
-        "id": 68,
+        "id": 60,
         "fullname": "电音榜",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002VFF6i2C5vNN.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001X0SkY4UN1rc.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 49,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 48,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "电音榜",
             "cht": "电音榜",
@@ -114,17 +95,17 @@
         }
     },
     {
-        "id": 69,
+        "id": 61,
         "fullname": "巅峰榜·网络歌曲",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002Rk6ls143GKQ.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002wUDY81gaPB4.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 45,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "巅峰榜·网络歌曲",
             "cht": "巅峰榜·网络歌曲",
@@ -133,17 +114,17 @@
         }
     },
     {
-        "id": 70,
+        "id": 62,
         "fullname": "巅峰榜·内地",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000006MAS72s1Czo.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000021WwT928UGjr.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 48,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 47,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "巅峰榜·内地",
             "cht": "巅峰榜·内地",
@@ -152,36 +133,17 @@
         }
     },
     {
-        "id": 71,
-        "fullname": "巅峰榜·港台",
-        "region": "cn",
-        "thumbnails": {
-            "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002xxNLD2YCQBw.jpg",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 50,
-        "updated_at": "2019-04-18 01:02:00",
-        "fullname_localize": {
-            "default": "巅峰榜·港台",
-            "cht": "巅峰榜·港台",
-            "eng": "巅峰榜·港台",
-            "chs": "巅峰榜·港台"
-        }
-    },
-    {
-        "id": 72,
+        "id": 63,
         "fullname": "巅峰榜·欧美",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001YeYv91mDLPa.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004QhxEs3PpK6A.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 50,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 49,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "巅峰榜·欧美",
             "cht": "巅峰榜·欧美",
@@ -190,36 +152,36 @@
         }
     },
     {
-        "id": 73,
-        "fullname": "香港本地榜",
+        "id": 64,
+        "fullname": "香港地区榜",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000uWBfm46b0gk.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000003GrHrJ1HJhPm.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 45,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 49,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
-            "default": "香港本地榜",
-            "cht": "香港本地榜",
-            "eng": "香港本地榜",
-            "chs": "香港本地榜"
+            "default": "香港地区榜",
+            "cht": "香港地区榜",
+            "eng": "香港地区榜",
+            "chs": "香港地区榜"
         }
     },
     {
-        "id": 74,
+        "id": 65,
         "fullname": "巅峰榜·韩国",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000004YJzo4KpnYM.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002hroCn3GL97v.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 46,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "巅峰榜·韩国",
             "cht": "巅峰榜·韩国",
@@ -228,17 +190,17 @@
         }
     },
     {
-        "id": 75,
+        "id": 66,
         "fullname": "抖音排行榜",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M0000020fZYf1rF3Nf.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004Eea0e0gY9C5.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 50,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "抖音排行榜",
             "cht": "抖音排行榜",
@@ -247,17 +209,17 @@
         }
     },
     {
-        "id": 76,
+        "id": 67,
         "fullname": "巅峰榜·影视金曲",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004U7StQ3AJoth.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000XdYVP0uJLnP.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 49,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 48,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "巅峰榜·影视金曲",
             "cht": "巅峰榜·影视金曲",
@@ -266,17 +228,17 @@
         }
     },
     {
-        "id": 77,
+        "id": 68,
         "fullname": "巅峰榜·日本",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M00000262xva1NTFE4.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001iyRV22n87Te.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 35,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 39,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "巅峰榜·日本",
             "cht": "巅峰榜·日本",
@@ -285,17 +247,17 @@
         }
     },
     {
-        "id": 79,
+        "id": 70,
         "fullname": "巅峰榜·腾讯音乐人原创榜",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000004P5jAL3wXFF2.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001nu1MK3VAGV9.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 36,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 28,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "巅峰榜·腾讯音乐人原创榜",
             "cht": "巅峰榜·腾讯音乐人原创榜",
@@ -304,22 +266,41 @@
         }
     },
     {
-        "id": 80,
+        "id": 71,
         "fullname": "巅峰榜·K歌金曲",
         "region": "cn",
         "thumbnails": {
             "default": {
-                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000000iNltF4gImMJ.jpg",
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000001hQE4z2RqrIa.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 22,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 25,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "巅峰榜·K歌金曲",
             "cht": "巅峰榜·K歌金曲",
             "eng": "巅峰榜·K歌金曲",
             "chs": "巅峰榜·K歌金曲"
+        }
+    },
+    {
+        "id": 72,
+        "fullname": "台湾地区榜",
+        "region": "cn",
+        "thumbnails": {
+            "default": {
+                "url": "http://y.gtimg.cn/music/photo_new/T003R300x300M000002dqRnc2AY71x.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 44,
+        "updated_at": "2019-04-25 01:01:33",
+        "fullname_localize": {
+            "default": "台湾地区榜",
+            "cht": "台湾地区榜",
+            "eng": "台湾地区榜",
+            "chs": "台湾地区榜"
         }
     }
 ]

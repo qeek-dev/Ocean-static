@@ -1,35 +1,16 @@
 [
     {
-        "id": 5,
-        "fullname": "OceanKTV Hot Songs",
-        "region": "jp",
-        "thumbnails": {
-            "default": {
-                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
-                "icon": "ic_japanese"
-            }
-        },
-        "count": 44,
-        "updated_at": "2019-04-18 01:02:00",
-        "fullname_localize": {
-            "default": "OceanKTV Hot Songs",
-            "cht": "OceanKTV Hot Songs",
-            "eng": "OceanKTV Hot Songs",
-            "chs": "OceanKTV Hot Songs"
-        }
-    },
-    {
-        "id": 47,
+        "id": 39,
         "fullname": "邦楽 Song Daily",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64260112v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64291278v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 85,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "邦楽 Song Daily",
             "cht": "邦楽 Song Daily",
@@ -38,17 +19,17 @@
         }
     },
     {
-        "id": 48,
+        "id": 40,
         "fullname": "洋楽 Song Daily",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64260119v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64291285v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 100,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "洋楽 Song Daily",
             "cht": "洋楽 Song Daily",
@@ -57,17 +38,17 @@
         }
     },
     {
-        "id": 49,
+        "id": 41,
         "fullname": "アジア Song Daily",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64260133v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64291299v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 48,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 57,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "アジア Song Daily",
             "cht": "アジア Song Daily",
@@ -76,17 +57,17 @@
         }
     },
     {
-        "id": 50,
+        "id": 42,
         "fullname": "総合 新曲 Daily",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64260208v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64291373v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 84,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 82,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "総合 新曲 Daily",
             "cht": "総合 新曲 Daily",
@@ -95,17 +76,17 @@
         }
     },
     {
-        "id": 51,
+        "id": 43,
         "fullname": "邦楽 新曲 Daily",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64260320v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64291499v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 67,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 62,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "邦楽 新曲 Daily",
             "cht": "邦楽 新曲 Daily",
@@ -114,17 +95,17 @@
         }
     },
     {
-        "id": 52,
+        "id": 44,
         "fullname": "洋楽 新曲 Daily",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64260327v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64291506v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 88,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 81,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "洋楽 新曲 Daily",
             "cht": "洋楽 新曲 Daily",
@@ -133,17 +114,17 @@
         }
     },
     {
-        "id": 53,
+        "id": 45,
         "fullname": "アジア 新曲 Daily",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64260341v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64291520v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 97,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 87,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "アジア 新曲 Daily",
             "cht": "アジア 新曲 Daily",
@@ -152,17 +133,17 @@
         }
     },
     {
-        "id": 54,
+        "id": 46,
         "fullname": "アニメ Song Weekly",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64239460v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64271007v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 87,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 91,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "アニメ Song Weekly",
             "cht": "アニメ Song Weekly",
@@ -171,17 +152,17 @@
         }
     },
     {
-        "id": 55,
+        "id": 47,
         "fullname": "Soundtrack Song Weekly",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64239376v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64270923v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 26,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 29,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "Soundtrack Song Weekly",
             "cht": "Soundtrack Song Weekly",
@@ -190,17 +171,17 @@
         }
     },
     {
-        "id": 56,
+        "id": 48,
         "fullname": "Jazz Song Weekly",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64239292v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64270839v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 43,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 20,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "Jazz Song Weekly",
             "cht": "Jazz Song Weekly",
@@ -209,17 +190,17 @@
         }
     },
     {
-        "id": 57,
+        "id": 49,
         "fullname": "Electronic / Dance Song Weekly",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64239348v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64270895v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 58,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "Electronic / Dance Song Weekly",
             "cht": "Electronic / Dance Song Weekly",
@@ -228,17 +209,17 @@
         }
     },
     {
-        "id": 58,
+        "id": 50,
         "fullname": "R&B / Soul Song Weekly",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64239446v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64270993v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 91,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 97,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "R&B / Soul Song Weekly",
             "cht": "R&B / Soul Song Weekly",
@@ -247,17 +228,17 @@
         }
     },
     {
-        "id": 59,
+        "id": 51,
         "fullname": "Hip-Hop / Rap Song Weekly",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64239341v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64270888v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 89,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 88,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "Hip-Hop / Rap Song Weekly",
             "cht": "Hip-Hop / Rap Song Weekly",
@@ -266,17 +247,17 @@
         }
     },
     {
-        "id": 60,
+        "id": 52,
         "fullname": "Rock Song Weekly",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64239502v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64271049v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 73,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 76,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "Rock Song Weekly",
             "cht": "Rock Song Weekly",
@@ -285,17 +266,17 @@
         }
     },
     {
-        "id": 61,
+        "id": 53,
         "fullname": "Classical Song Weekly",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64239397v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64270944v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 19,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 21,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "Classical Song Weekly",
             "cht": "Classical Song Weekly",
@@ -304,17 +285,17 @@
         }
     },
     {
-        "id": 62,
+        "id": 54,
         "fullname": "Reggae Song Weekly",
         "region": "jp",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64239390v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64270937v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 92,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 94,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "Reggae Song Weekly",
             "cht": "Reggae Song Weekly",
@@ -323,7 +304,7 @@
         }
     },
     {
-        "id": 63,
+        "id": 55,
         "fullname": "UK/USヒットランキング",
         "region": "jp",
         "thumbnails": {
@@ -332,8 +313,8 @@
                 "icon": "ic_chart"
             }
         },
-        "count": 158,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 160,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "UK/USヒットランキング",
             "cht": "UK/USヒットランキング",
