@@ -1,35 +1,16 @@
 [
     {
-        "id": 3,
-        "fullname": "OceanKTV Hot Songs",
-        "region": "sg",
-        "thumbnails": {
-            "default": {
-                "url": "https://d3rnbxvnd0hlox.cloudfront.net/images/channels/32/icons/large.png",
-                "icon": "ic_chart"
-            }
-        },
-        "count": 46,
-        "updated_at": "2019-04-18 01:02:00",
-        "fullname_localize": {
-            "default": "OceanKTV Hot Songs",
-            "cht": "OceanKTV Hot Songs",
-            "eng": "OceanKTV Hot Songs",
-            "chs": "OceanKTV Hot Songs"
-        }
-    },
-    {
-        "id": 38,
+        "id": 30,
         "fullname": "Rock Singles Weekly Chart",
         "region": "sg",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64237764v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64269402v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 99,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 100,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "Rock Singles Weekly Chart",
             "cht": "Rock Singles Weekly Chart",
@@ -38,17 +19,17 @@
         }
     },
     {
-        "id": 39,
+        "id": 31,
         "fullname": "Electronic / Dance Singles Weekly Chart",
         "region": "sg",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64237827v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64269465v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
-        "count": 82,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 88,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "Electronic / Dance Singles Weekly Chart",
             "cht": "Electronic / Dance Singles Weekly Chart",
@@ -57,17 +38,17 @@
         }
     },
     {
-        "id": 40,
+        "id": 32,
         "fullname": "Hip-Hop / Rap Singles Weekly Chart",
         "region": "sg",
         "thumbnails": {
             "default": {
-                "url": "https://i.kfs.io/playlist/global/64237820v1/cropresize/300x300.jpg",
+                "url": "https://i.kfs.io/playlist/global/64269458v1/cropresize/300x300.jpg",
                 "icon": "ic_chart"
             }
         },
         "count": 98,
-        "updated_at": "2019-04-18 01:02:00",
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "Hip-Hop / Rap Singles Weekly Chart",
             "cht": "Hip-Hop / Rap Singles Weekly Chart",
@@ -76,7 +57,7 @@
         }
     },
     {
-        "id": 41,
+        "id": 33,
         "fullname": "UK/US Chart",
         "region": "sg",
         "thumbnails": {
@@ -85,8 +66,8 @@
                 "icon": "ic_chart"
             }
         },
-        "count": 158,
-        "updated_at": "2019-04-18 01:02:00",
+        "count": 160,
+        "updated_at": "2019-04-25 01:01:33",
         "fullname_localize": {
             "default": "UK/US Chart",
             "cht": "UK/US Chart",
