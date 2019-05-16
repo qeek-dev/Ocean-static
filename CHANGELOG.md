@@ -28,6 +28,7 @@ OceanKTV v2 requires:
 ---
 ##### Server
 - `Feature` [Spec [20665](http://spec.qnap.com.tw/issues/20665)] OceanKTV 支援Code Signing & Anti-tampering機制
+- `Fix` [Bug [222604](https://bugzilla.qnap.com.tw/show_bug.cgi?id=222604)] 修正 OceanKTV TVPlayer 安裝失敗問題
 
 ##### Web
 - `Feature` [Spec [20826](http://spec.qnap.com.tw/issues/20826)]「問題回報」內導引使用者至 Helpdesk 回報問題
