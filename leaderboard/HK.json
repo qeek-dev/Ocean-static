@@ -1,0 +1,230 @@
+[
+    {
+        "id": 18,
+        "fullname": "綜合新歌即時榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/59599605v1260/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 96,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "綜合新歌即時榜",
+            "cht": "綜合新歌即時榜",
+            "eng": "綜合新歌即時榜",
+            "chs": "綜合新歌即時榜"
+        }
+    },
+    {
+        "id": 19,
+        "fullname": "原聲大碟單曲週榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64299609v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 98,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "原聲大碟單曲週榜",
+            "cht": "原聲大碟單曲週榜",
+            "eng": "原聲大碟單曲週榜",
+            "chs": "原聲大碟單曲週榜"
+        }
+    },
+    {
+        "id": 20,
+        "fullname": "搖滾單曲週榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64299518v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 100,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "搖滾單曲週榜",
+            "cht": "搖滾單曲週榜",
+            "eng": "搖滾單曲週榜",
+            "chs": "搖滾單曲週榜"
+        }
+    },
+    {
+        "id": 21,
+        "fullname": "Hip-Hop / Rap單曲週榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64299574v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 98,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "Hip-Hop / Rap單曲週榜",
+            "cht": "Hip-Hop / Rap單曲週榜",
+            "eng": "Hip-Hop / Rap單曲週榜",
+            "chs": "Hip-Hop / Rap單曲週榜"
+        }
+    },
+    {
+        "id": 22,
+        "fullname": "電子單曲週榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64299581v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 100,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "電子單曲週榜",
+            "cht": "電子單曲週榜",
+            "eng": "電子單曲週榜",
+            "chs": "電子單曲週榜"
+        }
+    },
+    {
+        "id": 23,
+        "fullname": "爵士單曲週榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64299525v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 63,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "爵士單曲週榜",
+            "cht": "爵士單曲週榜",
+            "eng": "爵士單曲週榜",
+            "chs": "爵士單曲週榜"
+        }
+    },
+    {
+        "id": 24,
+        "fullname": "R＆B單曲週榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64299595v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 96,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "R＆B單曲週榜",
+            "cht": "R＆B單曲週榜",
+            "eng": "R＆B單曲週榜",
+            "chs": "R＆B單曲週榜"
+        }
+    },
+    {
+        "id": 25,
+        "fullname": "騷靈單曲週榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64299602v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 96,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "騷靈單曲週榜",
+            "cht": "騷靈單曲週榜",
+            "eng": "騷靈單曲週榜",
+            "chs": "騷靈單曲週榜"
+        }
+    },
+    {
+        "id": 26,
+        "fullname": "另類單曲週榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64299588v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 100,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "另類單曲週榜",
+            "cht": "另類單曲週榜",
+            "eng": "另類單曲週榜",
+            "chs": "另類單曲週榜"
+        }
+    },
+    {
+        "id": 27,
+        "fullname": "鄉村音樂單曲週榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64299637v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 100,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "鄉村音樂單曲週榜",
+            "cht": "鄉村音樂單曲週榜",
+            "eng": "鄉村音樂單曲週榜",
+            "chs": "鄉村音樂單曲週榜"
+        }
+    },
+    {
+        "id": 28,
+        "fullname": "雷鬼單曲週榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64299623v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 35,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "雷鬼單曲週榜",
+            "cht": "雷鬼單曲週榜",
+            "eng": "雷鬼單曲週榜",
+            "chs": "雷鬼單曲週榜"
+        }
+    },
+    {
+        "id": 29,
+        "fullname": "英美金曲榜",
+        "region": "hk",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/23026388v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 156,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "英美金曲榜",
+            "cht": "英美金曲榜",
+            "eng": "英美金曲榜",
+            "chs": "英美金曲榜"
+        }
+    }
+]
