@@ -1,0 +1,97 @@
+[
+    {
+        "id": 34,
+        "fullname": "Hip-Hop / Rap Singles Weekly Chart",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64301474v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 99,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "Hip-Hop / Rap Singles Weekly Chart",
+            "cht": "Hip-Hop / Rap Singles Weekly Chart",
+            "eng": "Hip-Hop / Rap Singles Weekly Chart",
+            "chs": "Hip-Hop / Rap Singles Weekly Chart"
+        }
+    },
+    {
+        "id": 35,
+        "fullname": "Electronic / Dance Singles Weekly Chart",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64301481v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 100,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "Electronic / Dance Singles Weekly Chart",
+            "cht": "Electronic / Dance Singles Weekly Chart",
+            "eng": "Electronic / Dance Singles Weekly Chart",
+            "chs": "Electronic / Dance Singles Weekly Chart"
+        }
+    },
+    {
+        "id": 36,
+        "fullname": "Rock Singles Weekly Chart",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64301418v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 100,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "Rock Singles Weekly Chart",
+            "cht": "Rock Singles Weekly Chart",
+            "eng": "Rock Singles Weekly Chart",
+            "chs": "Rock Singles Weekly Chart"
+        }
+    },
+    {
+        "id": 37,
+        "fullname": "Soundtrack Singles Weekly Chart",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/64301509v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 98,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "Soundtrack Singles Weekly Chart",
+            "cht": "Soundtrack Singles Weekly Chart",
+            "eng": "Soundtrack Singles Weekly Chart",
+            "chs": "Soundtrack Singles Weekly Chart"
+        }
+    },
+    {
+        "id": 38,
+        "fullname": "UK/US Chart",
+        "region": "my",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.kfs.io/playlist/global/23026415v1/cropresize/300x300.jpg",
+                "icon": "ic_chart"
+            }
+        },
+        "count": 155,
+        "updated_at": "2019-05-02 01:01:24",
+        "fullname_localize": {
+            "default": "UK/US Chart",
+            "cht": "UK/US Chart",
+            "eng": "UK/US Chart",
+            "chs": "UK/US Chart"
+        }
+    }
+]
