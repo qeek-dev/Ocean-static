@@ -24,6 +24,14 @@ OceanKTV v2 requires:
 - **Request songs by folder is not supported.**
 - **Not compatiable with current OceanV1 mobile apps, OceanV2 mobile app is coming soon.**
 
+### v2.2.2
+---
+- `Fix` [Bug [227353](https://bugzilla.qnap.com.tw/show_bug.cgi?id=227353)] 修正 OceanKTV 安裝相依性判斷問題
+
+### v2.2.1
+---
+- 未作任何調整，將 v2.2.0 qpkg 重新打包成 v2.2.1 後上架至 app center。原因是先前將 v2.2.0 作為 beta 上架，以現有的 app center 更新機制要 release qpkg，得將 qpkg 版號異動再上架 app center 才會出現更新通知。故將 v2.2.0 qpkg 重新打包成 v2.2.1 並上架。
+
 ### v2.2.0
 ---
 ##### Server
