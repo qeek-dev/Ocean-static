@@ -24,6 +24,14 @@ OceanKTV v2 requires:
 - **Request songs by folder is not supported.**
 - **Not compatiable with current OceanV1 mobile apps, OceanV2 mobile app is coming soon.**
 
+
+### v2.2.3
+---
+##### Server
+- `Fix` [Bug [QTSHDST0-207](https://qnap-jira.qnap.com.tw/browse/QTSHDST0-207)] 修正初始化失敗導致 HDMI 輸出無聲音問題
+- `Feature` [Spec [QTSHDST0-203](https://qnap-jira.qnap.com.tw/browse/QTSHDST0-203)] 針對部分機種進行性能調整
+
+
 ### v2.2.2
 ---
 - `Fix` [Bug [227353](https://bugzilla.qnap.com.tw/show_bug.cgi?id=227353)] 修正 OceanKTV 安裝相依性判斷問題
