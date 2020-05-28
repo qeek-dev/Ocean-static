@@ -103,7 +103,7 @@
             {
                 "type":"hdmi",
                 "hw_value":"hw:0,3",
-                "eld_path":"/proc/asound/Intel/eld#2.0",
+                "eld_path":"/proc/asound/PCH/eld#2.0",
                 "display":null,
                 "selected":false,
                 "connected":false
@@ -111,7 +111,7 @@
             {
                 "type":"hdmi",
                 "hw_value":"hw:0,7",
-                "eld_path":"/proc/asound/Intel/eld#2.1",
+                "eld_path":"/proc/asound/PCH/eld#2.1",
                 "display":null,
                 "selected":false,
                 "connected":false
