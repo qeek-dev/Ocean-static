@@ -25,7 +25,13 @@ OceanKTV v2 requires:
 - **Not compatiable with current OceanV1 mobile apps, OceanV2 mobile app is coming soon.**
 
 
-### v2.2.3
+### v2.2.4
+---
+##### Server
+- `Fix` [Bug [QTSOKTV0-39](https://qnap-jira.qnap.com.tw/browse/QTSHDST0-207)] [Mantis#68923 69272][OceanKTV][Player] Failed to play MKV file.
+- `Enhancement` Update youtube-dl default as script.oceanktv.youtube.dl-2020.1218.0.zip
+
+### v2.2.3 for TS-X73
 ---
 ##### Server
 - `Fix` [Bug [QTSHDST0-207](https://qnap-jira.qnap.com.tw/browse/QTSHDST0-207)] 修正初始化失敗導致 HDMI 輸出無聲音問題
