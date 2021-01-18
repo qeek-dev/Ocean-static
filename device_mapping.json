@@ -19,7 +19,8 @@
                 "display":"Built-in Microphone Input",
                 "selected":false,
                 "connected":false,
-                "eld_path":null
+                "eld_path":null,
+                "optional": true
             }
         ],
         "TS-X51":null,
@@ -53,7 +54,8 @@
                 "display":"Built-in Microphone Input",
                 "selected":false,
                 "connected":false,
-                "eld_path":null
+                "eld_path":null,
+                "optional": true
             }
         ],
         "TS-X73":[
@@ -122,7 +124,8 @@
                 "display":"Audio Line Out / Speaker",
                 "selected":false,
                 "connected":false,
-                "eld_path":null
+                "eld_path":null,
+                "optional": true
             }
         ],
         "TS-X51":[
@@ -240,7 +243,8 @@
                 "display":"Audio Line Out / Speaker",
                 "selected":false,
                 "connected":false,
-                "eld_path":null
+                "eld_path":null,
+                "optional": true
             }
         ],
         "TS-470":[
